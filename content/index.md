@@ -4,6 +4,24 @@ title: Home
 
 Hello, and welcome to my personal digital garden! This is where I upload my study and synthesis notes from time to time, documenting my learning process as I expand the horizon of my knowledge.
 
+- [[./00 - General Notes/⚖️ Disclaimer and Terms of Use|⚖️ Disclaimer and Terms of Use]]
+- [[./00 - General Notes/📄 Blog and Resources|📄 Blog and Resources]]
+- [[./00 - General Notes/🔎 Browse by Areas of Interest|🔎 Browse by Areas of Interest]]
+- [[./00 - General Notes/🔶 RSS Feed|🔶 RSS Feed]]
+- [[./00 - General Notes/🤵 About Me|🤵 About Me]]
+- [[./01 - By Profession/PH LECPA/💵 PH LECPA|💵 PH LECPA]]
+- [[./99 - Miscellaneous/Buttons|Buttons]]
+- [[./99 - Miscellaneous/Periodic Notes/Daily Notes/2024-09-17|2024-09-17]]
+- [[./99 - Miscellaneous/Templates/02 - Note Synthesis|02 - Note Synthesis]]
+- [[./99 - Miscellaneous/Templates/01 - Draft Template|01 - Draft Template]]
+- [[./99 - Miscellaneous/Templates/12 - Definition|12 - Definition]]
+- [[./99 - Miscellaneous/Templates/98 - Daily Note|98 - Daily Note]]
+- [[./99 - Miscellaneous/Templates/11 - Statute Reference|11 - Statute Reference]]
+- [[./99 - Miscellaneous/Templates/99 - Weekly Note|99 - Weekly Note]]
+- [[./99 - Miscellaneous/YAML List Selectors|YAML List Selectors]]
+- [[index|index]]
+
+
 ## The Era of Digital Gardens
 
 > “A garden is a collection of evolving ideas that aren't strictly organised by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.” —[Maggie Appleton, on A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
