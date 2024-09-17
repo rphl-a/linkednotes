@@ -10,8 +10,9 @@
 Last updated September 15, 2024.
 
 ## Attribution
-1. Obsidian
-2. Quartz
-3. Primary Theme
-4. Inter
-5. IBM Plex Mono
+1. [Obsidian](https://obsidian.md/), as the primary note-taking app of the author.
+2. [Quartz](https://github.com/jackyzha0/quartz), as back-end for this website.
+3. [Primary Theme](https://github.com/primary-theme/obsidian), as theme inspiration for this website.
+4. [Inter font](https://fonts.google.com/specimen/Inter)
+5. [IBM Plex Mono font](https://fonts.google.com/specimen/IBM+Plex+Mono)\
+6. [obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe)
