@@ -12,11 +12,11 @@ export const sharedPageComponents: SharedLayout = {
       // from data-repo
       repo: 'rphl-a/linkednotes',
       // from data-repo-id
-      repoId: 'R_kgDOMyPZsg',
+      repoId: 'R_kgDOMzBPNg',
       // from data-category
       category: 'Announcements',
       // from data-category-id
-      categoryId: 'DIC_kwDOMyPZss4CigRz',
+      categoryId: 'DIC_kwDOMzBPNs4CijMX',
     }
   }),
 ],	
