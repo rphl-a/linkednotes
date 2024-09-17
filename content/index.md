@@ -11,7 +11,7 @@ Hello, and welcome to my personal digital garden! This is where I upload my stud
 - [[./00 - General Notes/🤵 About Me|🤵 About Me]]
 - [[./01 - By Profession/PH LECPA/💵 PH LECPA|💵 PH LECPA]]
 - [[./99 - Miscellaneous/Buttons|Buttons]]
-- [[./99 - Miscellaneous/Periodic Notes/Daily Notes/2024-09-17|2024-09-17]]
+- [[../2024-09-17|2024-09-17]]
 - [[../02 - Note Synthesis|02 - Note Synthesis]]
 - [[../01 - Draft Template|01 - Draft Template]]
 - [[../12 - Definition|12 - Definition]]
