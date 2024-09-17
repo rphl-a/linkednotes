@@ -1,3 +1,102 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.center article a{
+	text-decoration-line: underline;
+	text-decoration-thickness: 1px;
+	font-weight: 450;
+}
+
+.center p, li{
+	font-weight: 450;
+}
+
+:root {
+	& a{
+		&.external {
+			color: #329562;
+			&:hover {
+				color: #3EB174;
+			}
+		}
+		&.internal {
+			background-color: transparent;
+			color: #D79719;
+			&:hover {
+				color: #ECB936;
+			}
+		}
+	}
+	& em{
+		color: #22729B;
+		& strong {
+			color: #432E14;
+		}
+	}
+	& blockquote {
+		background-color: #FCFAF8;
+	}
+	& .text-highlight {
+		color: #593E22;
+		background-color: #FFBB0033;
+		border-radius: 2px;
+	}	
+}
+
+:root[saved-theme=dark] {
+	& a{
+		&.external {
+			color: #2EA873;
+			&:hover {
+				color: #4EC68E;
+			}
+		}
+		&.internal {
+			background-color: transparent;
+			color: #E5AA1F;
+			&:hover {
+				color: #E2BD60;
+			}
+		}
+	}
+	& em{
+		color: #4DB2D1;
+		& strong {
+			color: #EBDAC6;
+		}
+	}
+	& strong {
+		color: #F35044 !important;
+	}
+	& blockquote {
+		background-color: #231E1A;
+	}
+	& .text-highlight {
+		color: #D7C0A3;
+		background-color: #FFBB0033;
+		border-radius: 2px;
+	}
+}
+
+.callout.is-collapsible .callout-title {
+	cursor: pointer;
+}
+
+.page article strong {
+	color: #F35044;
+}
+
+.page-title a{
+	color: var(--dark);
+	&:hover{
+		color: var(--secondary)
+	}
+}
+
+.popover-hint .breadcrumb-container {
+	display: none;
+}
+
+.popover-hint .article-title {
+	margin-top: 20px;
+}

@@ -5,11 +5,25 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'rphl-a/linkednotes',
+      // from data-repo-id
+      repoId: 'R_kgDOMyPZsg',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOMyPZss4CigRz',
+    }
+  }),
+],	
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "View Source": "https://github.com/rphl-a/linkednotes",
+	  "Twitter": "https://x.com/aciloraphael",
     },
   }),
 }
@@ -26,12 +40,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+	Component.Darkmode(),
+	Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
@@ -43,8 +56,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+	Component.Darkmode(),
   ],
-  right: [],
+  right: [
+	Component.Graph(),
+	Component.Backlinks(),
+  ],
 }

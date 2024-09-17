@@ -6,6 +6,12 @@ prof
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
+.desktop
+.trash
 private/
 .replit
 replit.nix
+templates
+99 - Miscellaneous/Periodic Notes
+99 - Miscellaneous/Templates
+.smart-env
