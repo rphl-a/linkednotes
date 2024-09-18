@@ -24,7 +24,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "View Source": "https://github.com/rphl-a/linkednotes",
 	  "Twitter": "https://x.com/aciloraphael",
-	  "Personal Site": "https://rphl-a.github.io",
+	  "Personal Site": "https://rphla.wordpress.com",
     },
   }),
 }
