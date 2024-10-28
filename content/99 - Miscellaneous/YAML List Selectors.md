@@ -5,5 +5,4 @@ rule-category:
   - Act of Congress
   - Presidential Decree
   - Executive Order
-speaker-list: 
 ---
