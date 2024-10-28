@@ -1,3 +1,5 @@
+==(Still Under Construction)==
+
 Hello!
 
 My name is Raphael Palisoc Acilo. I am a graduate of the Bachelor of Science in Accountancy program in De La Salle University-Dasmariñas. I have also served the University Student Government from the same educational institution for three administrations. My primary advocacies are primarily focused on continuous process improvement, genuine service, and good governance.
@@ -43,7 +45,7 @@ Lastly, I also used to own these handheld devices:
 - Favourite music genre
 - Favourite colours
 - Knowledge and skills (likes improvements)
-- British English
+- British English (lang)
 
 ## Socials
 - [Facebook](https://www.facebook.com/aciloraphael/)
