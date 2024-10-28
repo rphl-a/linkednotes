@@ -13,8 +13,7 @@
 - [[📖 Harvard Online Courses|📖 Harvard Online Courses]]
 - [[📖 Lean Six Sigma|📖 Lean Six Sigma]]
 
-## By Organization
-- [[🪶 DLSU-D USG|🪶 DLSU-D USG]] (not yet started)
-
 ## Miscellaneous
 - [[./📄 Blog and Resources|📄 Blog and Resources]]
+- [[./⚖️ PH Statutes|⚖️ PH Statutes]]
+- 
