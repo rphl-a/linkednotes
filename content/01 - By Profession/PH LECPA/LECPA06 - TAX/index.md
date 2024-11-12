@@ -6,6 +6,10 @@ aliases:
 
 (Description of PH Taxation)
 
+Sources:
+- REO B9
+- ReSA DLSU-D Integrated Review (2023-2024)
+
 ## REO B9 First PB Coverage
 
 - [[./TAX-01 - Principles of Taxation|TAX-01 - Principles of Taxation]]
