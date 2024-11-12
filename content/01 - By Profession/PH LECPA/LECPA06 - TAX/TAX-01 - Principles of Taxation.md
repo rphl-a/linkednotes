@@ -3,40 +3,248 @@ title:
 tags:
   - draft
   - private
-date-held: 2024-09-18T10:28:00
-speaker-list: 
+date-held: ""
+speaker-list:
+  - Rex B. Banggawan, CPA, MBA
 synthesis: true
 ---
 
 ## Preliminaries
-…
 
+Handouts 01 and 02 → Fundamental Principles of Taxation
+- May sariling technicalities compared to FAR
+- Fundamental principles under taxation is essential
+- For questions, insert it in a Word document then send it to Sir Banggawan
+- Be flexible; tax laws are always subject to change
+
+- Watch checklist
+	- [x] Taxation Review Guide
+	- [x] Definition of Taxation…
+	- [x] Purpose and Scope
+	- [x] Inherent Limitations
+	- [x] Constitutional Limitations of Taxation
+	- [ ] Situs of Taxation
+	- [ ] Double Taxation and Remedies
+	- [ ] Escapes from Taxation
+	- [ ] Principles of a Sound Tax System
 ## Notes
-…
+- Inherent powers of the state → powers vested in the government and need not be provided by basic law- the government can exercise these inherent powers in governing a nation- of providing the **common needs** to a nation.
+	- The government is formed through a basic law, enacted by the people
+- Fundamental Principles of Taxation
+	- Definition of Taxation
+		- [/] Power → inherent power of the state to demand enforced contribution for public purpose to support the government
+			- Taxation is a power because it is a mandatory imposition by the government. It compels the citizens of a country to contribute to the nation.
+			- The powers (as definition of taxation)
+				- Taxation
+				- Eminent domain → to take private property for ==public use==
+					- Right of the government to take property for public use
+				- Police power → enforce laws to protect the well-being of the people
+					- As a form of regulating the freedom by the government
+				- If forming a government, the people need to recognize that these powers shall exist.
+				- (Refer to TAX 01 Notes)
+					- Eminent domain exercise → private entities vested with public function (i.e., public utilities)
+					- Delegation (National government - no delegation needed)
+						- Taxation → **not necessary**
+							- Not provided for in the PH Constitution
+						- Police power → Article XVI Section 6
+						- Eminent domain → 
+						- Local government units hierarchy (Congress shall delegate to LGUs)
+					- Purpose
+						- Taxation → primary purpose is to raise revenue and support of the government.
+						- Purpose → protection of well-being of the people
+						- Eminent domain → taken for public use
+					- Persons
+						- Eminent domain → only for certain places
+					- Amount of imposition
+						- Taxation → Unlimited
+							- Unlimited → no maximum nor minimum amounts
+							- [x] Further research
+						- Police power → Limited to cost of regulation
+							- i.e., penalties provided for by Special laws, such as the Penal Code
+							- [x] Licensing is a police power?
+								- Penalties if ventured without the necessary license
+								- Limited exercise of powers, ensures that experts or qualified individuals possess such licenses
+						- Eminent domain → no money involved
+					- [>] Importance
+						- Police power → most superior
+							- [ ] Further research
+					- Relationship
+						- Non-impairment clause (in contract): hindi pwede i-set aside ng government ang kanyang obligation by exercising this power;
+					- Limitations
+						- Taxation → two limitations
+							- Constitutionally limited 
+							- Inherently limited → 
+				- Similarities of the three powers
+					- They are necessary attributes to sovereignty, exists independently of the basic law but its conditions for the exercise of a government may be provided therefor.
+					- They are legislative in nature
+						- [x] Three branches of the PH government
+							- Co-equalness as a principle of checks and balances
+					- Methods in which the State interferes with private rights and property
+					- Presupposes an equivalent compensation affected by the exercise of such power, whether directly, indirectly, or remote.
+					- Exercise by LGUs may be limited by national legislature
+		- [x] Process → legislative act of laying a tax to raise income for the government to defray its necessary expenses
+			- Aspects of taxation:
+				- The Legislative authority creates and enacts laws for the imposition of tax under their statutory jurisdiction
+					- The actual power of taxation is delegated to the Congress, but the same may vest the power to tax to the LGUs
+					- Also known as the impact of taxation
+					- Refers to the levying or imposition of tax
+					- Process of creating laws:
+						- Tax bills originate from the House of Representatives. However, laws passed in the House of Representatives may be substituted with another Bill in the Senate if the same bill passed in the lower house has passed the same.
+							- ! Note: companion bills may be introduced in both House of Congress. Basta dapat may version ang HOR.
+						- After both House of Congress shall have agreed, it is sent to the President for their signature. If signed, it becomes a law. If not signed:
+							- …and vetoes the law, the affected provisions of the vetoed provision is not treated as part of the law, unless the Legislative, upon the concurrence of x number of both House of Congress, overrides the veto of the President.
+							- …and does not veto the law within x days, it becomes a law as if the President shall have sign it.
+				- The Executive authority administers tax to affected individuals
+					- Also known as the incidence of taxation
+					- Refers to the assessment and collection of tax in accordance to laws
+					- Tax is a voluntary requirement. The Executive merely collects what is due from the citizens.
+					- Issuances of Revenue Regulations and Guidelines are administrative/executive acts.
+		- [/] Mode of Cost Allocation → allocating government burden to the people
+			- Most practical definition of taxation
+			- Theories of allocation:
+				- Benefits Received Theory
+					- The more benefits received, the more tax you should pay
+					- Based on the principle of fairness.
+					- Receipt of benefit is conclusively presumed if the person is a citizen or a resident of the Philippines.
+					- Good example is Business Taxes
+				- Ability to Pay Theory
+					- [ ] TODO: Further definition
+					- Good example is Income Taxes
+					- Measures of ability to pay:
+						- Vertical Equity
+							- Correlates directly to the value of being taxed
+						- Horizontal Equity
+							- Circumstance of the taxpayer
+								- Ex.: Industry 1 has more expenses than Industry 2. Therefore, Industry 2 is taxed more.
+	- Purpose and Scope
+		- Purpose of tax
+			- Primarily: to raise revenues
+			- Secondarily:
+				- To regulate
+				- To compensate
+		- Scope of Taxation
+			- Taxation is:
+				- Supreme
+				- Comprehensive
+				- Unlimited
+				- Plenary
+				- (CUPS)
+			- Taxation includes the power to destroy
+			- ==Objects of taxation==:
+				- Businesses
+				- Interests
+				- Transactions
+				- Rights
+				- Acts
+				- Persons
+				- Properties
+				- Privileges
+	- Limitations of Taxation
+		- [ ] Inherent Limitations (TIP-END)
+			- **T**erritoriality of taxation
+				- Taxing power of the state is restricted to its territorial boundaries
+				- As a result of the Benefits Received Theory
+				- Two types of tax obligations
+					- You file (or Self Assessment Method) → voluntary
+					- You withhold
+			- Subject to **i**nternational comity or treaty
+				- Hierarchy of laws
+					- Constitution
+					- Treaties or Comity
+						- [ ] Todo: Power to treaty
+					- Laws
+				- ! UN Declaration No. 02 (equal-ness of countries)
+				- Property and income of foreign governments are not objects of taxation.
+				- Treaties and comity is subject to the principle of **reciprocity**
+				- 
+			- Tax is for **p**ublic purpose (also a Constitutional Limitation)
+				- Tax is absolutely for public purpose.
+			- Tax **e**xemption of the government
+				- Malamang..
+				- Can the PH Government tax itself?
+					- Yes, because it is not otherwise provided against in the PH Constitution
+				- SEE MATRIX TABLE BELOW
+			- **N**on-**d**elegation of the power of taxation (also a Constitutional Limitation)
+				- Only Congress can introduce legislation
+			- ==sometimes==: Rule against double taxation
+				- it is not an inherent limitation per se. It is allowed in practice, and it is not prohibited in the PH Constitution
+				- However, double taxation is given consideration by legislators.
+		- [ ] Constitutional Limitations
+			- Due process → A3 S1
+				- When the government takes property from us (i.e., as taxes), dapat in pursuant with Doctrine of Due Process
+				- Due process of collecting tax:
+					- Substantive due process → there is a legal basis for the assessment of tax
+						- It should be express, categorical, and unequivocal
+						- Obligations arising from law is not presumed
+					- Procedural due process → procedures in collecting taxes need be provided.
+						- Procedures for assessment up until collection.
+						- Also includes the prescriptive period for the claiming of tax by the lead agency
+						- Non-filing or fraudulent returns prescribes 10 years from date of discovery.
+			- Equal protection of law → A3 S1
+				- Same object, same tax rule. If there is no substantial distinction, then the same tax rule applies.
+				- No distinction shall be made (i.e., when writing laws)
+			- Uniformity → A6 S28(1)
+				- Grouped into classes and be substantially distinct from one another.
+				- Not “one tax rate for all”, esp. for income tax.
+			- Progressive system of taxation → A6 S28(1)
+				- [ ] TODO: Jurisprudence relating hereto
+				- The Congress mandates for the evolvment of a progressive system of taxation, but not necessarily restricted to a progressive one.
+					- Sir Rex: not applicable to juridical entities?
+						- Further research required..
+					- Large corporation, but many subsidiaries: if progressive system, then small tax collection.
+					- TIP: Individual tax: 25-35% threshold, lower than 25-30% corporate income tax (as one person corporation)
+				- Other types:
+					- Proportional
+					- Regressive (anti-poor)
+				- Consistent with the ability to pay theory
+			- Non-imprisonment for non-payment of debt or poll-tax → A3 S20
+				- Generally, only in good faith.
+				- However, if made in bad faith, then the person may nonetheless be held liable for fraud.
+				- Poll tax is..
+					- Personal tax; sedula; Community tax
+					- Animosity during Spanish colonization era
+				- However, non-payment of tax can result to imprisonment
+				- [ ] TODO: Further distinction from poll tax and tax itself.
+				- Tax evasion may result to imprisonment
+			- Non-impairment of obligation and contracts → A3 S10
+				- Constitutional Exemption
+				- Contractual Exemption ← also protected by the Constitution
+				- Congressional/Legal Exemption ← only the Congress may touch this
+			- Free worship rule → A3 S5
+				- Does not tax the exercise of religion
+				- [ ] Separation of church and state? Further research
+			- Non-appropriation for the benefit of sect, church, denomination, or religion → A6 S29(2)
+				- Except for those in armed forces, or penal institution, or government orphanage, or leprosarium.
+			- Exemption from religious, educational, or charitable (REC) entities → A6 S28(3)
+				- Exempted from property tax for those actually, directly, **and** exclusively used for religious, charitable, or educational purposes (Doctrine of use)
+					- If realtor has land, then catholic organization has school, the land is also exempt since the land is being used for educational purposes.
+			- Exemption of revenues and taxes (income tax) of non-stock, non-profit educational institutions → A14 S4(3)
+				- Proprietary educational institutions may be entitled to such; Provided, that the law provides therefor.
+			- Majority of members necessary for law granting tax exemption → A6 S28(4)
+				- Relative majority as default → votes only those who are present
+				- **Absolute majority** → even if absent members
+				- Adheres to the Lifeblood Doctrine
+			- Non-diversification of tax collections
+				- Only used for public purposes
+			- Non-delegation of the power to tax
+				- Synonymous with the separation of powers of the three co-equal branches of the PH Government (source: https://www.respicio.ph/bar/2025/political-law-and-public-international-law/legislative-department/legislative-power/principle-of-non-delegability-exceptions)
+					- **People v. Vera (1937)**: This case established the principle that delegation of legislative power is generally impermissible unless exceptions are provided by the Constitution. It invalidated the delegation to the provincial boards of the authority to decide which municipalities would be subject to the probation law.
+				- Exceptions:
+					- President, Flexibility Clause and Emergencies
+					- LGU
+					- Direct democracy (Initiative and Referendum)
+			- Review tax cases by the Supreme Court (A8 S5(5))
+			- Origin from HOR (A6 S24)
+			- LGUs to create its own sources of revenue (A10 S5)
+
+|        | PH Gov                                                            | Foreign |
+| ------ | ----------------------------------------------------------------- | ------- |
+| Agency | Exempt                                                            | Exempt  |
+| GOCC   | Taxable (with exceptions: Water Districts, PhilHealth, SSS, GSIS) | Exempt  |
+
 
 ## Questions and Thoughts
 …
 
 
-```meta-bind-button
-label: Create Synthesis
-icon: ""
-hidden: false
-class: ""
-tooltip: ""
-id: synthesis-notecreate
-style: default
-actions:
-  - type: replaceSelf
-    replacement: "Also view [[TAX-01 - Principles of Taxation - Synthesis|synthesis note]]"
-  - type: updateMetadata
-    bindTarget: "synthesis"
-    evaluate: false
-    value: true
-  - type: templaterCreateNote
-    templateFile: 99 - Miscellaneous/Templates/02 - Note Synthesis.md
-    fileName: ""
-    openNote: true
-    openIfAlreadyExists: true
-
-```
+Also view [[./TAX-01 - Principles of Taxation - Synthesis|synthesis note]]
