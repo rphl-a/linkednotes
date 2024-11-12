@@ -84,12 +84,14 @@ There are certain differences between the three inherent powers of the State.
 | Persons affected                      | Community of class of individuals                   | Community or class of individuals                                                           | Operates on the owner of the property                                              |
 | Purpose                               | Revenue and support of the government               | Protection of well-being of the people                                                      | Property is taken for public use                                                   |
 | Effect of transfer of property rights | Money paid as taxes becomes part of the public fund | There is no transfer of title, at most there is restraint on the injurious use of property. | There is transfer of right to property whether it be of ownership or lesser right. |
+
 We have the first table, which is very self-explanatory.
 
 | Characteristic          | Taxation                                         | Police Power                                                        | Eminent Domain                                                                        |
 | ----------------------- | ------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Necessity of Delegation | Delegation is not necessary since it is inherent | There must be delegation before local governments could exercise it | There must be due delegation before local government or private party may exercise it |
-The second table provides for how these powers may be delegated by the government, usually the highest one (in the case of the Philippines, the National Government) to the Local Government Units. Note that for both police and eminent domain powers, it must be delegated to the proper entities before its exercise may be effected. This is a restriction provided under the Philippine Constitution.’
+
+The second table provides for how these powers may be delegated by the government, usually the highest one (in the case of the Philippines, the National Government) to the Local Government Units. Note that for both police and eminent domain powers, it must be delegated to the proper entities before its exercise may be effected. This is a restriction provided under the Philippine Constitution.
 
 Also read: [[./Hierarchy of Laws|Hierarchy of Laws]]
 
@@ -103,6 +105,7 @@ However, for taxation, *delegation is not necessary*.
 | Importance                         | Most important of the three                | Most superior                                      |                                                                          |
 | Relationship with the Constitution | Inferior to the *Non-impairment clause*    | Superior to the Non-impairment clause              | Superior and may override the Non-impairment clause                      |
 | Limitation                         | Constitutionally and inherently restricted | Public interest and the requirement of due process | Public purpose and just compensation                                     |
+
 And then we have the third table… *Since the primary subject of this matter is taxation, we give emphasis on the power to tax*.
 
 The amount imposed in taxes is unlimited by nature. Meaning, the Congress (or the Local Government Units upon delegation by the Congress) may impose whatever amount as a form of tax to the people. There is no minimum amount (or floor) required to tax, and likewise, there is no maximum amount acting as a ceiling for tax collections. However, note that *the power to tax also includes the power to destroy*. Meaning, this power must be exercised responsibly and with caution to minimize injury to the proprietary rights of a taxpayer.[^1]
