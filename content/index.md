@@ -15,6 +15,6 @@ With the increasing popularity of note taking tools and their ease of publishing
 - [[./00 - General Notes/🔎 Browse by Areas of Interest|🔎 Browse by Areas of Interest]]
 - [[./00 - General Notes/⚖️ Disclaimer and Terms of Use|⚖️ Disclaimer and Terms of Use]]
 - [[./00 - General Notes/📄 Blog and Resources|📄 Blog and Resources]]
-- [[./00 - General Notes/🤵 About Me|🤵 About Me]]
-- [[./00 - General Notes/🔶 RSS Feed|🔶 RSS Feed]]
+- [🤵 About Me](https://rphl-a.github.io/)
+- [🔶 RSS Feed](https://rphl-a.github.io/linkednotes/index.xml)
 
