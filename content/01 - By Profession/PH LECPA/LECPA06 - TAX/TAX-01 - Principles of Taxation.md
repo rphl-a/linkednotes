@@ -288,7 +288,7 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 					- Premiums on life insurance
 						- Direct insurer: PRU Life UK, etc.
 						- [ ] TODO: parties to an insurance
-						- ![Pasted image 20241121203738.png](./Attachments/Pasted%20image%2020241121203738.png)
+						- ![[Pasted image 20241121203738.png|Pasted image 20241121203738.png]]
 						- (ano daw?)
 			- Allowance for tax credit
 				- Example: income taxation
@@ -334,4 +334,4 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 ## Questions and Thoughts
 …
 
-Also view [synthesis note](./TAX-01%20-%20Principles%20of%20Taxation%20-%20Synthesis.md)
+Also view [[TAX-01 - Principles of Taxation - Synthesis|synthesis note]]
