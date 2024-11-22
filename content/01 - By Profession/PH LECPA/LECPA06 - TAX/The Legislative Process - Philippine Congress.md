@@ -35,10 +35,14 @@ After both House of Congress approves to the same version, it is sent to the Pre
 
 Note that for revenue, appropriation, and tariff bills, the President may veto specific line items in the bill, but the passage of the entire bill will not be affected. This is in contrast to the veto of a regular bill, wherein its veto affects the passage of the bill in its entirety. **Line-item vetoes may still be overridden by the Congress**.
 
-Further reading: [[Hierarchy of Laws|Hierarchy of Laws]]
-
+Further reading: [[Hierarchy of Laws|Hierarchy of Laws]]  
 Continue reading: [[Tax Legislative powers|Tax Legislative powers]]
 
+## On *ex post facto* and retroactive laws
+The Philippine Constitution prohibits the enactment of a law or bill that is *ex post facto*. Ex post facto laws refer to those laws that have a retroactive effect and criminalizes an act that is not otherwise considered as a criminal act prior to the law’s effectivity.
+
+- For criminal laws, ex post facto laws are prohibited.
+- For tax laws, retroactive laws do not generally apply unless otherwise provided.[^1]
 ## Consistency of IRRs to the Law
 Note that laws may vest a government agency to craft an *Implementing Rules and Regulations* for the proper execution of such law. These IRRs shall be consistent with the provisions of the law, and shall not extend beyond what is provided for by law.
 
@@ -53,3 +57,5 @@ Appropriation, revenue, or tariff bills shall originate exclusively in the House
 - Note that an appropriation, revenue, or tariff bill **needs** to be approved and transmitted to the Senate before the latter may introduce amendments to it. Its mere introduction to the House of Representatives does not warrant the Senate to introduce a bill covering the above mentioned subject matters on its own.
 - However, companion bills are allowed since it is sent to both the House of Representatives and the Senate concurrently. Companion bills are, in essence, bills with the same version. This is often done to speed up the legislative process especially if the subject matter of a bill is of public importance.
 - Bills initially introduced in the Senate that seeks to substitute a bill originating and approved in the House of Representatives is also allowed. Because it has the same effect as if the Senate has amended the bill of the House of Representatives.
+
+[^1]: RA 386, Chapter I Article 4. Laws shall have no retroactive effect, unless the contrary is provided.
