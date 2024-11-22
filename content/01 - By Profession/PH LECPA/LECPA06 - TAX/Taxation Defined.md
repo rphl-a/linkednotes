@@ -74,7 +74,7 @@ However, the power to tax is inferior to the non-impairment clause of the Philip
 
 A contract is impaired if the terms and conditions of a contract is changed by law or by a party without the consent of the other, thereby weaking the position or rights of the latter. In simpler terms, tax cannot disturb the operation of a contract between two parties by a mere taxing statute.[^2]
 
-Lastly, the power of taxation is both constitutionally and inherently limited. Also see: [[#Limitations of Taxation| > Limitations of Taxation]]
+Lastly, the power of taxation is both constitutionally and inherently limited. Also see: [[Limitations of Taxation|Limitations of Taxation]]
 ### As a Process
 Taxation as a process refers to the levying and assessment of tax.
 - Taxes are levied/imposed through the power of the Congress.
