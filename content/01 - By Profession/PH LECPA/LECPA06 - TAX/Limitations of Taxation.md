@@ -1,7 +1,7 @@
 There are two limitations on the power to tax, and are: (a) Inherent limitations; and (b) Constitutional limitations.
 ## Inherent Limitations
 The following are the inherent limitations of taxation:
-- **Territoriality of taxation**. The power to tax is limited to the territorial boundaries of the sovereign. Tax obligations arise through laws, and are either voluntarily paid or withheld to the appropriate government agency.
+- **Territoriality of taxation**. The power to tax is limited to the territorial boundaries of the sovereign. Tax obligations arise through laws, and are either voluntarily paid or withheld to the appropriate government agency. ^55c493
 - **International comity or treaty**. Countries are generally considered as being equal with one another in accordance with Section 2 of the Universal Declaration of Human Rights. Thus, the property and income of foreign governments shall not be an object of taxation. Further, treaties entered into by the Philippine government, through the President, shall be subject to two-thirds of the Senators.
 - **Exemption to tax the government**. Various government agencies and instrumentalities are *de facto* exempted from tax. However, government-owned and controlled corporations are subject to tax unless otherwise provided by law.
 - **Public Purpose**. Taxes should accrue for the benefit of the public.
@@ -27,9 +27,7 @@ The Constitution also provides for limitations in the exercise of tax powers, an
 
 ### Tax Exemptions
 Certain persons or entities are also exempted from tax as provided for under the 1987 Philippine Constitution.
-- Exemption of religious, educational, and charitable entities. 
+- **Exemption of religious, educational, and charitable entities**. 
 	- **ARTICLE VI SECTION 28(3)**. Charitable institutions, churches and personages or convents appurtenant thereto, mosques, non-profit cemeteries, and all lands, buildings, and improvements, actually, directly, and exclusively used for religious, charitable, or educational purposes shall be exempt from taxation.
-- Exemption of non-stock, non-profit Educational Institutions
-	- **ARTICLE XIV SECTION 4(3)**. All revenues and assets of non-stock, non-profit educational institutions used actually, directly, and exclusively for educational purposes shall be exempt from taxes and duties. Upon the dissolution or cessation of the corporate existence of such institutions, their assets shall be disposed of in the manner provided by law.
-	  
-	  Proprietary educational institutions, including those cooperatively owned, may likewise be entitled to such exemptions, subject to the limitations provided by law, including restrictions on dividends and provisions for reinvestment.
+- **Exemption of non-stock, non-profit Educational Institutions**.
+	- **ARTICLE XIV SECTION 4(3)**. All revenues and assets of non-stock, non-profit educational institutions used actually, directly, and exclusively for educational purposes shall be exempt from taxes and duties. Upon the dissolution or cessation of the corporate existence of such institutions, their assets shall be disposed of in the manner provided by law. Proprietary educational institutions, including those cooperatively owned, may likewise be entitled to such exemptions, subject to the limitations provided by law, including restrictions on dividends and provisions for reinvestment.
