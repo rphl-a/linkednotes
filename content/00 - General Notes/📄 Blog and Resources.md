@@ -1,3 +1,2 @@
-- How to pick computer parts (not yet started)
-- How to evaluate phones
-- How to clean Windows
+## Guides
+- [Smartphones](https://rphl-a.github.io/posts/guides/guides-smartphones-2024/)
