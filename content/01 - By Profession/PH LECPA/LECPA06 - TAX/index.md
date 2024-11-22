@@ -3,7 +3,6 @@ title: PH Income Taxation
 aliases:
   - TAX
 ---
-
 (Description of PH Taxation)
 
 Sources:
