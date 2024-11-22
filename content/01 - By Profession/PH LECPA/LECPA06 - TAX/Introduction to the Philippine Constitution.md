@@ -7,7 +7,7 @@ The Philippines is a democratic and republican state. It is governed by a govern
 
 The National Government is divided into three co-equal departments. As co-equal departments, it has their own checks and balances over its own agency and the others. They are:
 - The Legislative Department, also known as the Congress, is divided into two House of Congress, namely the Senate and the House of Representatives. They make laws for the welfare of the public.
-- The Executive Department, or the Executive Branch, is a component of the government tasked with executing the provisions of the Philippine Constitution and its laws. Also read: [Administrative Code of 1987 (not yet done)](../../../11%20-%20Philippine%20Statutes/EO%20292%20s.%201987/INSTITUTING%20THE%20ADMINISTRATIVE%20CODE%20OF%201987.md)
+- The Executive Department, or the Executive Branch, is a component of the government tasked with executing the provisions of the Philippine Constitution and its laws. Also read: [Administrative Code of 1987 (not yet done)](../../../11%20-%20Philippine%20Statutes/EO%20292%20s.%201987/index.md)
 - The Judicial Department, reigned by the Supreme Court and such other lower courts as may be provided by law, is tasked with settling controversies and interpretations of the law (or Judicial Review)
 
 Adhering to the Doctrine of Separation of Powers, each department has distinct and non-overlapping functions over one another.
