@@ -12,8 +12,10 @@ Sources:
 
 ## REO B9 First PB Coverage
 
-- [[TAX-01 - Principles of Taxation - Synthesis|TAX-01 - Principles of Taxation - Synthesis]]
-- [[TAX-02 - Taxes, Laws and Administration|TAX-02 - Taxes, Laws and Administration]]
+- [[Fundamental Principles of Taxation|Fundamental Principles of Taxation]]
+	- Related drafts:
+		- [[TAX-01 - Principles of Taxation|TAX-01 - Principles of Taxation]]
+		- [[TAX-02 - Taxes, Laws and Administration|TAX-02 - Taxes, Laws and Administration]]
 - [[TAX-03 - Fundamentals of Income Taxation|TAX-03 - Fundamentals of Income Taxation]]
 - TAX-04 - Final Income Taxation
 	- TAX-04.1 - Income Taxation –Final Withholding Tax Table
