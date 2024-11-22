@@ -39,11 +39,14 @@ Further reading: [[Hierarchy of Laws|Hierarchy of Laws]]
 
 Continue reading: [[Tax Legislative powers|Tax Legislative powers]]
 
-- [ ] TODO: IRRs, Supreme Court ruling (spirit)
+## Consistency of IRRs to the Law
+Note that laws may vest a government agency to craft an *Implementing Rules and Regulations* for the proper execution of such law. These IRRs shall be consistent with the provisions of the law, and shall not extend beyond what is provided for by law.
 
-- [ ] TODO: Laws take time
-	- President recommend to Congress
-	- President not introduce law
+Further, laws also take time to craft. It shall never be considered as a *speedrun* to pass as much laws in the shortest time possible. However, in special cases, such as when the President shall certify a measure as urgent in times of calamities or emergencies. Thus read:
+
+> **ARTICLE VI SECTION 26(2)**. No bill passed by either House shall become a law unless it has passed three readings on separate days, and printed copies thereof in its final form have been distributed to its Members three days before its passage, ==except when the President certifies to the necessity of its immediate enactment to meet a public calamity or emergency==. Upon the last reading of a bill, no amendment thereto shall be allowed, and the vote thereon shall be taken immediately thereafter, and the yeas and nays entered in the Journal. 
+> (Emphasis added)
+
 ## Special Notes on Taxation
 Appropriation, revenue, or tariff bills shall originate exclusively in the House of Representatives. However, the Senate may propose amendments to the version approved by the House of Representatives.
 
