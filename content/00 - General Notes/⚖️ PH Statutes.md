@@ -2,5 +2,5 @@
 
 | File                                                                          | Short Title                 |
 | ----------------------------------------------------------------------------- | --------------------------- |
-| [[../11 - Philippine Statutes/EO 292 s. 1987/index\|EO 292 s. 1987]] | Administrative Code of 1987 |
+| [[11 - Philippine Statutes/EO 292 s. 1987/EO 292 s. 1987.md\|EO 292 s. 1987]] | Administrative Code of 1987 |
 

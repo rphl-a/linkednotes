@@ -17,7 +17,7 @@
 - Without six sigma:
 	- Someone with clout has good idea or takes someone’s idea
 	- Only based on past experience, believing that it will still be successful
-	- Ideas are implemented, and sometimes through [[./beta testing|beta testing]]
+	- Ideas are implemented, and sometimes through [[beta testing|beta testing]]
 	- Success of idea is weighed *after* implementation
 		- Author’s note: Essentially, the planning-execution-feedback model
 - Essentially, six sigma tries to rely on data as much as possible to reduce the variations involved in a work, which also reduces the likelihood of failure or error, and thus reduce operating costs.
