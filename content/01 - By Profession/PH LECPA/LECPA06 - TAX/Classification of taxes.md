@@ -58,4 +58,4 @@ Note that custom duties are imposed in accordance with the Tariff and Customs Co
 
 Also read: [[Philippine Tax Agencies|Philippine Tax Agencies]]
 
-[^1]: The Philippine Constitution encourages the Congress to evolve a progressive system of taxation, ==but not necessarily limited to progressive taxes==. Also read: [[Fundamental Principles of Taxation#Uniformity and Progressive System of Taxation|Evolving a Progressive System of Taxation]]
+[^1]: The Philippine Constitution encourages the Congress to evolve a progressive system of taxation, ==but not necessarily limited to progressive taxes==. Also read: [[Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]]
