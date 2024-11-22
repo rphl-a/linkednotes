@@ -44,7 +44,7 @@ Note that laws may vest a government agency to craft an *Implementing Rules and 
 
 Further, laws also take time to craft. It shall never be considered as a *speedrun* to pass as much laws in the shortest time possible. However, in special cases, such as when the President shall certify a measure as urgent in times of calamities or emergencies. Thus read:
 
-> **ARTICLE VI SECTION 26(2)**. No bill passed by either House shall become a law unless it has passed three readings on separate days, and printed copies thereof in its final form have been distributed to its Members three days before its passage, ==except when the President certifies to the necessity of its immediate enactment to meet a public calamity or emergency==. Upon the last reading of a bill, no amendment thereto shall be allowed, and the vote thereon shall be taken immediately thereafter, and the yeas and nays entered in the Journal. 
+> **ARTICLE VI SECTION 26(2)**. No bill passed by either House shall become a law unless it has passed three readings on separate days, and printed copies thereof in its final form have been distributed to its Members three days before its passage, ==except when the President certifies to the necessity of its immediate enactment to meet a public calamity or emergency==. Upon the last reading of a bill, no amendment thereto shall be allowed, and the vote thereon shall be taken immediately thereafter, and the yeas and nays entered in the Journal.  
 > (Emphasis added)
 
 ## Special Notes on Taxation
