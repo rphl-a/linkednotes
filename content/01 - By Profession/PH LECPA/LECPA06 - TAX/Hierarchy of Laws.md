@@ -8,4 +8,3 @@ Generally, the hierarchy of laws are as follow:
 Following this hierarchy, treaties must be compatible to that of a state’s basic law. Similarly, laws and decisions of the courts shall be in consonance to that of the basic law.
 
 Laws enacted by an agency also follows the concept of statutory jurisdiction. Meaning, if a legislative authority is granted the power to create laws within their scope of jurisdiction, then it may do so. *Say, in the University Student Government setup, laws enacted by the Congress takes precedence over all other Ordinances and Resolutions issued by College Student Governments and Program Councils because the University Student Government Congress has the highest statutory jurisdiction when it comes to creating laws, subject to certain provisions as may be provided under the USG Constitution.*
-
