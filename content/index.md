@@ -17,4 +17,3 @@ With the increasing popularity of note taking tools and their ease of publishing
 - [[./00 - General Notes/📄 Blog and Resources|📄 Blog and Resources]]
 - [🤵 About Me](https://rphl-a.github.io/)
 - [🔶 RSS Feed](https://rphl-a.github.io/linkednotes/index.xml)
-

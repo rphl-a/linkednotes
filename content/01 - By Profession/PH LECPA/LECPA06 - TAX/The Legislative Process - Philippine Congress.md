@@ -8,10 +8,21 @@ It is then referred to a particular committee within their House of Congress, de
 
 A bill may also be referred to a committee multiple times for as long as a legislator successfully motions for its referral. After all committee deliberations conclude, printed copies are sent to the legislators of that House of Congress three days before its eyed passage. Bills are required to have passed three readings on separate days, and the last reading of a bill shall be voted upon by the legislators.
 
-> [!note]- Majority required for approval
+> [!tip]- Majority required for approval  
 > Each House of Congress shall, unless otherwise the Philippine Constitution or its laws provides, vote on the approval and passage of legislation through a **simple relative majority**- meaning, only a simple majority of the members present shall be necessary for the passage of a subject matter.
 > 
-> This is in contrast with some subject matters, such as the provision of tax exemption by law, which requires a *simple absolute majority*, or a simple majority of all the members of the Congress, whether present or absent. 
+> This is in contrast with some subject matters, such as the provision of tax exemption by law, which requires a *simple absolute majority*, or a simple majority of all the members of the Congress, whether present or absent.
+> 
+> Further reading below…
+> 
+> Now, when it comes to the passage of legislations, a majority is defined as 50% +1. Meaning, in a measure with 260 Congresspeople present, a relative majority of 131 voting for its passage is necessary.
+> 
+> There is also no provision for a tie breaking vote vested in the Heads of each House of Congress. This is because such Heads are Congresspeople originating from their respective Houses. To vote for a tie breaking vote would mean that they would have voted twice for a subject matter.
+> 
+> If any, only matters involving the Commission on Appointments may have a tie-breaking vote by the Senate President, them being the *ex officio* Chairperson of the Commission with no voting power, except in cases of ties.
+
+> [!note]- Author’s note: Tie-breaking votes  
+> As stated above, there are no tie breaking votes in the legislative process of the Congress. This is in contrast with the United States of America, wherein the Senate President, being the concurrent Vice President of the Executive Department, may only cast their vote in case of a tie.
 
 If the bill is approved in a House of Congress, it is sent to the other House of Congress for its introduction, deliberation, and approval- generally the same process as that of the originating House.
 
@@ -26,6 +37,13 @@ Note that for revenue, appropriation, and tariff bills, the President may veto s
 
 Further reading: [[./Hierarchy of Laws|Hierarchy of Laws]]
 
+Continue reading: [[./Tax Legislative powers|Tax Legislative powers]]
+
+- [ ] TODO: IRRs, Supreme Court ruling (spirit)
+
+- [ ] TODO: Laws take time
+	- President recommend to Congress
+	- President not introduce law
 ## Special Notes on Taxation
 Appropriation, revenue, or tariff bills shall originate exclusively in the House of Representatives. However, the Senate may propose amendments to the version approved by the House of Representatives.
 
