@@ -1,0 +1,50 @@
+- Strategy to improve customer satisfaction and shareholder value
+	- by Reducing variability in every aspect of your business
+- Why use?
+	- Delivers customer satisfaction and cost improvement results faster
+- Why is it called?
+	- Sigmas are ways of measuring perfection
+		- 3 Sigma is the historical standard for 93.32% perfection
+		- 4 Sigma is the current standard for 99.38% perfection; 6000 defects per million opportunities
+		- 6 Sigma, as the future standard, as 99.9997% perfection; 3.4 errors per million opportunities
+	- The higher the sigma level, the higher the customer satisfaction and the lower the cost and cycle time.
+
+- Six Sigma as:
+	- Methodology for process improvement
+	- Statistical concept
+- Variation in a process leads to opportunities for error, which in turn leads to risk for product defects
+- Six Sigma does not remove the need for experienced leadership and does not negate the importance of intuition in any process, but work alongside it.
+- Without six sigma:
+	- Someone with clout has good idea or takes someone’s idea
+	- Only based on past experience, believing that it will still be successful
+	- Ideas are implemented, and sometimes through [[./beta testing|beta testing]]
+	- Success of idea is weighed *after* implementation
+		- Author’s note: Essentially, the planning-execution-feedback model
+- Essentially, six sigma tries to rely on data as much as possible to reduce the variations involved in a work, which also reduces the likelihood of failure or error, and thus reduce operating costs.
+- The gap between five sigma (99.97%) and six sigma (99.9997%) is huge.
+- Six sigma *perfection* is difficult and requires continuous process improvement.
+- Formula for calculating the sigma level for a given product or process is as follow:
+	- $\frac{(O-D)}{O}*100$
+		- Where:
+			- O is the number of opportunities, and
+			- D is the number of defects
+- In improving sigma level, leadership should also consider costs, resources, and estimated impact for improvements
+	- And ultimately, on how it would benefit the customers.
+- Six sigma principles
+	- Customer-focused improvement
+		- Grasp understanding of customer and their desires
+		- Can be achieved by using a value stream map and identifying areas of concern, waste, and improvement.
+	- Continuous Process improvement
+	- Variation → as much as possible, reduce variation so that customer experience may be consistent and satisfactory as much as possible (i.e., as desired levels of customer satisfaction)
+	- Removing waste → ==TODO: Lean Process Management==
+	- Equipping People → usually through a two-pronged approach
+		- First: A process improvement team is formulated
+		- Second: the improvements are implemented to the employees
+	- Controlling the Process
+		- The goal of improvement is to bring a process back within a state of statistical control, them being out of control in the first place.
+- Challenges:
+	- Lack of support
+	- Lack of resources or knowledge
+	- Poor project execution
+	- Data access issues
+	- Concerns about using Six Sigma in a specific industry
