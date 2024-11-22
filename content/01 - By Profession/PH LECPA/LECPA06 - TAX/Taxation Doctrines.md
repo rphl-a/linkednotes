@@ -1,0 +1,44 @@
+- Fundamental Doctrines in Taxation
+	- Marshall Dictum - The power to tax includes the power to destroy
+		- Allowed to confiscate or destroy properties especially in police power/regulatory power
+			- [ ] TODO: Further research
+	- Holmes Doctrine - Taxation power is the power to build
+	- Doctrine of Judicial Non-interference
+		- Relative to collection of taxes
+		- Based on the principle of checks and balances
+		- No TROs
+		- If assessment has already been made by the CIR, then if in Courts:
+			- Issues shall revolve in the correctness of assessment
+	- Imprescriptibly in Taxation
+		- As a rule, taxes will not prescribe unless otherwise provided for.
+		- Prescribe refers to a mode of extinguishing an obligation. A person waives their right to something if the same person does not exercise such right over a specified period of time.
+		- Application: return of fraudulent/non-filing of tax returns → 10 years from discovery.
+		- [ ] TODO: FURTHER RESEARCH
+	- Prospectivity of Tax Laws
+		- From moment of effectivity until amended or repealed, such law shall take effect
+		- RE: No ex post facto law
+		- Basis is always the date of taxable event.
+		- [ ] TODO: Research Constitutional Provisions or Civil Code
+	- Principle of *Strictissmi Juris*
+		- Taxation is the rule and exemption is the exception
+			- Bruh ito yung sa practice exercises sa HO1 `._.`
+		- Law is usually express, but sometimes may be vague
+			- In tax laws, in case of vagueness, Statutory Construction applies (the vague provisions is not a law, and requires further interpretation)
+				- In case of tax amounts, in favour of taxpayer and against the government (no tax law)
+				- In case of tax exemptions, in favour of the government and against the taxpayer (no exemption law)
+		- [ ] TODO: Provision in NIRC regarding interpretation
+	- Doctrine of Equitable Recoupment
+		- This doctrine is not adopted in PH setup
+			- Because Civil Code in PH is copied from Spain
+			- Tax Code is copied from US
+			- Conflict in prescription laws
+		- Meaning nonetheless:
+			- [ ] FURTHER RESEARCH?!
+		- Follows imprescriptibly of taxation instead of this
+		- Government to taxpayer is prescriptible (2 years)
+			- Meaning, if you have overpaid the government and has not claimed within 2 years a refund, then the period to claim for refund is assumed to have been waived (or already prescribed)
+				- Also see: Statute of Frauds.
+	- Non-compensation or set-off rule
+	- Doctrine of Estoppel
+		- The State cannot be estopped by neglect or errors of government officials.
+		- Operates against the taxpayer *only*.
