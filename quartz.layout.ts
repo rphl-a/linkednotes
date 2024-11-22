@@ -22,7 +22,6 @@ export const sharedPageComponents: SharedLayout = {
 ],	
   footer: Component.Footer({
     links: {
-      "View Source": "https://github.com/rphl-a/linkednotes",
 	  "Twitter": "https://x.com/aciloraphael",
 	  "Personal Site": "https://rphla.wordpress.com",
     },
