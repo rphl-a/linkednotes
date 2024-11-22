@@ -12,11 +12,11 @@ Sources:
 
 ## REO B9 First PB Coverage
 
-- [[TAX-01 - Principles of Taxation - Synthesis|TAX-01 - Principles of Taxation - Synthesis]]
-- [[TAX-02 - Taxes, Laws and Administration|TAX-02 - Taxes, Laws and Administration]]
-- [[TAX-03 - Fundamentals of Income Taxation|TAX-03 - Fundamentals of Income Taxation]]
+- [[./TAX-01 - Principles of Taxation - Synthesis|TAX-01 - Principles of Taxation - Synthesis]]
+- [[./TAX-02 - Taxes, Laws and Administration|TAX-02 - Taxes, Laws and Administration]]
+- [[./TAX-03 - Fundamentals of Income Taxation|TAX-03 - Fundamentals of Income Taxation]]
 - TAX-04 - Final Income Taxation
-	- TAX-04.1 - Income Taxation –Final Withholding Tax Tabl
+	- TAX-04.1 - Income Taxation –Final Withholding Tax Table
 - TAX-05 - Capital Gains Taxation
 - TAX-06 - Regular Income Taxation
 	- TAX-6.1 - Compensation Income
