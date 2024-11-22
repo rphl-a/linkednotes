@@ -1,15 +1,15 @@
-The Licensure Exam for Certified Public Accountants (LECPA) is a professional examination for aspiring Certified Public Accountants issued by the [Professional Regulatory Board of Accountancy](Professional%20Regulatory%20Board%20of%20Accountancy.md) under the [supervision and administrative control](../../11%20-%20Philippine%20Statutes/EO%20292%20s.%201987/Supervision%20and%20control.md) of the [Professional Regulation Commission](Professional%20Regulation%20Commission.md).
+The Licensure Exam for Certified Public Accountants (LECPA) is a professional examination for aspiring Certified Public Accountants issued by the [[Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[Supervision and control|supervision and administrative control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
 
 Generally, the practice of accountancy include the following scopes: public accountancy; commerce and industry; education and academe; and government.
 
-The Bachelor of Science in Accountancy, governed by the [Revised Policies, Standards, and Guidelines (PSGs) for the Bachelor of Science in Accountancy program](https://ched.gov.ph/wp-content/uploads/2017/10/CMO-27-s-2017.pdf) as promulgated by the [Commission on Higher Education](Commission%20on%20Higher%20Education.md), is responsible in providing the necessary foundational knowledge for the licensure exam of [Certified Public Accountants](Certified%20Public%20Accountants.md). 
+The Bachelor of Science in Accountancy, governed by the [Revised Policies, Standards, and Guidelines (PSGs) for the Bachelor of Science in Accountancy program](https://ched.gov.ph/wp-content/uploads/2017/10/CMO-27-s-2017.pdf) as promulgated by the [[Commission on Higher Education|Commission on Higher Education]], is responsible in providing the necessary foundational knowledge for the licensure exam of [[Certified Public Accountants|Certified Public Accountants]]. 
 ## Browse by subjects
 - FAR
 - AFAR
 - MS
 - AUD
 - RFBT
-- [TAX](./LECPA06%20-%20TAX/index.md)
+- [[01 - By Profession/PH LECPA/LECPA06 - TAX/index|TAX]]
 
 ---
 
