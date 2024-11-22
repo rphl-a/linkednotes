@@ -12,8 +12,8 @@ With the increasing popularity of note taking tools and their ease of publishing
 
 *This digital garden is created using [Obsidian](https://obsidian.md)– a free, markdown-based note-taking tool built primarily on the notion of creating a second brain– and [Quartz](https://github.com/jackyzha0/quartz)– a static-site generator that transforms Markdown notes into fully functional websites.*
 ## Navigation
-- [[🔎 Browse by Areas of Interest|🔎 Browse by Areas of Interest]]
-- [[⚖️ Disclaimer and Terms of Use|⚖️ Disclaimer and Terms of Use]]
-- [[📄 Blog and Resources|📄 Blog and Resources]]
+- [🔎 Browse by Areas of Interest](./00%20-%20General%20Notes/%F0%9F%94%8E%20Browse%20by%20Areas%20of%20Interest.md)
+- [⚖️ Disclaimer and Terms of Use](./00%20-%20General%20Notes/%E2%9A%96%EF%B8%8F%20Disclaimer%20and%20Terms%20of%20Use.md)
+- [📄 Blog and Resources](./00%20-%20General%20Notes/%F0%9F%93%84%20Blog%20and%20Resources.md)
 - [🤵 About Me](https://rphl-a.github.io/)
 - [🔶 RSS Feed](https://rphl-a.github.io/linkednotes/index.xml)
