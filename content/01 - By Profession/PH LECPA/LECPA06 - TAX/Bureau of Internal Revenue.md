@@ -1,0 +1,54 @@
+
+- Tax Administration
+	- Bureau of Internal Revenue (BIR)
+		- Composition:
+			- Commissioner of Internal Revenue (Chief)
+			- Deputy Commissioners (4, Assistant Chiefs)
+		- Powers of the Bureau
+			- LIST NALANG
+			- Custom duties is the job of the Bureau of Customs
+			- Collection of VAT Imports by the Bureau of Customs, but accrues to the BIR since it is a national tax.
+		- Powers of the CIR
+			- LIST NALANG DIN
+			- Power to interpret the provisions of NIRC thru RRs, upon review of Secretary of Finance
+				- [ ] TODO: CHECK LAWS (various interpretations by the academe)
+			- To decide tax cases and subject to exclusive appellate jurisdiction of the Court of Tax Appeals.
+				- [ ] TODO: Composition of SC, CA, and CTA
+			- [ ] TODO: DIFFERENT TYPES OF SUBPOENA
+			- To terminate tax period
+				- Usual scenarios: if intending to go abroad, or doing an act that may obstruct collection of taxes
+			- To compromise tax liabilities of taxpayers
+				- Grounds:
+					- Doubtful validity of assessment
+					- Financial incapacity of taxpayer
+						- Minimum is 10% of basic tax (excluding surcharges and interests)
+						- 500K and below → Regional Evaluation Board (under RDOs)
+						- 500K to 1M → CIR
+						- 1M and above → National Evaluation Board (chaired by CIR and some officers)
+							- [ ] TODO: COMPOSITION OF NEB
+			- Inventory surveillance, usually done if inventory is underreported.
+			- Prescribe presumptive gross sales or receipts
+				- Done if taxpayers does not maintain records. Gross sales or receipts for this taxpayer is presumed amount based on same industry
+			- Prescribe real estate values (for land)
+				- Zonal value
+			- To inquire into bank deposits under certain cases
+				- Bank Secrecy Law
+				- If requested by foreign governments, can be disclosed. Filipino bank accounts on other countries may also be inspected by the BIR.
+			- Cancelling tax liabilities in certain cases:
+		- Powers of the CIR that cannot be delegated
+			- LIST NALANG DIN
+				- Promulgation of RRs, including modifications
+				- Power to issue *Rulings of First Impression*
+				- Power to compromise or abate any tax liability
+					- Exceptions:
+						- Those by REBs (500K and below); and
+						- Minor criminal violations discovered by regional and district officers.
+				- Power to assign and reassign internal revenue officers to establishments where objects subject to excise tax are produced or kept.
+					- Quarry, mines, alcoholic beverages, car plants, cigarette plants, jewellery, etc.
+		- Rules in assignment to other duties:
+			- Revenue officers tasked to perform assessment and collection function shall not remain in the same assignment for more than 3 years, and to special duties, 1 year.
+			- 3 Years → General (assessment and collection)
+			- 2 Years → Excise
+			- 1 Year → Special Duties
+		- Agents and Deputies for Collection of National Internal Revenue Taxes
+		- Notes in agents and deputies for collection of national taxes
