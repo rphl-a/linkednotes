@@ -1,4 +1,4 @@
-The Licensure Exam for Certified Public Accountants (LECPA) is a professional examination for aspiring Certified Public Accountants issued by the [[Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[../../00 - General Notes/Inbox/EO 292 s. 1987/Supervision and control|supervision and administrative control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
+The Licensure Exam for Certified Public Accountants (LECPA) is a professional examination for aspiring Certified Public Accountants issued by the [[Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[Supervision and control|supervision and administrative control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
 
 Generally, the practice of accountancy include the following scopes: public accountancy; commerce and industry; education and academe; and government.
 
@@ -9,7 +9,7 @@ The Bachelor of Science in Accountancy, governed by the [Revised Policies, Stand
 - MS
 - AUD
 - RFBT
-- [[./LECPA06 - TAX/index|TAX]]
+- [[01 - By Profession/PH LECPA/LECPA06 - TAX/index|TAX]]
 
 ---
 

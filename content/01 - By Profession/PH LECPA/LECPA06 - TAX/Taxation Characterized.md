@@ -9,7 +9,7 @@ The power to tax is regarded as comprehensive, unlimited, plenary, and supreme.
 
 The power to tax is only limited by the inherent and constitutional limitations provided for under the Philippine Constitution, and the sole principal check on its abuse rests on the responsibility of the legislators to their constituents.[^1] [^2]
 
-Also see: [[./Limitations of Taxation|Limitations of Taxation]]
+Also see: [[Limitations of Taxation|Limitations of Taxation]]
 
 ## Situs of Taxation
 The situs of taxation refers to the location of the object of taxation. The place of the object is where the tax is imposed. Note that in Financial Reporting, the concept of situs do not apply, except for the disclosure of the various operating segments of the company (i.e., its geographical area).
@@ -44,7 +44,7 @@ There are three principles of a sound tax system as formulated by [[Adam Smith|A
 
 1. *Fiscal Adequacy*. Taxes collected by the government shall be sufficient to meet the demand for public expenditures.
 2. *Administrative Feasibility*. Tax shall be capable of convenient, just, and effective administration.
-3. *Theoretical Justice*. Tax is imposed with equity and certainty, and must consider the taxpayer’s ability to pay and benefits received. This is consonance with the progressive system of taxation, which in itself is a Constitutional Limitation. Also read: [[./Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]].
+3. *Theoretical Justice*. Tax is imposed with equity and certainty, and must consider the taxpayer’s ability to pay and benefits received. This is consonance with the progressive system of taxation, which in itself is a Constitutional Limitation. Also read: [[Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]].
 
 Further reading: [Principles of a Sound Tax System, by DELA PEÑA, Mark Angelo S. (2019)](https://www.projectjurisprudence.com/2019/12/principles-of-sound-tax-system.html)
 
