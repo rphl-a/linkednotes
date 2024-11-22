@@ -1,1 +1,0 @@
-- [Chapter 7 - Administrative Relationship](./Chapter%207%20-%20Administrative%20Relationship.md)

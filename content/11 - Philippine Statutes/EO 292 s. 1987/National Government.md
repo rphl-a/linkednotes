@@ -1,9 +1,0 @@
----
-title: National Government
-description: refers to the entire machinery of the central government, as distinguished from the different forms of local governments.
-tags: term
----
-
-refers to the entire machinery of the central government, as distinguished from the different forms of local governments.
-
-Also view: [INSTITUTING THE ADMINISTRATIVE CODE OF 1987](./INSTITUTING%20THE%20ADMINISTRATIVE%20CODE%20OF%201987.md).
