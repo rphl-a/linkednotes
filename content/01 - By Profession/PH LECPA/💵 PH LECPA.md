@@ -9,7 +9,7 @@ The Bachelor of Science in Accountancy, governed by the [Revised Policies, Stand
 - MS
 - AUD
 - RFBT
-- [TAX](./LECPA06%20-%20TAX/PH%20Income%20Taxation.md)
+- [TAX](./LECPA06%20-%20TAX/index.md)
 
 ---
 
