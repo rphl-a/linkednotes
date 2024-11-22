@@ -13,7 +13,7 @@ However, a progressive system of taxation is not required. The Philippine Consti
 
 This limitation is consistent with the Ability to Pay theory.
 
-Also read: [[Categories of taxation|Categories of taxation]]
+Also read: [[Classification of taxes|Classification of taxes]]
 
 ## On Double Taxation…
 
