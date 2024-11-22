@@ -13,11 +13,11 @@ However, a progressive system of taxation is not required. The Philippine Consti
 
 This limitation is consistent with the Ability to Pay theory.
 
-Also read: [[Categories of taxation|Categories of taxation]]
+Also read: [[./Categories of taxation|Categories of taxation]]
 
 ## On Double Taxation…
 
 > [!tip]+ Rule against double taxation  
 > The rule against double taxation is also not a constitutional nor an inherent limitation. However, it is given consideration by legislators, such as if an object of taxation is taxed doubly, then either of them may be exempted from tax.
 
-Also read: [[Double Taxation and Remedies|Double Taxation and Remedies]]
+Also read: [[./Double Taxation and Remedies|Double Taxation and Remedies]]

@@ -2,7 +2,7 @@ A piece of legislation seeking to be enacted as a national law- that is, as a Re
 
 The Congress is composed of two House of Congress- the House of Representatives and the Senate. The former is oftentimes referred to as the lower chamber, and the latter, as the upper chamber. *It is referred to as such because of how The Constitution of the United States of America was originally designed.*
 
-A law sought to be enacted is first introduced as a **Bill** in either House of Congress, or both of them, which is also referred to as **Companion Bills**. Except for the provision of [[Initiative and Referendum|initiative and referendum]], only a legislator serving the Congress may introduce a legislative document.
+A law sought to be enacted is first introduced as a **Bill** in either House of Congress, or both of them, which is also referred to as **Companion Bills**. Except for the provision of [[./Initiative and Referendum|initiative and referendum]], only a legislator serving the Congress may introduce a legislative document.
 
 It is then referred to a particular committee within their House of Congress, deliberated and scrutinized in accordance with the Rules as each House may provide. It may also be referred to various committees within that House.
 
@@ -35,9 +35,9 @@ After both House of Congress approves to the same version, it is sent to the Pre
 
 Note that for revenue, appropriation, and tariff bills, the President may veto specific line items in the bill, but the passage of the entire bill will not be affected. This is in contrast to the veto of a regular bill, wherein its veto affects the passage of the bill in its entirety. **Line-item vetoes may still be overridden by the Congress**.
 
-Further reading: [[Hierarchy of Laws|Hierarchy of Laws]]
+Further reading: [[./Hierarchy of Laws|Hierarchy of Laws]]
 
-Continue reading: [[Tax Legislative powers|Tax Legislative powers]]
+Continue reading: [[./Tax Legislative powers|Tax Legislative powers]]
 
 - [ ] TODO: IRRs, Supreme Court ruling (spirit)
 
