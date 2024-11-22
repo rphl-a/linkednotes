@@ -17,8 +17,6 @@ synthesis: true
 ## Questions and Thoughts
 …
 
-
-
 ```meta-bind-button
 label: Create Synthesis
 icon: ""

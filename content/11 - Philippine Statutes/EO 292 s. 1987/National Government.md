@@ -6,4 +6,4 @@ tags: term
 
 refers to the entire machinery of the central government, as distinguished from the different forms of local governments.
 
-Also view: [[./index|EO 292 s. 1987]].
+Also view: [[./INSTITUTING THE ADMINISTRATIVE CODE OF 1987|INSTITUTING THE ADMINISTRATIVE CODE OF 1987]].

@@ -7,6 +7,7 @@ date-held: ""
 speaker-list:
   - Rex B. Banggawan, CPA, MBA
 synthesis: true
+draft: true
 ---
 
 ## Preliminaries
@@ -23,16 +24,16 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 	- [x] Purpose and Scope
 	- [x] Inherent Limitations
 	- [x] Constitutional Limitations of Taxation
-	- [ ] Situs of Taxation
-	- [ ] Double Taxation and Remedies
-	- [ ] Escapes from Taxation
-	- [ ] Principles of a Sound Tax System
+	- [x] Situs of Taxation
+	- [x] Double Taxation and Remedies
+	- [x] Escapes from Taxation
+	- [x] Principles of a Sound Tax System
 ## Notes
 - Inherent powers of the state → powers vested in the government and need not be provided by basic law- the government can exercise these inherent powers in governing a nation- of providing the **common needs** to a nation.
 	- The government is formed through a basic law, enacted by the people
 - Fundamental Principles of Taxation
 	- Definition of Taxation
-		- [/] Power → inherent power of the state to demand enforced contribution for public purpose to support the government
+		- [x] Power → inherent power of the state to demand enforced contribution for public purpose to support the government
 			- Taxation is a power because it is a mandatory imposition by the government. It compels the citizens of a country to contribute to the nation.
 			- The powers (as definition of taxation)
 				- Taxation
@@ -65,7 +66,7 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 								- Penalties if ventured without the necessary license
 								- Limited exercise of powers, ensures that experts or qualified individuals possess such licenses
 						- Eminent domain → no money involved
-					- [>] Importance
+					- [>] ==Importance (ENDPOINT)==
 						- Police power → most superior
 							- [ ] Further research
 					- Relationship
@@ -74,7 +75,7 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 						- Taxation → two limitations
 							- Constitutionally limited 
 							- Inherently limited → 
-				- Similarities of the three powers
+				- [x] Similarities of the three powers
 					- They are necessary attributes to sovereignty, exists independently of the basic law but its conditions for the exercise of a government may be provided therefor.
 					- They are legislative in nature
 						- [x] Three branches of the PH government
@@ -99,7 +100,7 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 					- Refers to the assessment and collection of tax in accordance to laws
 					- Tax is a voluntary requirement. The Executive merely collects what is due from the citizens.
 					- Issuances of Revenue Regulations and Guidelines are administrative/executive acts.
-		- [/] Mode of Cost Allocation → allocating government burden to the people
+		- [x] Mode of Cost Allocation → allocating government burden to the people
 			- Most practical definition of taxation
 			- Theories of allocation:
 				- Benefits Received Theory
@@ -108,7 +109,7 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 					- Receipt of benefit is conclusively presumed if the person is a citizen or a resident of the Philippines.
 					- Good example is Business Taxes
 				- Ability to Pay Theory
-					- [ ] TODO: Further definition
+					- [x] TODO: Further definition
 					- Good example is Income Taxes
 					- Measures of ability to pay:
 						- Vertical Equity
@@ -140,7 +141,7 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 				- Properties
 				- Privileges
 	- Limitations of Taxation
-		- [ ] Inherent Limitations (TIP-END)
+		- [x] Inherent Limitations (TIP-END)
 			- **T**erritoriality of taxation
 				- Taxing power of the state is restricted to its territorial boundaries
 				- As a result of the Benefits Received Theory
@@ -169,7 +170,7 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 			- ==sometimes==: Rule against double taxation
 				- it is not an inherent limitation per se. It is allowed in practice, and it is not prohibited in the PH Constitution
 				- However, double taxation is given consideration by legislators.
-		- [ ] Constitutional Limitations
+		- [x] Constitutional Limitations
 			- Due process → A3 S1
 				- When the government takes property from us (i.e., as taxes), dapat in pursuant with Doctrine of Due Process
 				- Due process of collecting tax:
@@ -236,15 +237,101 @@ Handouts 01 and 02 → Fundamental Principles of Taxation
 			- Review tax cases by the Supreme Court (A8 S5(5))
 			- Origin from HOR (A6 S24)
 			- LGUs to create its own sources of revenue (A10 S5)
+	- Situs of Taxation
+		- Refers to the location of the object of taxation.
+		- Wherever the object of taxation is situated, then that situation should be the place of taxation.
+		- There is no situs in Financial Accounting, except for the disclosure of geographical segments of a company.
+		- Connect to limitation of tax → tax is territorial
+			- If the object of taxation is outside the territory, then it cannot be taxed.
+		- Application of situs
+			- Persons → residence of the taxpayer
+				- It is situated based on situs rules provided by law.
+				- Resident Citizens and Resident Aliens included.
+			- Community Development Tax → residence or domicile of the taxpayer
+			- Business taxes → where the business was conducted or place where the transaction took place
+				- What is the situs of a sale? (esp. in the case of multinational companies)
+					- Where the business is located
+					- Business → place of business or sales outlet
+						- If the branch is located in Japan, then applicable tax laws by Japan apply.
+			- Privilege or occupation tax - where the privilege is exercised
+			- Real property tax - where the property is located
+			- Personal property tax:
+				- Tangible - where they are physically located
+				- Intangible - domicile of the owner unless the property has acquired a situs elsewhere
+			- Income - place where the income is earned or residence or citizenship of the taxpayer
+				- Take note of the term place **OR** residence/citizenship
+				- Ex.: PH has 1M Net Income, while JP has 3M Net Income. Net Income of 4M is taxable if the taxpayer is resident or citizen of PH
+				- Gain on sale:
+					- Movable → where the actual sales took place (i.e., meet in Japan) *place of sale*
+					- Immovable → where the object is situated
+			- Transfer taxes - residence or citizenship of the taxpayer or location of the property
+			- Franchise taxes - state that grants the franchise
+			- Corporate taxes - depends on the law of incorporation
+	- [x] Double Taxation and Remedies
+		- It is a very theoretical concept.
+		- Taxing an object twice, for the same period, for the same nature, by the same tax authority.
+		- Double taxation is merely discouraged and **not** prohibited.
+		- Primary Elements: same object
+		- Secondary Elements: 
+			- Same taxing authority (state/nation)
+			- Same tax period
+			- Same tax type/nature/classification
+		- If all elements criteria are met, then it is referred to as a direct double taxation. Violates the constitutional limitation on uniformity and equality.
+			- [ ] Violates but merely prohibited?
+		- If only some element criteria are met, then it is indirect double taxation.
+		- If double taxation is caused by two different taxing authorities, then it is a international double taxation.
+		- If there is double taxation, then the government may provide for remedies, and are as follow:
+			- Provision of tax exemption
+				- Example: tax on dividends
+					- Subject to 10% dividend tax if individual; Exempt if received by corporation
+				- Example: business taxation
+					- Premiums on life insurance
+						- Direct insurer: PRU Life UK, etc.
+						- [ ] TODO: parties to an insurance
+						- ![[./Attachments/Pasted image 20241121203738.png|Pasted image 20241121203738.png]]
+						- (ano daw?)
+			- Allowance for tax credit
+				- Example: income taxation
+					- Payments paid in other countries may be applied for an allowance tax credit for payments of tax in the PH.
+			- Allowance for principle of reciprocity
+				- International Comity
+				- Ex.: Reciprocity between PH and USA
+					- If PH reduces tax by 15% for a subject matter, then USA would also reduce tax by 15% for this country, if there is an agreement thereto.
+			- Enter into treaties or agreements with foreign government
+				- Also International Comity
+	- Escapes from Taxation
+		- Will not result to loss in govt revenue
+			- Shifting → transfer of tax burden from statutory taxpayer to another. Good example is business and donors tax. Shifted from one person to another.
+			- Capitalization → shouldered by the buyers. Good example is excise tax.
+			- Transformation → shouldered by manufacturers, increasing quantity of production and therefore resulting to increased gains.
+		- Result to loss in govt revenue
+			- Tax evasion → ILLEGAL (aka. tax dodging)
+			- Tax avoidance, or tax minimization → through legal means provided for by law.
+			- Tax exemption
+		- Tax Amnesty → pardon provided to qualified taxpayers. applies retrospectively. Intentional overlooking of guilty of tax evasion or violation of tax laws. Primarily used to make someone part of the society again in a clean slate.
+			- Conditions are provided in tax amnesties
+			- Condones criminal, civil, and administrative penalties.
+		- Tax Condonation → applies prospectively. Only condones civil penalties.
+		- TODO
+			- Difference between shifting, capitalization, and transformation
+			- Difference between amnesty and condonation and exemption
+	- Principles of a Sound Tax System
+		- A product of thinking one genius- *Adam Smith*. Specifically, *Wealth of Nations*.
+		- These are not constitutional provisions, except for Theoretical Justice: progressive system of taxation.
+		- Fiscal adequacy → taxes collected shall be sufficient to meet public expenditures
+		- Administrative feasibility → capable of convenient, just, and effective administration
+		- Theoretical justice → imposed with equity and certainty, and must consider the taxpayers’ ability to pay and benefits received.
+			- Dapat makaturungan yung pangongolekta and consistent with the *Ability to pay* theory.
+		- Progressive system of taxation General Register
+- Handouts
+	- See physical notes
 
 |        | PH Gov                                                            | Foreign |
 | ------ | ----------------------------------------------------------------- | ------- |
 | Agency | Exempt                                                            | Exempt  |
 | GOCC   | Taxable (with exceptions: Water Districts, PhilHealth, SSS, GSIS) | Exempt  |
 
-
 ## Questions and Thoughts
 …
-
 
 Also view [[./TAX-01 - Principles of Taxation - Synthesis|synthesis note]]

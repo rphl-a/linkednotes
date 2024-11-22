@@ -6,4 +6,4 @@ tags: term
 
 refers to a local government or a district unit therein
 
-Also view: [[./index|EO 292 s. 1987]].
+Also view: [[./INSTITUTING THE ADMINISTRATIVE CODE OF 1987|INSTITUTING THE ADMINISTRATIVE CODE OF 1987]].
