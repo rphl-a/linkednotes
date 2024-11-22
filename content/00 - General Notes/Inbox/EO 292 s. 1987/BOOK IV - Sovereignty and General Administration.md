@@ -1,1 +1,0 @@
-- [[./Chapter 7 - Administrative Relationship|Chapter 7 - Administrative Relationship]]
