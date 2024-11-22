@@ -1,8 +1,6 @@
 ---
 title: 
-tags:
-  - draft
-  - private
+tags: []
 date-held: ""
 speaker-list:
   - Rex B. Banggawan, CPA, MBA
