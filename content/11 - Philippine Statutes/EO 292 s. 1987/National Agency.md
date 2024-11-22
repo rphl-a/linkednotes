@@ -6,4 +6,4 @@ tags: term
 
 refers to a unit of the National Government
 
-Also view: [[11 - Philippine Statutes/EO 292 s. 1987/index|11 - Philippine Statutes/EO 292 s. 1987/index]].
+Also view: [[EO 292 s. 1987|EO 292 s. 1987]].
