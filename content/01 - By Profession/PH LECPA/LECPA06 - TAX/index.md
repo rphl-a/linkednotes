@@ -12,7 +12,7 @@ Sources:
 
 ## REO B9 First PB Coverage
 
-- [[./TAX-01 - Principles of Taxation|TAX-01 - Principles of Taxation]]
+- [[./TAX-01 - Principles of Taxation - Synthesis|TAX-01 - Principles of Taxation - Synthesis]]
 - [[./TAX-02 - Taxes, Laws and Administration|TAX-02 - Taxes, Laws and Administration]]
 - [[./TAX-03 - Fundamentals of Income Taxation|TAX-03 - Fundamentals of Income Taxation]]
 - TAX-04 - Final Income Taxation
@@ -36,4 +36,3 @@ Sources:
 - TAX-16 - Tax Remedies
 - TAX-17 - Local Taxation
 - TAX-18 - Preferential Taxation
-
