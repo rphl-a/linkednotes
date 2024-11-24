@@ -8,7 +8,7 @@ The Philippines is a democratic and republican state. It is governed by a govern
 The National Government is divided into three co-equal departments. As co-equal departments, it has their own checks and balances over its own agency and the others. They are:
 - The Legislative Department, also known as the Congress, is divided into two House of Congress, namely the Senate and the House of Representatives. They make laws for the welfare of the public.
 - The Executive Department, or the Executive Branch, is a component of the government tasked with executing the provisions of the Philippine Constitution and its laws. Also read: [[EO 292 s. 1987|Administrative Code of 1987 (not yet done)]]
-- The Judicial Department, reigned by the Supreme Court and such other lower courts as may be provided by law, is tasked with settling controversies and interpretations of the law (or Judicial Review)
+- The Judicial Department, reigned by the [[Supreme Court|Supreme Court]] and such other lower courts as may be provided by law, is tasked with settling controversies and interpretations of the law (or Judicial Review)
 
 Adhering to the Doctrine of Separation of Powers, each department has distinct and non-overlapping functions over one another.
 
@@ -26,7 +26,7 @@ Meanwhile, the Local Government is divided into various administrative subdivisi
 
 The first- and second-level courts mimic the geographical organization of the country. First-level courts include the Metropolitan Trial Courts (MeTC), Municipal Trial Courts (MTC), Municipal Trial Courts in Cities (MTCC), and Municipal Circuit Trial Courts (MCTC), while the second-level court include the Regional Trial Court.
 
-The third-level court is the Court of Appeals. Other courts directly one level lower to the Supreme Court include the Sandiganbayan and the Court of Tax Appeals.
+The third-level court is the [[Court of Appeals|Court of Appeals]]. Other courts directly one level lower to the Supreme Court include the Sandiganbayan and the [[Court of Tax Appeals|Court of Tax Appeals]].
 
 > [!note]- Office of the Ombudsman  
 > The Office of the Ombudsman is an agency created under Article XI of the Philippine Constitution (Accountability of Public Officers). It investigates and prosecutes public officials. Separate from the Judicial Department.
