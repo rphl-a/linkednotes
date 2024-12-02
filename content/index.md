@@ -1,5 +1,8 @@
 ---
 title: Home
+aliases:
+  - home
+  - "000"
 ---
 
 Hello, and welcome to my personal digital garden! This is where I upload my study and synthesis notes from time to time, documenting my learning process as I expand the horizon of my knowledge.
