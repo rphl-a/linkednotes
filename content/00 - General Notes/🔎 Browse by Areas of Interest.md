@@ -13,6 +13,7 @@ Browse this digital garden according to areas of interest.
 - [[📖 Harvard Online Courses|📖 Harvard Online Courses]]
 - [[📖 Six Sigma|📖 Six Sigma]]
 - [[📖 Pru Life UK|📖 Pru Life UK]]
+- [[📖 Data Analytics Philippines|📖 Data Analytics Philippines]]
 
 ## Miscellaneous
 - [[📄 Blog and Resources|📄 Blog and Resources]]
