@@ -114,14 +114,6 @@ draft: true
 						- For law subjects:
 							- CPA may teach law subjects for accountancy students only
 							- Members of the BAR may teach law subjects to students
-			- [ ] **TODO** Code of Ethics:
-				- 1 Conceptual Framework applies to all CPAs
-				- 2 CPAs in Business (Commerce and Industry, Government, and Education)
-				- 3 CPAs in Public Practice
-				- 4 Independence standards
-					- 4A
-					- 4B
-				- Minimum Code of Ethics: 2
 			- When already a CPA, you must use a CPA Seal designed by the Board of Accountancy
 				- ![[Pasted image 20241202111444.png|Pasted image 20241202111444.png]]
 			- When signing documents:
@@ -131,7 +123,7 @@ draft: true
 				- Fourth Line: Professional Tax Receipt Number
 					- Including Date and Location of Payment
 				- [ ] TODO: Audited Financial Report
-	- [!] **TODO IMMEDIATE** When practicing the CPA Profession solo (by own name)
+	- [x] **TODO IMMEDIATE** When practicing the CPA Profession solo (by own name)
 		- Accreditation is required.
 			- Requirements:
 				- System of Quality Management
