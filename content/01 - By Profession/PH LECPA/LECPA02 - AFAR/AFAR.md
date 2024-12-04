@@ -2,6 +2,8 @@
 
 ## Topics
 
+- [[Partnership Accounting (Synthesis) - Synthesis|Partnership Accounting (Synthesis) - Synthesis]]
+- 
 [[Partnership Accounting|Partnership Accounting]]  
 [[Corporate Liquidation|Corporate Liquidation]]  
 [[Revenue Recognition|Revenue Recognition]]  
@@ -15,6 +17,10 @@
 [[Government Accounting|Government Accounting]]  
 [[Cost Accounting|Cost Accounting]]  
 [[Insurance Contracts|Insurance Contracts]]
+
+## Live Lectures Draft
+- [[AFAR-01 - Partnership Accounting|AFAR-01 - Partnership Accounting]]
+- 
 
 ## Sources
 - CPA Examination Review Manual: Advanced Financial Accounting and Reporting (Theories and Problems) by Antonio J. Dayag (2019)

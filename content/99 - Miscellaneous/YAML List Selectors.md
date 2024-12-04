@@ -5,4 +5,6 @@ rule-category:
   - Act of Congress
   - Presidential Decree
   - Executive Order
+  - CHED Memorandum Order
+  - International Financial Reporting Standard
 ---
