@@ -38,3 +38,6 @@ Sources:
 - TAX-16 - Tax Remedies
 - TAX-17 - Local Taxation
 - TAX-18 - Preferential Taxation
+
+## Live Lectures
+- [[Fundamental Concepts (TAX)|Fundamental Concepts (TAX)]]
