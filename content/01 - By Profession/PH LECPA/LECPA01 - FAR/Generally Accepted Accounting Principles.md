@@ -1,0 +1,1 @@
+Generally Accepted Accounting Principles (GAAP) refers to those principles that are generally accepted by the public. The current GAAP refers to the frameworks, standards, and interpretations issued by the [[International Financial Reporting Standard (IFRS) Foundation|International Financial Reporting Standard (IFRS) Foundation]].
