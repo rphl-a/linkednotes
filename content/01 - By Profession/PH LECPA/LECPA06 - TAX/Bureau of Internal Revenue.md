@@ -62,6 +62,7 @@ Meanwhile, the following are the powers vested to the Commissioner of Internal R
 17. To examine tax returns and determine tax due thereon
 18. To cause revenue officers and employees to make a canvass from time to time of any revenue district or region concerning taxpayers.
 
+==ENDPOINT OF SYNTHESIS==
 - [ ] Endpoint: further explanation of powers of CIR
 - [ ] (Powers that cannot be delegated)
 - [ ] (Assignment to other duties)
