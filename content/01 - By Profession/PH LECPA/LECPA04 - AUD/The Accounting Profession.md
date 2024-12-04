@@ -1,6 +1,7 @@
 ---
 title: The Accounting Profession - Synthesis
-tags: 
+tags:
+  - refine
 ---
 
 - [ ] TODO: When practicing the CPA Profession solo
@@ -38,7 +39,7 @@ If anyone shall have an average grade of lower than 75 but a grade of 75 for the
 If a grade falls below the 65 threshold (i.e., 64.99 and below), they are considered to have **failed** the licensure examinations and may retake the examinations.[^1] Individuals who shall retake and consecutively fail the licensure examinations for 2 times shall take a refresher of 24 units.
 
 The Board shall submit to the Commission the ratings obtained by each candidate 10 calendar days after the conclusion of the LE.
-## Practice of Profession
+## Practice of Profession (General)
 An accountant who shall practice the profession shall comply with the initial and continuing[^2] qualifications set forth by law:
 1. Initial requirements (one-time):
 	1. An oath taken before a member of the Board, or of any government official, authorized by the Commission, or any person authorized by law to administer oaths.
@@ -88,7 +89,18 @@ A Professional Accountant shall, at its minimum, also Indicate to their signed d
 	2. 80 flexible units in any of the abovementioned CPD Areas.
 
 ## Practice of CPA (through own business)
-…
+When practicing the Professional Accounting profession through the rendition of services, either as a solo practitioner (individual), sole proprietorship, or partnership, for public (i.e., public practice), an accreditation is required to be registered with the Commission and the Board.
+
+The following requirements need be fulfilled for an individual be accredited:
+1. A System of Quality Management
+2. 3 Years of Meaningful Experience obtained from an employer:
+	1. As a Junior Audit Assistant, regardless of actual years rendered, count as 1 year.
+	2. As an Auditor In Charge, based on actual years rendered.
+3. Only an individual, sole proprietorship (with staff), or partnership may register for the same. Corporations are not allowed to be established for public practice.
+	1. The name of the business shall contain the name/s of the CPAs, but in the case of secret partners in a partnership, their names may not appear in the name of the partnership itself (by appending the term *and company*).
+		1. Further, in the case of partnership names, the name, in case of change in the composition of partnership (i.e., in case of dissolution) may still be used for as long as there is two or more partners. However, in the case of winding the partnership (i.e., the partnership actually ceases to exist or if there is only one remaining partner), the use of the original name of partnership may still be permitted for an additional 2 years from the time said partnership was winded up.
+	2. In the case of a sole proprietorship with associates, the term *and associates* shall be appended.
+	3. No fictitious or misleading names shall be allowed, nor a name indicating that the organization specializes in a particular field.
 
 [^1]: For examinees who shall fail the Licensure Exam, they may retake the examinations without a prescriptive period of any kind, unlike for conditional passers who shall retake the non-credited subjects within a period of 2 years from the date of examinations.
 [^2]: The terms *initial* and *continuing* are not official terms used in law. I just used them because it makes explanation easier.
