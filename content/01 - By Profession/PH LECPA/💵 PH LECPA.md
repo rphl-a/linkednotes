@@ -5,9 +5,9 @@ Generally, the practice of accountancy include the following scopes: public acco
 The Bachelor of Science in Accountancy, governed by the [Revised Policies, Standards, and Guidelines (PSGs) for the Bachelor of Science in Accountancy program](https://ched.gov.ph/wp-content/uploads/2017/10/CMO-27-s-2017.pdf) as promulgated by the [[Commission on Higher Education|Commission on Higher Education]], is responsible in providing the necessary foundational knowledge for the licensure exam of [[Certified Public Accountants|Certified Public Accountants]]. 
 ## Browse by subjects
 - [[FAR|FAR]]
-- [[AFAR|AFAR]]
-- [[MS|MS]]
-- [[AUD|AUD]]
+- [[01 - By Profession/PH LECPA/LECPA02 - AFAR/index|01 - By Profession/PH LECPA/LECPA02 - AFAR/index]]
+- [[01 - By Profession/PH LECPA/LECPA03 - MS/index|01 - By Profession/PH LECPA/LECPA03 - MS/index]]
+- [[01 - By Profession/PH LECPA/LECPA04 - AUD/index|01 - By Profession/PH LECPA/LECPA04 - AUD/index]]
 - [[01 - By Profession/PH LECPA/LECPA05 - RFBT/index|01 - By Profession/PH LECPA/LECPA05 - RFBT/index]]
 - [[01 - By Profession/PH LECPA/LECPA06 - TAX/index|TAX]]
 

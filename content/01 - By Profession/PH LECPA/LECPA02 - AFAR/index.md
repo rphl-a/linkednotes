@@ -1,4 +1,9 @@
-(Short description of AFAR)
+---
+title: Advanced Financial Accounting and Reporting
+aliases:
+  - AFAR
+---
+
 ## Note Synthesis
 - [[Partnership Accounting|Partnership Accounting]]
 ## Video Lectures

@@ -1,3 +1,10 @@
+---
+title: Management Services
+aliases:
+  - MS
+  - MAS
+---
+
 ## Note Synthesis
 - [[Introduction to Management Services|Introduction to Management Services]]
 - [[Cost Behaviour and Cost-Volume-Profit Analysis (tentative name)|Cost Behaviour and Cost-Volume-Profit Analysis (tentative name)]]
