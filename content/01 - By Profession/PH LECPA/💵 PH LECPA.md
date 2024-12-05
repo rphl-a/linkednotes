@@ -8,7 +8,7 @@ The Bachelor of Science in Accountancy, governed by the [Revised Policies, Stand
 - [[AFAR|AFAR]]
 - [[MS|MS]]
 - [[AUD|AUD]]
-- RFBT
+- [[01 - By Profession/PH LECPA/LECPA05 - RFBT/index|01 - By Profession/PH LECPA/LECPA05 - RFBT/index]]
 - [[01 - By Profession/PH LECPA/LECPA06 - TAX/index|TAX]]
 
 ---
