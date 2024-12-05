@@ -17,7 +17,7 @@ This note synthesis covers the following materials:
 - [[Escapes from Taxation|Escapes from Taxation]]
 
 ## Inbox
-Also view [[TAX-01 - Principles of Taxation|draft]] for this note
+Also view [[Principles of Taxation (Draft)|draft]] for this note
 
 ## Sources
 - REO B9 Pre-recorded lectures

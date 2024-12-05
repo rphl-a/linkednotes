@@ -26,8 +26,8 @@ Relevant account titles:
 - [[Accounts Payable|Accounts Payable]]
 
 Also view draft: 
-- [[Cash to Accrual and Single Entry (Draft)|Cash to Accrual and Single Entry (Draft)]], based from IA3 Valix 2019; and
-- [[Accounting Process, Single Entry, Errors|Accounting Process, Single Entry, Errors]], based from REO Live Lecture
+- [[Cash to Accrual Basis & Single Entry (Draft)|Cash to Accrual Basis & Single Entry (Draft)]], based from IA3 Valix 2019; and
+- [[Accounting Process, Single Entry, Errors (Live)|Accounting Process, Single Entry, Errors (Live)]], based from REO Live Lecture
 
 [^1]: When converting from accrual to cash basis instead, accounts with normal debit balances go to the right side of the t-account, and vice versa. It is reversed. Also note that some accounts, such as allowance for bad debts, are not present when converting to cash basis. As such, they are ignored.
 [^2]: Payments made for sales or purchase returns are removed from the balance when computing for net sales or purchases, respectively.

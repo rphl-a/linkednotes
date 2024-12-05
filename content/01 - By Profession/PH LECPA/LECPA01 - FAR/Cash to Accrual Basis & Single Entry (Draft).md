@@ -9,7 +9,7 @@ synthesis: false
 draft: true
 ---
 
-View synthesis: [[Cash to Accrual Basis - Synthesis|Cash to Accrual Basis - Synthesis]]
+View synthesis: [[Cash to Accrual Basis|Cash to Accrual Basis]]
 
 [[International Accounting Standard No. 01|International Accounting Standard No. 01]] states that an entity shall prepare its financial statements, except for cash flow information, using the **accrual basis of accounting**.
 - An accrual basis of accounting is used when an entity recognizes items as assets, liabilities, equity, income, and expenses **when they satisfy the definitions and recognition criteria** for those elements provided under the Conceptual Framework.
