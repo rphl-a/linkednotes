@@ -73,14 +73,6 @@ draft: true
 		- → Not penal in nature, but penalties may be imposed for violation of tax laws
 - TODO: Handout answers
 ## Questions and Thoughts
-- [ ] **TODO**: [[Taxation Doctrines|Taxation Doctrines]]
-- [x] **TODO**: [[Taxation Characterized|Taxation Characterized]]
-	- [x] Elements of a Valid Tax
-	- [x] Classification of Tax
-- [ ] **TODO**: [[Philippine Tax Agencies|Philippine Tax Agencies]] ^63bd76
-	- Specifically, on collection of local taxes.
-	- [[Bureau of Internal Revenue|Bureau of Internal Revenue]]
-- [[Tax compared against similar items|Tax compared against similar items]]
 
 ```meta-bind-button
 label: Create Synthesis

@@ -1,44 +1,17 @@
-- Fundamental Doctrines in Taxation
-	- Marshall Dictum - The power to tax includes the power to destroy
-		- Allowed to confiscate or destroy properties especially in police power/regulatory power
-			- [ ] TODO: Further research
-	- Holmes Doctrine - Taxation power is the power to build
-	- Doctrine of Judicial Non-interference
-		- Relative to collection of taxes
-		- Based on the principle of checks and balances
-		- No TROs
-		- If assessment has already been made by the CIR, then if in Courts:
-			- Issues shall revolve in the correctness of assessment
-	- Imprescriptibly in Taxation
-		- As a rule, taxes will not prescribe unless otherwise provided for.
-		- Prescribe refers to a mode of extinguishing an obligation. A person waives their right to something if the same person does not exercise such right over a specified period of time.
-		- Application: return of fraudulent/non-filing of tax returns → 10 years from discovery.
-		- [ ] TODO: FURTHER RESEARCH
-	- Prospectivity of Tax Laws
-		- From moment of effectivity until amended or repealed, such law shall take effect
-		- RE: No ex post facto law
-		- Basis is always the date of taxable event.
-		- [ ] TODO: Research Constitutional Provisions or Civil Code
-	- Principle of *Strictissmi Juris*
-		- Taxation is the rule and exemption is the exception
-			- Bruh ito yung sa practice exercises sa HO1 `._.`
-		- Law is usually express, but sometimes may be vague
-			- In tax laws, in case of vagueness, Statutory Construction applies (the vague provisions is not a law, and requires further interpretation)
-				- In case of tax amounts, in favour of taxpayer and against the government (no tax law)
-				- In case of tax exemptions, in favour of the government and against the taxpayer (no exemption law)
-		- [ ] TODO: Provision in NIRC regarding interpretation
-	- Doctrine of Equitable Recoupment
-		- This doctrine is not adopted in PH setup
-			- Because Civil Code in PH is copied from Spain
-			- Tax Code is copied from US
-			- Conflict in prescription laws
-		- Meaning nonetheless:
-			- [ ] FURTHER RESEARCH?!
-		- Follows imprescriptibly of taxation instead of this
-		- Government to taxpayer is prescriptible (2 years)
-			- Meaning, if you have overpaid the government and has not claimed within 2 years a refund, then the period to claim for refund is assumed to have been waived (or already prescribed)
-				- Also see: Statute of Frauds.
-	- Non-compensation or set-off rule
-	- Doctrine of Estoppel
-		- The State cannot be estopped by neglect or errors of government officials.
-		- Operates against the taxpayer *only*.
+We first discuss the two doctrines involving the power to tax, both stemming from landmark decisions by the Supreme Court of the United States of America.
+* [[Marshall Dictum|Marshall Dictum]], in a landmark Supreme Court decision in the United States of America, stated that *the power to tax involves the power to destroy*. In the Philippine context, this dictum is used to justify the exercise of police power in discouraging certain acts and enterprises inimical to public welfare. Taxation is allowed to confiscate or destroy properties, but becomes unconstitutional if it is used in raising revenue.
+* Meanwhile, the [[Holmes Doctrine|Holmes Doctrine]] holds that *the power to tax is the power to build*. This is contrary to the Marshall Dictum’s power to destroy in the exercise of power to tax.
+
+While contradictory at first, G.R. No. 187485 attempts to shed some light into this matter. Thus read by a dissenting opinion by Justice Tinga:
+
+> Taxes may be inherently punitive, but when the fine line between damage and destruction is crossed, the courts must step forth and cut the hangman's noose. Justice Holmes once confidently asserted that ‘the power to tax is not the power to destroy while this Court sits’ and we should very well live up to this expectation not only of the revered Holmes, but of the Filipino people who rely on this Court as the guardian of their rights. At stake is the right to exist and subsist despite taxes, which is encompassed in the due process clause.
+
+## Other Taxation Doctrines
+The following are also important doctrines relating to the State’s power to tax:
+- **Doctrine of Judicial Non-interference**, or sometimes referred to as *judicial stability*, refers to the non-interference of courts within equal and coordinate jurisdiction.
+- **Imprescriptibly of Taxation**, wherein taxes are subject to a prescriptive period for assessment and collection. Examples include the action for claim of refund by a taxpayer, which prescribes after two-years. *If the action for it has already prescribed, the taxpayer may no longer raise a claim for taxes paid to the courts*.
+- **Prospectivity of Tax Laws**, which states that generally, tax laws shall apply prospectively unless otherwise legislatively intended by express terms or by necessary implication. This is in resonance with Chapter 1 Article 4 of the New Civil Code, which states that *laws shall have no retroactive effect, unless the contrary is provided*.
+- **Strictissimi Juris**, or *in accordance to the strictest interpretation of the law*, which is necessary if cases relating to interpretation of tax laws is raised before the Supreme Court. As a rule, taxes paid are liberally in favour of the taxpayer and construed against the government, but for tax exemptions, the contrary is true.
+- ~~**Doctrine of Equitable Recoupment**~~ is a principle which allows a taxpayer, whose claim for refund has been barred due to prescription, to recover said tax by setting off the prescribed refund against a tax that may be due and collectible from them. However, the Philippine Supreme Court rejected this doctrine because it may work to tempt both parties to delay and neglect their respective pursuits of legal action within the period set by law. *This doctrine is inoperable, and the principle relating to ==imprescriptibly== apply*.
+- ~~**Non-compensation or set-off rule**~~ is a principle where two persons, in their own right, are creditors and debtors to each other, and compensation may be applied for the settlement of pending obligation. *However, this doctrine, too, is inoperable* because (a) tax laws are governed by the National Internal Revenue Code and not the Civil Code; (b) tax is not a category of obligation; and (c) taxes are the lifeblood of the government, and hence, their speedy collection and availability are an imperious need.
+- [[Doctrine of Estoppel|Doctrine of Estoppel]], which states that the State cannot be put in estoppel by mistakes or errors of its officials or agents. *This operates only in favour of the taxpayer*.

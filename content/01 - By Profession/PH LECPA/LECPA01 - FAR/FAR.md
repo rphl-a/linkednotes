@@ -3,6 +3,7 @@ title: Financial Accounting and Reporting
 aliases:
   - FAR
 ---
+
 ## Note Synthesis
 - [[Cash to Accrual Basis|Cash to Accrual Basis]]
 - Asset Accounts
@@ -85,4 +86,3 @@ aliases:
 - REO Batch 9 recorded and live lectures, and other materials
 - Intermediate Accounting 1, 2, and 3, by Valix et al., 2019 onwards
 - Standards issued by the [[International Financial Reporting Standard (IFRS) Foundation|International Financial Reporting Standard (IFRS) Foundation]]
-
