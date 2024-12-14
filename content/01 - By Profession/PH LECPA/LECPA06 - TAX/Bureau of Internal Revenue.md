@@ -1,3 +1,8 @@
+---
+aliases:
+  - BIR
+---
+
 The Bureau of Internal Revenue is a government agency tasked with the collection of all internal revenue taxes, fees, and charges, as well as the enforcement of all forfeitures, penalties, and fines connected with these including the execution of judgements for which is has police powers.
 
 It is under the Department of Finance, headed by incumbent Secretary Ralph Recto, and the bureau itself headed by incumbent Commissioner Romeo D. Lumagui Jr.
@@ -28,6 +33,15 @@ It is organized into the following offices:
 	- Large Taxpayers Service
 	- Revenue Data Centre
 
+## Revenue Issuances
+The Bureau may issue the following Revenue Issuances for the following purposes:"
+- [[Revenue Regulations|Revenue Regulations]], which are issued by the Secretary of Finance upon recommendation of the Commissioner that specify, prescribe, or define rules and regulations for the effective enforcement of the provisions of the [[National Internal Revenue Code|National Internal Revenue Code]] and related statutes.
+- [[Revenue Memorandum Orders|Revenue Memorandum Orders]] are issuances that provide directives or instructions, prescribe guidelines, and outline processes, operations, activities, workflows, methods, and procedures necessary in the implementation of stated policies, goals, objectives, plans and programs of the Bureau in all areas of operations, except auditing.
+- [[Revenue Memorandum Circulars|Revenue Memorandum Circulars]] are issuances that publish pertinent and applicable portions, as well as amplifications of laws, rules, regulations, and precedents issued by the BIR and other agencies/offices.
+- [[Revenue Administrative Orders|Revenue Administrative Orders]] are issuances that cover subject matters dealing strictly with the permanent administrative set-up of the Bureau. Specifically, in relation to its organizational structure, statements of functions and/or responsibilities of its offices, definitions and delegations of authority, staffing and personnel requirements, and standards of performance.
+- [[Revenue Delegation of Authority Orders|Revenue Delegation of Authority Orders]] refer to functions delegated by the Commissioner to revenue officials in accordance with law.
+- [ ] RMRs?
+- [ ] Rulings → for a particular taxpayer
 ## Powers
 The following are the powers vested in the Bureau:
 1. Assessment and collection of taxes
@@ -62,66 +76,14 @@ Meanwhile, the following are the powers vested to the Commissioner of Internal R
 17. To examine tax returns and determine tax due thereon
 18. To cause revenue officers and employees to make a canvass from time to time of any revenue district or region concerning taxpayers.
 
-==ENDPOINT OF SYNTHESIS==
-- [ ] Endpoint: further explanation of powers of CIR
-- [ ] (Powers that cannot be delegated)
-- [ ] (Assignment to other duties)
-
-after the war. 
-
-- Tax Administration
-	- Bureau of Internal Revenue (BIR)
-		- Composition:
-			- Commissioner of Internal Revenue (Chief)
-			- Deputy Commissioners (4, Assistant Chiefs)
-		- Powers of the Bureau
-			- LIST NALANG
-			- Custom duties is the job of the Bureau of Customs
-			- Collection of VAT Imports by the Bureau of Customs, but accrues to the BIR since it is a national tax.
-		- Powers of the CIR
-			- LIST NALANG DIN
-			- Power to interpret the provisions of NIRC thru RRs, upon review of Secretary of Finance
-				- [x] TODO: CHECK LAWS (various interpretations by the academe)
-			- To decide tax cases and subject to exclusive appellate jurisdiction of the Court of Tax Appeals.
-				- [!] TODO: Composition of SC, CA, and CTA
-			- [!] TODO: DIFFERENT TYPES OF SUBPOENA
-			- To terminate tax period
-				- Usual scenarios: if intending to go abroad, or doing an act that may obstruct collection of taxes
-			- To compromise tax liabilities of taxpayers
-				- Grounds:
-					- Doubtful validity of assessment
-					- Financial incapacity of taxpayer
-						- Minimum is 10% of basic tax (excluding surcharges and interests)
-						- 500K and below → Regional Evaluation Board (under RDOs)
-						- 500K to 1M → CIR
-						- 1M and above → National Evaluation Board (chaired by CIR and some officers)
-							- [ ] TODO: COMPOSITION OF NEB
-			- Inventory surveillance, usually done if inventory is underreported.
-			- Prescribe presumptive gross sales or receipts
-				- Done if taxpayers does not maintain records. Gross sales or receipts for this taxpayer is presumed amount based on same industry
-			- Prescribe real estate values (for land)
-				- Zonal value
-			- To inquire into bank deposits under certain cases
-				- Bank Secrecy Law
-				- If requested by foreign governments, can be disclosed. Filipino bank accounts on other countries may also be inspected by the BIR.
-			- Cancelling tax liabilities in certain cases:
-		- Powers of the CIR that cannot be delegated
-			- LIST NALANG DIN
-				- Promulgation of RRs, including modifications
-				- Power to issue *Rulings of First Impression*
-				- Power to compromise or abate any tax liability
-					- Exceptions:
-						- Those by REBs (500K and below); and
-						- Minor criminal violations discovered by regional and district officers.
-				- Power to assign and reassign internal revenue officers to establishments where objects subject to excise tax are produced or kept.
-					- Quarry, mines, alcoholic beverages, car plants, cigarette plants, jewellery, etc.
-		- Rules in assignment to other duties:
-			- Revenue officers tasked to perform assessment and collection function shall not remain in the same assignment for more than 3 years, and to special duties, 1 year.
-			- 3 Years → General (assessment and collection)
-			- 2 Years → Excise
-			- 1 Year → Special Duties
-		- Agents and Deputies for Collection of National Internal Revenue Taxes
-		- Notes in agents and deputies for collection of national taxes
+### Non-delegation of powers
+Among the abovementioned powers of the Commissioner, the following may not be delegated:
+1. The power to *recommend the promulgation of rules and regulations* to the Secretary of Finance.
+2. The power to issue *rulings of first impression* or to reverse, revoke, or modify any existing rulings of the Bureau.
+3. The power to compromise or abate any tax liability.[^3]
+4. The power to assign and reassign internal revenue officers to establishment where articles subject to excise tax are produced or kept. Revenue officers assigned to any such establishments shall in no case stay in his assignment for more than two years.[^4]
 
 [^1]: The Commissioner is authorized to divide the Philippines into zones or areas and determine the fair market value of the real properties located in each zones or areas.
 [^2]: Individuals or general professional partnerships who have been denied their accreditation may appeal to the Secretary of Finance who shall act on the appeal within **60 days** from the receipt of such appeal. Failure by him to rule on the appeal within the prescribed period shall be deemed approval of the application for accreditation.
+[^3]: Exceptions are: (a) assessments for basic deficiency tax of PHP 500,000, which regional offices are assigned to; and (b) minor criminal violations discovered by regional and district officials.
+[^4]: As a general rule, no revenue officer shall be assigned to any establishment for more than three years, except for those assigned relating to excise tax, which shall be no more than two years, and those assigned relating to special duties, which shall be no more than one year.
