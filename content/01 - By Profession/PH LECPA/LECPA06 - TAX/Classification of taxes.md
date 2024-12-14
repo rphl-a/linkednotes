@@ -40,21 +40,9 @@ Taxes may be classified as to their rates:
 - Proportional rates, wherein the tax imposed is based on a fixed amount or rate regardless of income or wealth.
 - Mixed rates.
 ## As to imposing authority
-Taxes may be classified either as a national or a local tax.
-- In the case of national taxes, it is imposed by operation of the National Internal Revenue Code and collected by the Bureau of Internal Revenue. National taxes also include ==(P-DIVES)==:
-	- Percentage taxes
-	- Donation (and Estate) taxes
-	- Income taxes
-	- Value added taxes
-	- Excise taxes
-	- Stamp taxes
-- In the case of local taxes, it is imposed by operation of local ordinances synonymous with the vested authority of Local Government Units to tax. Local taxes may include:
-	- Real property taxes
-	- Professional taxes
-	- Business taxes (on local)
-	- Community taxes
-
-Note that custom duties are imposed in accordance with the Tariff and Customs Code of the Philippines
+Taxes may be classified either as a national or a local tax:  
+![[national tax|national tax]]  
+![[local tax|local tax]]
 
 Also read: [[Philippine Tax Agencies|Philippine Tax Agencies]]
 
