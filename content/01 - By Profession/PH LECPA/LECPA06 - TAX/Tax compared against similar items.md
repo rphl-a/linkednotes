@@ -1,32 +1,8 @@
-
-
-- [[Tax compared against similar items|Tax compared against similar items]]
-	- Tax vs Revenue
-		- Tax → amount imposed
-		- Revenue → amount collected
-	- Tax vs License
-		- Tax → for revenue, amount imposed may be unlimited
-		- License → for license, usually limited in amount (based on law)
-		- In case of non-payment of tax, it does not necessarily make it illegal. However, for licenses, non-compliance to license makes the business illegal.
-		- Tax is imposed after activities, while licenses are imposed pre-activities.
-		- Tax is also exercised as a power of the government, while license is an exercise of police power.
-		- Power to tax includes the power to license, but *not* v.v.
-	- Tax vs Toll
-		- Tax → support for government. It is demand of sovereignty.
-		- Toll → compensation for using someone else’s property. It is demand of private owner
-	- Tax vs Debt
-		- Tax → based on law, may result to imprisonment for non-payment (except for poll tax). No interest, unless if delinquent (late payment; generally 12%). Cannot be assigned/delegated.
-		- Debt → based on contracts, will not result to imprisonment for non-payment. Interest when stipulated or in default. Can be assigned/delegated.
-			- Claims from the government cannot also be set-off with tax obligations of the taxpayer.
-	- Tax vs Special Assessment
-		- Tax → General application and can be made a personal liability.
-		- Special Assessment → Special assessment are those charges imposed to a land owner because of improvement in land. A special assessment cannot be made a personal liability because it is attached to the land. Also, it is exceptional in application.
-		- [ ] TODO: “Exceptional in application”?
-	- Tax vs Tariff
-		- Tariff is a book of rates containing names of merchandise with corresponding duties to be paid for goods imported or exported. It is a system or principle of imposing duties. It is also used interchangeably with the term *Custom Duties*.
-		- Custom duties is a form of tax, while tariff merely refers to the term of book of rates.
-		- [ ] TODO: Further clarification
-			- **Is tariff a tax?**
-	- Tax vs Penalty
-		- Tax → to raise revenue, and only originates from laws.
-		- Penalty → to regulate conduct, and may originate from either laws or contracts.
+The following comparisons between tax against similar items may help:
+* **vs Revenue**: Tax refers to the amount imposed, while revenue refers to the amount collected.
+* **vs License**: Tax is used for raising revenues, while licenses are used to grant authority for an individual for the practice of a business or profession. Non-compliance to laws relating to licensures makes the practice illegal, but the non-payment of tax does not necessarily make it illegal. Tax also includes the power to license, but not the other way around. Further, it is imposed after activities have concluded, while licenses, before activities are done. Finally, tax is also exercised as a power of the government, while license is an exercise of police power.
+* **vs Toll**: Tax is collected to support the government, and a demand of sovereignty. Meanwhile, toll is collected by a private owner for using their property.
+* **vs Debt**: Tax is based on law, and may result to imprisonment for non-payment of tax ([[PH Bill of Rights - Non-imprisonment for non-payment of debt or poll tax|except for poll tax]]). However, debt is based on contracts, and will not result to imprisonment for non-payment.
+* **vs Special Assessment**: Tax is a general application and can be made a personal liability. However, a special assessment is imposed to a land owner as a result of improvement in land, oftentimes borne through the construction of public infrastructure such as highways. It is also exceptional as to the time and place of the improvements made, accrued to the land itself.
+* **vs Tariff**: used interchangeably with the term *Custom Duties*, refers to a book of rates containing the names of merchandise with corresponding duties to be paid for goods imported or exported. However, custom duties is a form of *tax*, while the term tariff merely refers to the *book of rates*.
+* **vs Penalty**: Penalties are used to regulate the conduct of the people, and may originate from either laws (such as the Penal Code) or contracts (penal clause on contracts if in default or non-fulfilment of obligation).
