@@ -8,6 +8,8 @@ aliases:
 - [[Fundamental Principles of Taxation|Fundamental Principles of Taxation]]
 - [[national tax|National Tax]]
 	- [[Income Taxation|Income Taxation]]
+- [[local tax|Local Tax]]
+- [[Tax Remedies|Tax Remedies]]
 ## Video Lectures
 - [[Principles of Taxation (Draft)|Principles of Taxation (Draft)]]
 - [[Taxes, Laws and Administration (Draft)|Taxes, Laws and Administration (Draft)]]
