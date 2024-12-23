@@ -10,8 +10,21 @@ Provisions governing tax remedies are enclosed under Title VIII - Remedies of th
 > [!tip]- Recall: Levy, Assessment, and Collection  
 > Levy is the process of imposing tax to an object. Assessment refers to determining the amount due by the taxpayer. Collection refers to the actual collection of tax due by the taxpayer.
 > 
-> Both assessment and collection are executive/administrative by nature. Levy is a legislative function.
+> Both assessment and collection are executive/administrative by nature. Levy is a legislative function.  
+> 
+> **NOT TO BE CONFUSED WITH [[#Collection of Tax Due|LEVY OF REAL PROPERTIES]]!! **
 
+This note synthesis covers the following materials:
+- Pre-recorded videos for Tax Remedies (TAX16; REO B9, incl. HOs)
+- Transfer and Business Taxation, by Tabag and Garcia (2021 ed.)
+
+- [ ] TODO: Reorganize:
+	- National Taxes
+		- Assessment
+		- Collection
+		- etc.
+	- Local Taxes
+		- …
 ## Preliminary Knowledge
 The following terms are crucial to obtain understanding of this lesson:
 
