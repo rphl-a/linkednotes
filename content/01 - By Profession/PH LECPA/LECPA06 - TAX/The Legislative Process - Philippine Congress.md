@@ -46,14 +46,15 @@ The Philippine Constitution prohibits the enactment of a law or bill that is *ex
 ## Consistency of IRRs to the Law
 Note that laws may vest a government agency to craft an *Implementing Rules and Regulations* for the proper execution of such law. These IRRs shall be consistent with the provisions of the law, and shall not extend beyond what is provided for by law.
 
-Further, laws also take time to craft. It shall never be considered as a *speedrun* to pass as much laws in the shortest time possible. However, in special cases, such as when the President shall certify a measure as urgent in times of calamities or emergencies. Thus read:
+Further, laws also take time to craft. It shall never be considered as a *speedrun* to pass as much laws in the shortest time possible. However, in special cases, such as when the President shall certify a measure as urgent in times of calamities or emergencies. Thus read:**
 
 > **ARTICLE VI SECTION 26(2)**. No bill passed by either House shall become a law unless it has passed three readings on separate days, and printed copies thereof in its final form have been distributed to its Members three days before its passage, ==except when the President certifies to the necessity of its immediate enactment to meet a public calamity or emergency==. Upon the last reading of a bill, no amendment thereto shall be allowed, and the vote thereon shall be taken immediately thereafter, and the yeas and nays entered in the Journal.  
 > (Emphasis added)
 
 ## Special Notes on Taxation
-Appropriation, revenue, or tariff bills shall originate exclusively in the House of Representatives. However, the Senate may propose amendments to the version approved by the House of Representatives.
+Appropriation, revenue, or tariff bills shall originate exclusively in the House of Representatives. However, the Senate may propose amendments to the version approved by the House of Representatives. Note, further, that the provision on initiative and referendum is not superior to this provision; meaning, these category of Bills cannot be raised through a petition through such system.
 
+- Tax exemptions may be granted only upon the concurrence of a simple absolute majority of each House of Congress.
 - Note that an appropriation, revenue, or tariff bill **needs** to be approved and transmitted to the Senate before the latter may introduce amendments to it. Its mere introduction to the House of Representatives does not warrant the Senate to introduce a bill covering the above mentioned subject matters on its own.
 - However, companion bills are allowed since it is sent to both the House of Representatives and the Senate concurrently. Companion bills are, in essence, bills with the same version. This is often done to speed up the legislative process especially if the subject matter of a bill is of public importance.
 - Bills initially introduced in the Senate that seeks to substitute a bill originating and approved in the House of Representatives is also allowed. Because it has the same effect as if the Senate has amended the bill of the House of Representatives.
