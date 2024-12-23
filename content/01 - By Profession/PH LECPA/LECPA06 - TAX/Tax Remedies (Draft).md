@@ -1,0 +1,299 @@
+---
+title: 
+tags:
+  - draft
+  - private
+date-held: ""
+speaker-list: 
+synthesis: false
+draft: true
+---
+
+## Preliminaries
+- [ ] TODO: Watch Assessment for Taxpayer Remedies drills
+- [ ] TODO: TABAG Book
+- [ ] TODO: Compromise revision (and surcharge rates w/ EOPT Law)
+
+## Notes
+- Tax remedies
+	- **Remedies of the government**
+		- Government is aggrieved is the taxpayer does not, or under-complies with payment of tax.
+		- Two remedies provided by the government:
+			- Assessment
+				- Taxpayer Selection (essentially, sampling):
+					- Focused on high risk industries (or designated by the Bureau as top audit priorities)
+					- Based on tax information (🐀)
+						- For tax reward
+					- Tax Compliance Verification Drive (or Tax Mapping)
+					- Pre-audit → works on the premise that the return filed is correct; conduct mathematical accuracy in computing the tax paid provided for in the tax return.
+				- Audit of the Taxpayer
+					- Letter of Authority → BIR employee shows this to the taxpayer.
+						- Authority for a BIR employee to conduct investigations on the books and relevant records of the taxpayer.
+						- Issued based on the following criteria:
+							- Non-large taxpayer → RDO, signed by Regional Director
+							- Large taxpayer → Large taxpayer service audit division (LTSAD), signed by Assistant commissioner
+							- Super large → National/Special Investigation Division, signed by Commissioner
+						- The validity of a Letter of Authority requires it be:
+							- Electronic Letter of Authority, printed under the Electronic Letter of Authority Monitoring System (eLAMS)
+							- 30 days from issuance, LA shall be served to the taxpayer.
+								- LAs can be reissued in the near future
+							- 1 LA for 1 taxpayer *only*.
+					- Tax Verification Notice → authorizes the revenue officer on one-time transaction. It is similar to that of a Letter of Authority.
+						- Examples include Donor’s and Estate’s Tax, and Capital Gains Tax)
+					- Letter Notice → if the BIR discovers discrepancies on filed returns (matching transactions with other customers).
+						- A letter notice is a notice informing that reported figures have significant discrepancies to what exists in their database to the one you filed. It is not an authority to audit, but merely the finding of a significant discrepancy.
+						- If discovered, the taxpayer must reconcile said transactions within 5 days from receipt of letter notice.
+							- It shall be paid within 30 days thereafter.
+							- If exceeded from 30 days, penalties start to occur.
+						- If payments made under LN, then a taxpayer is subsequently served a LOA, payments made under LN can be claimed as tax credits under LOA.
+				- Mode of Conduct or Investigation
+					- Investigation shall only be conducted in the place of the taxpayer’s business. Likewise, documents related to the business shall only be kept by the taxpayer on the place of the business itself.
+					- 120 days from serving of LA to finish the investigation.
+						- If needed more time, the LA must be revalidated.
+						- LAs issued by RDOs can only be revalidated once
+						- However, LAs issued by the National Office can be revalidated up to twice.
+					- [x] ***TODO***: **ENDPOINT** Examination frequency: can only be subject to audit by the BIR once per year. **However**, there are instances where more than one audit by the BIR may happen, especially if:
+						- [ ] Further research: “super large” taxpayers.
+						- [ ] BIR e-learning?
+						- There are irregularities, or fraud.
+						- If the taxpayer requests for reinvestigation
+							- Happens if final assessment notice is already served, and the taxpayer files a protest, raising a motion to request for reinvestigation.
+						- Verification of withholding tax obligation
+							- Withholding taxes are monies of the government, merely collected by the private organization (ex.: of the employees).
+							- LA covers tax due and withholding tax obligation.
+								- LA tax due → usually only once
+								- LA withholding tax obligation → usually multiple times
+						- Verification of capital gains tax
+							- Covered under tax verification notice, this being a one-time transaction.
+						- CIR’s power to obtain information for the audit of third parties.
+							- Books of taxpayer may be opened in order to corroborate the tax due of another person, whenever applicable.
+							- Subpoena duces tecum
+								- The CIR compels the procurement of documents, lest penalties be met.
+							- Subpoena ad testificandum
+								- The CIR summons a taxpayer to provide testimony.
+				- Determination of amount of assessment
+					- For every item in tax that there are lapses, then payment for that tax due will be paid.
+					- Computation:
+						- Basic tax due
+						- + 25% surcharge (from basic tax due) → DO NOT INCLUDE SURCHARGE IN COMPUTATION OF INTEREST PER ANNUM
+						- + 12% interest per annum (from basic tax due) (use actual days of the year; generally 365)
+							- From actual deadline of the tax until designated date to pay the tax (even if early payment is made).
+								- Ex.: 2018 tax due not paid, then found by BIR; designated to pay 2021. 2018 to 2021, 12% interest per annum applies.
+								- Recall: from filing of return or deadline of tax due, whichever is later.
+						- + 12% delinquency interest (sum of first three items)
+							- If taxpayer does not pay on the deadline stated, then 12% delinquent interest per annum applies.
+							- Compromise is not included in using delinquent interest computation; only the three above.
+						- What if: there is already compliance (ex.: part of VAT already paid; some, not paid), then conduct a deficiency assessment.
+							- Audited Tax Due - Reported Tax Due (by the taxpayer) = Deficiency Tax Due
+							- + 25% surcharge from deficiency tax due
+							- + 12% of deficient tax, interest per annum
+							- + 12% of delinquent deficient tax, interest per annum (if not settled on deadline provided by the BIR).
+					- Tax non-compliance gives rise to civil and criminal liabilities.
+				- Deadline of taxes:
+					- Income Tax → April 15 next year (calendar year for individual)
+						- 15th day 4 months following the end of taxable year (for corporation)
+					- Business Tax
+						- Non-VAT: Quarterly only; 25 days from end of a quarter
+						- VAT: Assessed quarterly; also 25 days from end of a quarter
+					- Excise Tax
+					- Documentary Stamp Tax
+						- 5 days from end of month of the taxable transaction
+					- Capital Gains Tax
+						- 30 days from date of sale (for one-time transactions); or
+						- 15 days of the 4th month of the taxable year of the taxpayer (similar to income tax) (for taxable transactions assessed annually)
+					- Donor’s Tax
+						- 30 days from date of donation
+					- Estate’s Tax
+						- 1 year from date of death
+				- Assessment Proper:
+					- Notice of Discrepancy → Discussion of Discrepancy
+						- Formerly known as Notice of Informal Conference
+						- Discussions shall be held within 30 days from issuance of notice of discrepancy
+					- Preliminary Assessment Notice
+						- If the taxpayer is not able to explain some line items, then the BIR issues a **Deficiency Tax Assessment** to those discrepancies 10 days after holding the discussion of discrepancy. This comes in the form of a PAN.
+							- Note that discussion of discrepancy and reply to the PAN is different; the former, done orally, and the latter, done in writing.
+						- The taxpayer replies within 15 days upon receipt of PAN.
+						- Note that it is not a formal assessment and does not establish a claim to tax a taxpayer by the government.
+						- If the taxpayer does not reply to the PAN, then it becomes final, demandable, and non-appealable.
+						- Reply by the taxpayer shall be categorical; specific line items shall be disputed by the taxpayer. Line items not disputed by the taxpayer becomes final.
+							- “We do not agree in toto” → auto result to FLD xD
+					- Final Assessment Notice/Formal Letter of Demand
+						- Partial/full denial of the reply by the BIR to the taxpayer
+						- **Requisites** for a FAN to be valid:
+							- Within prescriptive period
+								- Within 3 years from date of return or deadline of tax, whichever is later. Exception: 10 years from discovery of fraudulent return.
+							- Contain information of discrepancy + demand for payment
+							- Detailed discussion of facts and legal basis
+							- Delivered/sent by registered mail or by personal delivery.
+							- Preceded by a PAN and after 15 days (also see: Right to Due Process)
+								- Exceptions:
+									- Tax deficiency arises from mathematical error
+									- Withholding tax deficiency between withheld and remitted amount
+									- Tax claim is applied with tax credit/tax refund is carried over in the current period. (Essentially, a double claim)
+										- Ex.: unutilized tax credits in prior year, then the taxpayer claims tax credit as tax deductions.
+									- (For excise tax) Excise tax on articles
+										- If the processor of the excisable article does not pay for excise tax, then such article leaves the place of business or manufacturing, then it will automatically result to FAN
+									- (For excise tax) Excisable goods are sold by exempt persons to non-exempt persons.
+										- “Exempt” from indirect taxes
+						- After issuance of FAN/FLD, the taxpayer files a protest:
+							- A taxpayer may file a protest if the same has replied to the PAN.
+							- The protest is a motion/petition is filed 30 days after receipt of FLD/FAN:
+								- Motion for reinvestigation
+									- Filed by taxpayer if the taxpayer wants to present **additional facts** not initially presented during discussion of discrepancy/PAN reply within 60 days from filing of motion.
+								- Motion for reconsideration
+									- Filed by taxpayer if the taxpayer **disputes legal facts/issues**. Examples include interpretations of the law.
+								- In both cases, the BIR has 180 days to evaluate and render a decision on the motion filed. It gives rise to a *final decision on disputed assessment (FDDA)*.
+					- Final Decision on Disputed Assessment
+						- Gives rise to the government to collect what is due.
+			- Collection
+				- No collection will be collected, unless a decision has reached administrative finality.
+				- From issuance of 5 years, collection shall be executed (i.e., prescriptive period) thru Summary Procedure.
+					- Note, that civil or criminal action may still be filed without a FAN.
+				- Prescriptive period also applies. However, a jeopardy assessment can also be provided.
+					- [x] **TODO**: What is a jeopardy assessment?
+				- Two possible options:
+					- Summary remedies → taking of taxpayer’s property (essentially seizure), and can either be frozen, or put into public auction, or forfeited in favour of the PH Republic. Usually forced or imposed by the government to the taxpayer (the act of collecting)
+						- Levy → used in real properties
+						- Distraint → used in personal properties
+						- pneumonic: LRP; DPP
+							- D comes before L; P comes before R
+					- Civil or criminal action
+					- Note that it may be done simultaneously, or either.
+				- Process:
+					- Preliminary Collection
+						- Done if the taxpayer does not pay.
+						- After 10 days, a Final Assessment before Seizure Letter
+					- Warrant of Distraint/Levy
+						- If due is above PHP 100.00
+						- Issued not earlier than 90 days from finality of the assessment
+					- Research of taxpayers’ properties
+					- Notice of Tax Lien or Notice of Levy
+						- Distraint on Personal Properties:
+							- Actual Distraint → actual possession of the property
+							- Constructive Distraint → signed receipt to the one possessing the property, taking that it shall be preserved and not transferred to anyone. Essentially, the personal property is frozen.
+						- Levy on Real Properties
+						- Tax Lien vs Levy
+							- Tax Lien → attachment to the property (like a debt)
+								- Like a note; it becomes a priority for the government to have claims for that property.
+					- Public Auction
+						- Within 20 days after levy, the property is advertised for auction for a period of 30 days. The property is sold to the highest bidder.
+							- The highest bidder shall have sufficient funds for the following:
+								- Tax due
+								- Penalties and interest
+								- Expenses of distraint/levy
+								- Cost of selling properties
+								- [ ] **TODO**: Further Research?
+									- Paano kapag ang bid is 2M, tapos yung total nung 4 na line-items is 4M?
+							- Levy or Distraint for as long as there is unsettled tax due (and penalties/interest) on the part of the non-paying taxpayer
+					- If all else fails, then the property is forfeited in favour of the PH Government.
+		- Timeline:
+			- The government’s right to make assessment is subject to a prescriptive period of 3 years from filing date or tax deadline, whichever is later.
+				- If exceeded, as a general rule, it is already invalid.
+				- Exceptions:
+					- Fraudulent return
+						- Quantification:
+							- If gross income (for income tax) is understated by 30%, and/or if deductions is overstated by 30%, then it is assumed to be fraudulent. If threshold is not met, 3 years will still be used.
+					- Non-filing of return
+					- 10 years from day of discovery for fraudulent return or non-filing of return, instead of 3 years from filing date or tax deadline.
+			- From date of assessment, 5 years validity to actually take course of action (final assessment notice **OR** formal letter of demand date)
+				- If no date is provided, then the date of receipt by taxpayer.
+	- **DRILLS ON REMEDIES FOR GOVERNMENT**
+		- No. 01
+			- In practice, triplicate
+				- The other one is an administrative requirement.
+			- In actual, and in accordance with law, duplicate
+		- No. 09 → Garnishment is used in bank deposits
+		- No. 17 → if criminal action, then assessment is not a requirement. However, in theory in academe, it is 3 years from deadline for judicial action.
+		- No. 19 → for collection, 5 years prescriptive period from provision of an assessment by the BIR. This includes if a return is filed in fraud.
+		- No. 26 → in computation of accrued interest, use 365 days instead of months or years.
+		- No. 27 → further research
+		- 
+	- **Remedies of the taxpayer**
+		- If assessment is excessive or not right
+		- Two remedies that can be availed by the taxpayer:
+			- Disputing an assessment
+				- Process:
+					- Receipt of LOA
+						- See for the validity of the LOA:
+							- Printed under system;
+							- Covered only for 1 taxable year;
+							- Identified what categories of taxes is covered (in the contents of LOA)
+							- Request for submission of documents
+								- Usually book of accounts and official receipts…
+								- If unable to provide, the BIR will send a second request for the documents required.
+									- If still unable, a subpoena duces tecum is given to the taxpayer.
+									- A subpoena duces tecum is mandatory.
+									- If still unable to comply, a taxpayer may be criminally prosecuted.
+									- Even if there is a criminal proceeding, the procedures for auditing (by the BIR) will still push thru.
+					- Notice of Discrepancy (if there is discrepancy observed by the BIR)
+						- Usually done if the BIR matches your transactions with other taxpayer transactions.
+						- After 30 days, **discussion of discrepancy** occurs.
+					- If additional time is required to produce documents, a waiver need be signed. 3 Months as a rule (by the government) to conduct an audit/assessment of the taxpayer.
+						- Waiver of the defence of prescription. (Usually 60 days)
+							- Needs to be approved by the BIR and notarized (i.e., a public document)
+							- Effect: 3 year prescriptive period by the BIR is waived.
+					- Assessment occurs for un-dispelled discrepancies thru issuance of a PAN.
+						- The PAN is issued by the assessment division of a regional office.
+						- Upon receipt of PAN:
+							- The taxpayer is bound to reply.
+								- The reply, or *protest*, should be written.
+								- Indicated facts and legal basis, among other things.
+								- **CATEGORICAL**
+							- The taxpayer should reply within 15 days
+					- Then, a FAN/FDL is issued.
+						- In some RDOs, it is referred to as an Assessment Notice - Final Letter of Demand
+						- Within a period of 30 days, the taxpayer should file a protest to the FAN/FDL. The protest must either be:
+							- Reconsideration
+								- There is no additional facts presented by the taxpayer; Usually a question of legality, or request the BIR to reconsider their stance.
+							- Reinvestigation
+								- If there is an additional facts or documents presented by the taxpayer to the BIR.
+							- The header for a petition for reconsideration/reinvestigation must appear in the document submitted.
+							- Upon submission, the taxpayer has 180 days. The BIR then evaluates the petition or motion filed by the taxpayer.
+								- The decision of the BIR is called as the Final Decision on Disputed Assessment (FDDA). It shows the results of the assessment of the BIR following the petition filed by the taxpayer.
+								- Upon lapse of 180 days, 2 options by the taxpayer:"
+									- Either wait the reply for the BIR, **or**:
+									- Proceed to CTA in 30 days (see Judicial Remedies) upon start of lapse. If not filed, it is presumed that the taxpayer will wait for the reply of the BIR.
+								- Upon receipt of FDDA at the regional level, additional option:
+									- Elevate to the Commissioner of Internal Revenue. A motion for reconsideration is required. Note that the prescriptive period for filing to the CTA is still running. Meaning, if the FDDA is marked as final by the CIR, and it took 10 days by the CIR to affirm, only 20 days remains to file a petition for certiorari to the CTA in division.
+									- However, if there are changes made by the CIR, then the prescriptive period to file the case to the CTA in division restarts at 30 upon issuance of a revised decision by the CIR.
+								- The FDDA is not final not until the Commissioner says so.
+							- Sometimes, a Preliminary Correction Letter is given by the BIR.
+								- It is tantamount to denial of motion filed by the taxpayer.
+					- Upon issuance of the FDDA or PCL, it has reached the finality of administrative remedies availed of by the taxpayer. The next stage is **judicial remedies**.
+				- Judicial remedies
+					- File a petition for review (or certiorari) within 30 days upon issuance of FDDA or PCL by the BIR to the Court of Tax Appeals *in division*.
+					- If fail, a motion for reconsideration may be filed to the CTA *en banc* 15 days after issuance of a decision by the CTA in division.
+					- [ ] **TODO**: Petition for review vs Motion for reconsideration
+					- If still fail, then file a petition for review (or certiorari) to the Supreme Court *in division* 15 days after issuance of a decision by the CTA en banc.
+					- If again, fail, then file for motion for reconsideration to the Supreme Court *en banc* 15 days after issuance of a decision by the SC in division.
+				- Note that judicial remedies may only be availed if all remedies provided for for administrative remedies have all been exhausted.
+			- Recovery of Erroneously Paid Taxes
+				- Usually in cases of overpayment of taxes in the government
+				- Within a period of 2 years from date of payment of taxes (not filing date or deadline of filing of tax), recovery of erroneously paid tax shall be filed administratively thru a *Claim for Refund or Credit* to the BIR.
+					- If denied by the BIR, within 30 days (still within the 2 year period) upon receipt of denial by the BIR, or upon lapse of the 2 year prescriptive period whichever is earlier, file a petition for review to the CTA in division, then motion for reconsideration (same process, see: judicial remedies for disputing an assessment; similar).
+						- If the 30 day period will no longer fall within the 2 year period, then the remaining days in the 2 year period shall be used.
+					- If tax is paid in instalment, then the last day of payment is the date of payment for that tax.
+			- Note that for compromises:
+				- Inability to pay compromise (10%) can be availed of after availment of judicial remedies. However, for doubtful validity (40%), it can only be availed during the administrative remedies stage.
+	- **Simplified process for disputing an assessment**
+		- Notice of Discrepancy
+		- ==Discussion of Discrepancy== (by mutual agreement date; 30 days upon issuance of Notice of Discrepancy)
+		- Preliminary Assessment Notice
+		- ==Reply to the PAN 15 days upon issuance of PAN==
+		- FAN/FLD (or AN-FLD)
+		- ==Reply to the FAN/FLD 30 days. Two options==:
+			- Motion for Reconsideration
+			- Motion for Reinvestigation (submit documents within 60 days)
+		- Wait for 180 days for issuance of FDDA or PLC
+			- Alternative: appeal to the CIR
+		- 30 days upon issuance of FDDA, or upon lapse:
+			- Wait for actual FDDA, or
+			- Proceed to CTA in division
+		- 15 days, then CTA en banc
+		- 15 days, then SC in division
+		- 15 days, then SC en banc
+
+## Questions and Thoughts
+- [x] What if PAN → Protest, but not filed, is FLD/FAN → Protest no longer available? 
+
+See synthesis: [[Tax Remedies|Tax Remedies]].
