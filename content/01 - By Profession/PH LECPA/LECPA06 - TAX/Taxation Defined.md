@@ -4,7 +4,10 @@ Also read: [[Amendments vs Revisions|Amendments vs Revisions]]
 ## Definitions of Taxation
 Taxation may be defined in any of the three definitions: (a) as an inherent power of the State; (b) as a process of levying tax; or (c) as a mode of allocating government burden to the people (i.e., cost allocation).
 
-Tax is a voluntary requirement. The executive merely collects what is due from the citizens.
+The theory of taxation is borne out of necessity, and the basis of taxation stems from the reciprocal duties of support and protection by the government. It is also a voluntary[^1] requirement- the executive merely collects what is due from the citizens.
+
+> **Taxation is the rule; exemption is the exception**.
+
 ### As an Inherent Power of the State
 Inherent powers refer to the powers vested in a State. Upon the creation of a state, it is generally accepted that these inherent powers will exist even if it is not provided for under its constitution or basic law.
 
@@ -54,7 +57,7 @@ Also read: [[Hierarchy of Laws|Hierarchy of Laws]] and [[The Legislative Process
 
 And then we have the third table… *Since the primary subject of this matter is taxation, we give emphasis on the power to tax*.
 
-The amount imposed in taxes is unlimited by nature. Meaning, the Congress (or the Local Government Units upon delegation by the Congress) may impose whatever amount as a form of tax to the people. There is no minimum amount (or floor) required to tax, and likewise, there is no maximum amount acting as a ceiling for tax collections. However, note that *the power to tax also includes the power to destroy*. Meaning, this power must be exercised responsibly and with caution to minimize injury to the proprietary rights of a taxpayer.[^1]
+The amount imposed in taxes is unlimited by nature. Meaning, the Congress (or the Local Government Units upon delegation by the Congress) may impose whatever amount as a form of tax to the people. There is no minimum amount (or floor) required to tax, and likewise, there is no maximum amount acting as a ceiling for tax collections. However, note that *the power to tax also includes the power to destroy*. Meaning, this power must be exercised responsibly and with caution to minimize injury to the proprietary rights of a taxpayer.[^2]
 
 Further reading: [McCulloch vs Maryland (USA)](https://www.history.com/topics/united-states-constitution/mcculloch-v-maryland)
 
@@ -72,7 +75,7 @@ However, the power to tax is inferior to the non-impairment clause of the Philip
 
 > **ARTICLE III SECTION 10**. No law impairing the obligations of contracts shall be passed.
 
-A contract is impaired if the terms and conditions of a contract is changed by law or by a party without the consent of the other, thereby weaking the position or rights of the latter. In simpler terms, tax cannot disturb the operation of a contract between two parties by a mere taxing statute.[^2]
+A contract is impaired if the terms and conditions of a contract is changed by law or by a party without the consent of the other, thereby weaking the position or rights of the latter. In simpler terms, tax cannot disturb the operation of a contract between two parties by a mere taxing statute.[^3]
 
 Lastly, the power of taxation is both constitutionally and inherently limited. Also see: [[Limitations of Taxation|Limitations of Taxation]]
 ### As a Process
@@ -107,5 +110,6 @@ In allocating costs incurred by the government, there are two ways that the gove
 > [!note]- Author’s note  
 > For the principles for the ability to pay theory, the vertical axis may refer to one’s wealth while the horizontal axis may refer to one’s circumstances.
 
-[^1]: G.R. No. L-25043, April 26, 1968, 23 SCRA 276.
-[^2]: https://taxmates.blogspot.com/2009/10/5-non-impairment-of-obligation-of.html
+[^1]: Another debatable claim. REO reviewer states that it is merely voluntary. A book (Tabag) claims that it is an enforced contribution and not voluntary.
+[^2]: G.R. No. L-25043, April 26, 1968, 23 SCRA 276.
+[^3]: https://taxmates.blogspot.com/2009/10/5-non-impairment-of-obligation-of.html

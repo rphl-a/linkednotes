@@ -51,7 +51,7 @@ Also read: [[Nature of Philippine Tax Laws|Nature of Philippine Tax Laws]]
 > Further research is required.
 
 ## Scope of Taxation (CUPS)
-The power to tax is regarded as comprehensive, unlimited, plenary, and supreme.
+The power to tax is regarded as the **most absolute** of all the powers of the government. It also has the broadest scope of all the powers because without conditions, it is considered as comprehensive, unlimited, plenary, and supreme.
 - It is ***c**omprehensive* because it covers all persons, activities, businesses, professions, rights, and privileges.
 - It is ***u**nlimited* because the only limitation is the responsibility of the legislature which imposes tax to the constituents who pay it.
 - It is ***p**lenary* because it is a not incomplete.

@@ -8,7 +8,7 @@ While contradictory at first, G.R. No. 187485 attempts to shed some light into t
 
 ## Other Taxation Doctrines
 The following are also important doctrines relating to the State’s power to tax:
-- **Doctrine of Judicial Non-interference**, or sometimes referred to as *judicial stability*, refers to the non-interference of courts within equal and coordinate jurisdiction.
+- **Doctrine of Judicial Non-interference**, or sometimes referred to as *judicial stability*, refers to the non-interference of courts within equal and coordinate jurisdiction. In the case of tax cases, since the Court of Tax Appeals has jurisdiction regarding this subject matter, has the right of injunction to restrict collection of a [[national tax|national tax]].
 - **Imprescriptibly of Taxation**, wherein taxes are subject to a prescriptive period for assessment and collection. Examples include the action for claim of refund by a taxpayer, which prescribes after two-years. *If the action for it has already prescribed, the taxpayer may no longer raise a claim for taxes paid to the courts*.
 - **Prospectivity of Tax Laws**, which states that generally, tax laws shall apply prospectively unless otherwise legislatively intended by express terms or by necessary implication. This is in resonance with Chapter 1 Article 4 of the New Civil Code, which states that *laws shall have no retroactive effect, unless the contrary is provided*.
 - **Strictissimi Juris**, or *in accordance to the strictest interpretation of the law*, which is necessary if cases relating to interpretation of tax laws is raised before the Supreme Court. As a rule, taxes paid are liberally in favour of the taxpayer and construed against the government, but for tax exemptions, the contrary is true.
