@@ -14,7 +14,7 @@ This concept is similar to the [[Taxation Characterized#Situs of Taxation|Situs 
 The incidence of tax asks on *who* is being taxed by the law. It also refers to the division of tax burden between the stakeholders, generally between the sellers/producers and buyers/consumers.
 
 There are two tax incidence recognized:
-- Direct incidence, if the statutory taxpayer pays for the tax itself.
+- Direct incidence, if the statutory taxpayer pays for the tax itself, or if the impact and incidence of taxation is merged into the statutory taxpayer.
 - Indirect incidence, if the statutory taxpayer shifts the payment of tax to other.
 
 > [!question]- (UNANSWERED) Shifting vs Assigning, in relation to the nature of tax  
