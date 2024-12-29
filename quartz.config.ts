@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🏡 LinkedNotes",
-	pageTitleSuffix: "| LinkedNotes",
+	pageTitleSuffix: " | LinkedNotes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
