@@ -4,9 +4,10 @@ aliases:
   - AUD
   - AT
 ---
+
 ## Note Synthesis
-- [[The Accounting Profession|The Accounting Profession]]
-- [[Code of Ethics for Professional Accountants|Code of Ethics for Professional Accountants]]
+- [[./The Accounting Profession|The Accounting Profession]]
+- [[./Code of Ethics for Professional Accountants|Code of Ethics for Professional Accountants]]
 ## Video Lectures
 - [[Practice and Regulation of the Accountancy Profession (Draft)|Practice and Regulation of the Accountancy Profession (Draft)]]
 - [[Code of Ethics for Professional Accountants in the Phils. (Draft)|Code of Ethics for Professional Accountants in the Phils. (Draft)]]
@@ -25,8 +26,8 @@ aliases:
 - [[Quality Management For Audit And Assurance Firms (Draft)|Quality Management For Audit And Assurance Firms (Draft)]]
 - [[Audit Reporting (General-Purpose Financial Statements) (Draft)|Audit Reporting (General-Purpose Financial Statements) (Draft)]]
 ## Live Lectures
-- [[The Accounting Profession (Live)|The Accounting Profession (Live)]]
-- [[Code of Ethics (Live)|Code of Ethics (Live)]]
+- [[./The Accounting Profession (Live)|The Accounting Profession (Live)]]
+- [[./Code of Ethics (Live)|Code of Ethics (Live)]]
 - [[The Audit Process & Pre-Engagement (Live)|The Audit Process & Pre-Engagement (Live)]]
 - [[Audit Planning (Live)|Audit Planning (Live)]]
 - [[Study And Evaluation Of Internal Control (Live)|Study And Evaluation Of Internal Control (Live)]]
