@@ -1,15 +1,15 @@
-The Licensure Exam for Certified Public Accountants (LECPA) is a professional examination for aspiring Certified Public Accountants issued by the [[Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[Supervision and control|supervision and administrative control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
+The Licensure Exam for Certified Public Accountants (LECPA) is a professional examination for aspiring Certified Public Accountants issued by the [[../../11 - Philippine Statutes/Philippine Accountancy Act of 2004/Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[../../11 - Philippine Statutes/Administrative Code of 1987/Supervision and control|supervision and administrative control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
 
 Generally, the practice of accountancy include the following scopes: public accountancy; commerce and industry; education and academe; and government.
 
 The Bachelor of Science in Accountancy, governed by the [Revised Policies, Standards, and Guidelines (PSGs) for the Bachelor of Science in Accountancy program](https://ched.gov.ph/wp-content/uploads/2017/10/CMO-27-s-2017.pdf) as promulgated by the [[Commission on Higher Education|Commission on Higher Education]], is responsible in providing the necessary foundational knowledge for the licensure exam of [[Certified Public Accountants|Certified Public Accountants]]. 
 ## Browse by subjects
-- [[FAR|FAR]]
-- [[01 - By Profession/PH LECPA/LECPA02 - AFAR/index|01 - By Profession/PH LECPA/LECPA02 - AFAR/index]]
-- [[01 - By Profession/PH LECPA/LECPA03 - MS/index|01 - By Profession/PH LECPA/LECPA03 - MS/index]]
-- [[01 - By Profession/PH LECPA/LECPA04 - AUD/index|01 - By Profession/PH LECPA/LECPA04 - AUD/index]]
-- [[01 - By Profession/PH LECPA/LECPA05 - RFBT/index|01 - By Profession/PH LECPA/LECPA05 - RFBT/index]]
-- [[01 - By Profession/PH LECPA/LECPA06 - TAX/index|TAX]]
+- [[./LECPA01 - FAR/FAR|FAR]]
+- [[./LECPA02 - AFAR/index|index]]
+- [[./LECPA03 - MS/index|index]]
+- [[./LECPA04 - AUD/index|index]]
+- [[./LECPA05 - RFBT/index|index]]
+- [[./LECPA06 - TAX/index|TAX]]
 
 ---
 
