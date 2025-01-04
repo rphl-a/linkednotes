@@ -7,9 +7,9 @@ The Bureau of Internal Revenue is a government agency tasked with the collection
 
 It is under the Department of Finance, headed by incumbent Secretary Ralph Recto, and the bureau itself headed by incumbent Commissioner Romeo D. Lumagui Jr.
 
-> Note: Custom duties, as determined by the Tariff Classifications, are under the administration of the [[Bureau of Customs|Bureau of Customs]], which is also under the [[Department of Finance|Department of Finance]]. However, the payment of Value-Added Tax on imports accrue to the Bureau of Internal Revenue, with the Bureau of Customs merely collecting what is due therefor.
+> Note: Custom duties, as determined by the Tariff Classifications, are under the administration of the [[./Bureau of Customs|Bureau of Customs]], which is also under the [[./Department of Finance|Department of Finance]]. However, the payment of Value-Added Tax on imports accrue to the Bureau of Internal Revenue, with the Bureau of Customs merely collecting what is due therefor.
 
-Also see: [[Powers of the Bureau of Internal Revenue and its Commissioner|Powers of the Bureau of Internal Revenue and its Commissioner]]
+Also see: [[./Powers of the Bureau of Internal Revenue and its Commissioner|Powers of the Bureau of Internal Revenue and its Commissioner]]
 ## History & Structure
 Prior to the Spanish colonization regime, the Philippines was organized into barangays, each ruled by datus (or *rajahs* in some areas) that offered protection to its subordinates. Tax (called *buwis, handug, or handog*) was paid by the people in forms of crops and goods during this time.
 
@@ -36,7 +36,7 @@ It is organized into the following offices:
 
 ## Revenue Issuances
 The Bureau may issue the following Revenue Issuances for the following purposes:"
-- [[Revenue Regulations|Revenue Regulations]], which are issued by the Secretary of Finance upon recommendation of the Commissioner that specify, prescribe, or define rules and regulations for the effective enforcement of the provisions of the [[National Internal Revenue Code|National Internal Revenue Code]] and related statutes. It is a legislative rule- a power granted by the Congress to the agency for implementing rules and regulations of tax legislation.
+- [[Revenue Regulations|Revenue Regulations]], which are issued by the Secretary of Finance upon recommendation of the Commissioner that specify, prescribe, or define rules and regulations for the effective enforcement of the provisions of the [[../../../11 - Philippine Statutes/National Internal Revenue Code/National Internal Revenue Code|National Internal Revenue Code]] and related statutes. It is a legislative rule- a power granted by the Congress to the agency for implementing rules and regulations of tax legislation.
 - [[Revenue Memorandum Orders|Revenue Memorandum Orders]] are issuances that provide directives or instructions, prescribe guidelines, and outline processes, operations, activities, workflows, methods, and procedures necessary in the implementation of stated policies, goals, objectives, plans and programs of the Bureau in all areas of operations, except auditing.
 - [[Revenue Memorandum Rulings|Revenue Memorandum Rulings]] are rulings, opinions, and interpretations of the Commissioner of Internal Revenue with respect to the provisions of the Tax Code and other tax laws, as applied to a specific set of facts, with or without established precedents, and which the Commissioner may issue from time to time for the purpose of providing taxpayers guidance on the tax consequences in specific situations.
 - [[Revenue Memorandum Circulars|Revenue Memorandum Circulars]] are issuances that publish pertinent and applicable portions, as well as amplifications of laws, rules, regulations, and precedents issued by the BIR and other agencies/offices.
