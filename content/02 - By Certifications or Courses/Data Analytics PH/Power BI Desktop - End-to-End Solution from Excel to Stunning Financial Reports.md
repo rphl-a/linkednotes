@@ -30,7 +30,7 @@ draft: true
 	- Extract, Transform, Load (ETL) Process involves from collecting up until transformation.
 	- With the goal of discovering useful information informing conclusion, and drive informed decision-making to drive business growth.
 	- It involves using tools and techniques to turn data into meaningful business insights.
-	- ![[Pasted image 20241129142852.png|Pasted image 20241129142852.png]]
+	- ![[../../00 - General Notes/Attachments/Pasted image 20241129142852.png|Pasted image 20241129142852.png]]
 	- Data Analysis Techniques always involves the following tasks:
 		- Data preparation
 		- Data modelling
@@ -64,15 +64,15 @@ draft: true
 - Data Analyst terms:
 	- d → Dimension table (if there is description)
 	- f → Fact table (if only keys/numbers)
-	- ![[Pasted image 20241129162529.png|Pasted image 20241129162529.png]]
+	- ![[../../00 - General Notes/Attachments/Pasted image 20241129162529.png|Pasted image 20241129162529.png]]
 	- Primary key → Unique; usually found in a dimension table
 	- Foreign key → Contains multiple instances, used for match the primary keys (usually found in fact table)
 	- KISS Principle → Keep it simple, stupid!
 	- GIGO → Garbage In, Garbage Out
 	- Star Schema
-		- ![[Pasted image 20241129164242.png|Pasted image 20241129164242.png]]
+		- ![[../../00 - General Notes/Attachments/Pasted image 20241129164242.png|Pasted image 20241129164242.png]]
 	- Data Layout
-		- ![[Pasted image 20241129164407.png|Pasted image 20241129164407.png]]
+		- ![[../../00 - General Notes/Attachments/Pasted image 20241129164407.png|Pasted image 20241129164407.png]]
 	- 
 - Data Preparation
 	- Data Profiling
@@ -87,11 +87,11 @@ draft: true
 		- Add column → Modifies in a new column (results output on new col)
 - Demo mode insights
 	- Dashboard wireframing
-		- ![[Pasted image 20241129165102.png|Pasted image 20241129165102.png]]
+		- ![[../../00 - General Notes/Attachments/Pasted image 20241129165102.png|Pasted image 20241129165102.png]]
 	- ^^ Can be applied when designing dashboards
-	- ![[Pasted image 20241129165827.png|Pasted image 20241129165827.png]]
-	- ![[Pasted image 20241129165834.png|Pasted image 20241129165834.png]]
-	- ![[Pasted image 20241129165929.png|Pasted image 20241129165929.png]]
+	- ![[../../00 - General Notes/Attachments/Pasted image 20241129165827.png|Pasted image 20241129165827.png]]
+	- ![[../../00 - General Notes/Attachments/Pasted image 20241129165834.png|Pasted image 20241129165834.png]]
+	- ![[../../00 - General Notes/Attachments/Pasted image 20241129165929.png|Pasted image 20241129165929.png]]
 - 
 
 ## Questions and Thoughts
