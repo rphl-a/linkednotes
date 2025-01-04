@@ -296,4 +296,4 @@ draft: true
 ## Questions and Thoughts
 - [x] What if PAN → Protest, but not filed, is FLD/FAN → Protest no longer available? 
 
-See synthesis: [[Tax Remedies|Tax Remedies]].
+See synthesis: [[./Tax Remedies|Tax Remedies]].
