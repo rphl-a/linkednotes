@@ -1,4 +1,4 @@
-A letter notice refers to a letter issued by the [[Bureau of Internal Revenue|Bureau of Internal Revenue]] notifying a taxpayer that significant discrepancies on filed returns by the taxpayer exist in their system.
+A letter notice refers to a letter issued by the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]] notifying a taxpayer that significant discrepancies on filed returns by the taxpayer exist in their system.
 
 It merely informs the taxpayer of discrepancies, but the taxpayer may nonetheless reconcile said transactions with the BIR within 5 days of receipt of such notice, and paid 30 days thereafter (with no penalties). If paid beyond the 30 day period, penalties start to occur.
 
