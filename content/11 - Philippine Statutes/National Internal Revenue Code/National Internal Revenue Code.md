@@ -24,8 +24,8 @@ The policy statement of the original issuance read:
 
 > It is hereby declared the policy of the State to promote sustainable economic growth through the rationalization of the Philippine internal revenue tax system, including tax administration; to provide, as much as possible, an equitable relief to a greater number of taxpayers in order to improve levels of disposable income and increase economic activity; and to create a robust environment for business to enable firms to compete better in the regional as well as the global market, at the same time that the State ensures that Government is able to provide for the needs of those under its jurisdiction and care.
 
-The primary agency responsible for the execution of this Act is the [[Bureau of Internal Revenue|Bureau of Internal Revenue]]. The provisions of this law (as of RA 11534) can be read using this file:
-- [[Provisions of the National Internal Revenue Code of 1997 (latest amendment RA 11534 (CREATE)).docx|Provisions of the National Internal Revenue Code of 1997 (latest amendment RA 11534 (CREATE)).docx]]
+The primary agency responsible for the execution of this Act is the [[../../01 - By Profession/PH LECPA/LECPA06 - TAX/Bureau of Internal Revenue|Bureau of Internal Revenue]]. The provisions of this law (as of RA 11534) can be read using this file:
+- [[./Attachments/Provisions of the National Internal Revenue Code of 1997 (latest amendment RA 11534 (CREATE)).docx|Provisions of the National Internal Revenue Code of 1997 (latest amendment RA 11534 (CREATE)).docx]]
 ## Digest
 | Case Number | Title |
 | ----------- | ----- |

@@ -1,2 +1,2 @@
-- [[Power BI Desktop - End-to-End Solution from Excel to Stunning Financial Reports|Power BI Desktop - End-to-End Solution from Excel to Stunning Financial Reports]]
+- [[./Power BI Desktop - End-to-End Solution from Excel to Stunning Financial Reports|Power BI Desktop - End-to-End Solution from Excel to Stunning Financial Reports]]
 - 

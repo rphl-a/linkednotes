@@ -17,13 +17,13 @@ draft: true
 ## Notes
 - Tax is an enforced proportionate contribution imposed upon persons, properties, businesses, rights, interests, privileges, transactions and acts within the territorial jurisdiction of the taxing authority exercise by the legislature for a public purpose and generally payable in money.
 	- [x] Elements of a valid tax:
-		- Must not violate [[Limitations of Taxation|Limitations of Taxation]]
-		- Must be [[Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]]
+		- Must not violate [[./Limitations of Taxation|Limitations of Taxation]]
+		- Must be [[./Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]]
 		- Must be for public purpose
 		- Must be levied by a taxing power having jurisdiction over the object of taxation
 		- Proportionate in character
 		- Generally payable in money, at regular interval
-	- [x] Classification of Taxes → Related: [[Classification of taxes|Classification of taxes]]
+	- [x] Classification of Taxes → Related: [[./Classification of taxes|Classification of taxes]]
 		- As to purpose
 			- Fiscal → to raise revenues
 			- Regulatory → to regulate, incl. sin taxes
@@ -44,7 +44,7 @@ draft: true
 			- Progressive → tax rate increases as tax base increases
 			- Regressive → tax rate increases as tax base decreases
 			- Mixed → mixed
-			- [[Classification of taxes|Classification of taxes]]
+			- [[./Classification of taxes|Classification of taxes]]
 		- As to imposing authority
 			- National tax - imposed by the National Government
 				- Two major subdivisions
@@ -65,7 +65,7 @@ draft: true
 				- Professional Tax
 				- Business Tax (Local)
 				- Community Tax
-	- [x] [[Nature of Philippine Tax Laws|Nature of Philippine Tax Laws]]
+	- [x] [[./Nature of Philippine Tax Laws|Nature of Philippine Tax Laws]]
 		- Laws may be classified into three: civil, criminal, and political.
 		- No ex post facto law, unless otherwise provided for. (Prospective by nature)
 		- → **Civil** in nature and character

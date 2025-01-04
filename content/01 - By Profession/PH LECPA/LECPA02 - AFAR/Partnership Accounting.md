@@ -4,4 +4,4 @@ tags:
 ---
 
 ## Other Sources
-- [[AFAR Partnership.xlsx|AFAR Live Lecture solutions for partnership (REO B9)]]
+- [[./Attachments/AFAR Partnership.xlsx|AFAR Live Lecture solutions for partnership (REO B9)]]

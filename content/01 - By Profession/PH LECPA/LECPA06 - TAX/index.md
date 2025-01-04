@@ -5,15 +5,15 @@ aliases:
 ---
 
 ## Note Synthesis
-- [[Fundamental Principles of Taxation|Fundamental Principles of Taxation]]
-- [[national tax|National Tax]]
+- [[./Fundamental Principles of Taxation|Fundamental Principles of Taxation]]
+- [[./national tax|National Tax]]
 	- [[Income Taxation|Income Taxation]]
-- [[local tax|Local Tax]]
-- [[Tax Remedies|Tax Remedies]]
+- [[./local tax|Local Tax]]
+- [[./Tax Remedies|Tax Remedies]]
 ## Video Lectures
-- [[Principles of Taxation (Draft)|Principles of Taxation (Draft)]]
-- [[Taxes, Laws and Administration (Draft)|Taxes, Laws and Administration (Draft)]]
-- [[Fundamentals of Income Taxation (Draft)|Fundamentals of Income Taxation (Draft)]]
+- [[../../../../Principles of Taxation (Draft)|Principles of Taxation (Draft)]]
+- [[./Taxes, Laws and Administration (Draft)|Taxes, Laws and Administration (Draft)]]
+- [[./Fundamentals of Income Taxation (Draft)|Fundamentals of Income Taxation (Draft)]]
 - [[Final Income Taxation (Draft)|Final Income Taxation (Draft)]]
 - [[Income Taxation –Final Withholding Tax Table (Draft)|Income Taxation –Final Withholding Tax Table (Draft)]]
 - [[Capital Gains Taxation (Draft)|Capital Gains Taxation (Draft)]]
@@ -32,11 +32,11 @@ aliases:
 - [[VAT on Importation (Draft)|VAT on Importation (Draft)]]
 - [[Business Taxation (Draft)|Business Taxation (Draft)]]
 - [[Excise Tax & Documentary Stamp Tax (Draft)|Excise Tax & Documentary Stamp Tax (Draft)]]
-- [[Tax Remedies (Draft)|Tax Remedies (Draft)]]
+- [[./Tax Remedies (Draft)|Tax Remedies (Draft)]]
 - [[Local Taxation (Draft)|Local Taxation (Draft)]]
 - [[Preferential Taxation (Draft)|Preferential Taxation (Draft)]]
 ## Live Lectures
-- [[TAX Fundamental Concepts (Live)|TAX Fundamental Concepts (Live)]]
+- [[./TAX Fundamental Concepts (Live)|TAX Fundamental Concepts (Live)]]
 - [[Gross Income (Live)|Gross Income (Live)]]
 - [[Allowable Deductions (Live)|Allowable Deductions (Live)]]
 - [[Individual Taxpayer (Live)|Individual Taxpayer (Live)]]
@@ -44,8 +44,8 @@ aliases:
 - [[Partnership, Joint Venture, Estate and Trust (Live)|Partnership, Joint Venture, Estate and Trust (Live)]]
 - [[Transfer Taxes (Live)|Transfer Taxes (Live)]]
 - [[VAT and Percentage Tax (Live)|VAT and Percentage Tax (Live)]]
-- [[Documentary Stamp Tax and Excise Tax (Live)|Documentary Stamp Tax and Excise Tax (Live)]]
-- [[Remedies and Penalties (Live)|Remedies and Penalties (Live)]]
+- [[./Documentary Stamp Tax and Excise Tax (Live)|Documentary Stamp Tax and Excise Tax (Live)]]
+- [[./Remedies and Penalties (Live)|Remedies and Penalties (Live)]]
 - [[Local and Preferential Taxation (Live)|Local and Preferential Taxation (Live)]]
 ## References
 - REO Batch 9 recorded and live lectures, and other materials

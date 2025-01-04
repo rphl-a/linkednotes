@@ -4,4 +4,4 @@ There are currently 23 divisions in the Court of Appeals, with each having one C
 
 The incumbent Presiding Justice is Fernanda Lampas-Peralta.
 
-![[Supreme Court#Requirements for a Justice of the Court|Supreme Court > Requirements for a Justice of the Court]]
+![[./Supreme Court#Requirements for a Justice of the Court|Supreme Court > Requirements for a Justice of the Court]]

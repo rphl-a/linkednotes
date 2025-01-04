@@ -5,10 +5,10 @@ aliases:
 ---
 
 ## Note Synthesis
-- [[Partnership Accounting|Partnership Accounting]]
+- [[./Partnership Accounting|Partnership Accounting]]
 ## Video Lectures
-- [[Partnership Accounting (Draft)|Partnership Accounting (Draft)]]
-- [[Corporate Liquidation (Draft)|Corporate Liquidation (Draft)]]
+- [[./Partnership Accounting (Draft)|Partnership Accounting (Draft)]]
+- [[./Corporate Liquidation (Draft)|Corporate Liquidation (Draft)]]
 - [[Revenue Recognition (Draft)|Revenue Recognition (Draft)]]
 - [[Home office, Branch & Agency (Draft)|Home office, Branch & Agency (Draft)]]
 - [[Business Combination (Draft)|Business Combination (Draft)]]
@@ -22,7 +22,7 @@ aliases:
 - [[Insurance Contracts (Draft)|Insurance Contracts (Draft)]]
 - [[Service Concession Arrangement (Draft)|Service Concession Arrangement (Draft)]]
 ## Live Lectures
-- [[Partnership Accounting (Live)|Partnership Accounting (Live)]]
+- [[./Partnership Accounting (Live)|Partnership Accounting (Live)]]
 - [[Corporate Liquidation (Live)|Corporate Liquidation (Live)]]
 - [[Revenue Recognition (Live)|Revenue Recognition (Live)]]
 - [[Home Office And Branch Accounting (Live)|Home Office And Branch Accounting (Live)]]

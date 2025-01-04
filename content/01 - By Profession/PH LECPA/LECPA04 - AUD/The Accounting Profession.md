@@ -8,18 +8,18 @@ tags:
 - [ ] TODO: Live Lecture Keys
 - [ ] TODO: Recorded Video Lectures
 
-The Accounting Profession is regulated through the [[Philippine Accountancy Act of 2004|Philippine Accountancy Act of 2004]], lead by the [[Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[Supervision and control|supervision and control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
+The Accounting Profession is regulated through the [[../../../11 - Philippine Statutes/Philippine Accountancy Act of 2004/Philippine Accountancy Act of 2004|Philippine Accountancy Act of 2004]], lead by the [[../../../11 - Philippine Statutes/Philippine Accountancy Act of 2004/Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[../../../11 - Philippine Statutes/Administrative Code of 1987/Supervision and control|supervision and control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
 
-All accountants must abide with the provisions of the [[Code of Ethics for Professional Accountants|Code of Ethics for Professional Accountants]].
+All accountants must abide with the provisions of the [[./Code of Ethics for Professional Accountants|Code of Ethics for Professional Accountants]].
 
 ## Licensure Examination
-A Certified Public Accountant generally refers to an individual who have passed the [[💵 PH LECPA|Licensure Examinations for Certified Public Accountants]]. An individual taking the examinations shall have the following qualifications and requirements:
+A Certified Public Accountant generally refers to an individual who have passed the [[../💵 PH LECPA|Licensure Examinations for Certified Public Accountants]]. An individual taking the examinations shall have the following qualifications and requirements:
 
 | Qualification                   | Documentary Requirement                                             |
 | ------------------------------- | ------------------------------------------------------------------- |
 | Filipino Citizen                | Birth Certificate                                                   |
 | Good Moral Character            | NBI Clearance                                                       |
-| Graduate of the [[BSA Program|BSA Program]] | Transcript of Records marked with *for board examination purposes*. |
+| Graduate of the [[./BSA Program|BSA Program]] | Transcript of Records marked with *for board examination purposes*. |
 
 > **Exception**: subjects or citizens of foreign countries with reciprocity may practice the Accountancy Profession in the Philippines subject to the provisions of the treaty or law governing for the same.
 
@@ -45,7 +45,7 @@ An accountant who shall practice the profession shall comply with the initial an
 	1. An oath taken before a member of the Board, or of any government official, authorized by the Commission, or any person authorized by law to administer oaths.
 	2. A Certificate of Registration as a Certified Public Accountant. It shall bear the signature of the Chairperson of the Commission and the Chairperson and Members of the Board, stamped with the official seal of the Commission and the Board. This Certificate shall be valid until withdrawn, suspended, or revoked by law.
 2. Continuing requirements:
-	1. A Professional Identification Card signed by the Chairperson of the Commission, bearing the registration number, date of issuance, and expiration date, renewable every 3 years from date of birth, but on or before September 30 of the third year from date of issuance. Also see: [[#CPD| > CPD]]
+	1. A Professional Identification Card signed by the Chairperson of the Commission, bearing the registration number, date of issuance, and expiration date, renewable every 3 years from date of birth, but on or before September 30 of the third year from date of issuance. Also see: [[The Accounting Profession#CPD|CPD]]
 	2. Shall not be convicted by a court of competent jurisdiction of a criminal offense involving moral turpitude or guilty of immoral and dishonourable conduct.
 	3. Sound mind.
 
@@ -54,25 +54,25 @@ Note that CPD units only apply to the issuance of the PRC ID, while the non-conv
 The Board may reinstate the validity of a revoked Certificate of Registration after the lapse of two years from the date of revocation. The Board may also exempt the applicant from taking another examination.
 
 ### Scope
-In accordance with the provisions of the [[Philippine Accountancy Act of 2004|Philippine Accountancy Act of 2004]], the scope of practice for the Accountancy Profession is categorized and governed by the following organization:
+In accordance with the provisions of the [[../../../11 - Philippine Statutes/Philippine Accountancy Act of 2004/Philippine Accountancy Act of 2004|Philippine Accountancy Act of 2004]], the scope of practice for the Accountancy Profession is categorized and governed by the following organization:
 
 | Scope                 | Sectoral Organization                            | Quick Definition                                                                                     |
 | --------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 | Public Practice       | [[Association of CPAs in Public Practice|Association of CPAs in Public Practice]]       | Rendering of CPA services to more than 1 client.                                                     |
 | Commerce and Industry | [[Association of CPAs in Commerce and Industry|Association of CPAs in Commerce and Industry]] | Employed by a private company and the role requires CPA license as its qualification requirements.   |
 | Government            | [[Government Association of CPAs|Government Association of CPAs]]               | Employed by a government agency and the role requires CPA license as its qualification requirements. |
-| Education             | [[National Association of CPAs in Education|National Association of CPAs in Education]]    | Primarily for Higher Educational Institutions offering the [[BSA Program|BSA Program]].                          |
+| Education             | [[National Association of CPAs in Education|National Association of CPAs in Education]]    | Primarily for Higher Educational Institutions offering the [[./BSA Program|BSA Program]].                          |
 
-Also see: [[Brief History of Sectoral Organizations for CPAs|Brief History of Sectoral Organizations for CPAs]]
+Also see: [[./Brief History of Sectoral Organizations for CPAs|Brief History of Sectoral Organizations for CPAs]]
 
 ### Name and Seal (Professional Practice)
 A Professional Accountant shall affix their seal to documents issued in relation to their profession, and shall contain the following elements:  
-![[Pasted image 20241202211326.png|Pasted image 20241202211326.png]]
+![[./Attachments/Pasted image 20241202211326.png|Pasted image 20241202211326.png]]
 - The word “CPA” in the middle inner circle;
 - The full given name in the above portion of the outer circle area; and
 - The CPA Registration No. in the bottom portion of the outer circle area.
 
-![[Pasted image 20241202211518.png|Pasted image 20241202211518.png]]  
+![[./Attachments/Pasted image 20241202211518.png|Pasted image 20241202211518.png]]  
 A Professional Accountant shall, at its minimum, also Indicate to their signed documents in relation to the profession their registration number, including its date of issuance and the duration of validity, accreditations, and a Professional Tax Receipt number indicating therein the date and location of payment.
 
 > CPA Dry Seal image obtained from [this Facebook post](https://www.facebook.com/RiffelStamp/posts/661319224208435/?_rdc=1&_rdr), and the Auditor’s signature, from [ALI’s 2023 Audited Financial Statements](https://ir.ayalaland.com.ph/wp-content/uploads/2024/07/Material-Information-Ayala-Land-Consolidated-and-Parent-FS-FY-2023.pdf).
