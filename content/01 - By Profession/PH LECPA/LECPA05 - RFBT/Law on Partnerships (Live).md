@@ -135,9 +135,9 @@ draft: true
 	- Prohibition of engaging in another business:
 		- Violation: profits from other business becomes common fund of the partnership
 		- No. 11:
-			- ![[Pasted image 20241205105125.png|Pasted image 20241205105125.png]]
+			- ![[./Attachments/Pasted image 20241205105125.png|Pasted image 20241205105125.png]]
 		- No. 12:
-			- ![[Pasted image 20241205105230.png|Pasted image 20241205105230.png]]
+			- ![[./Attachments/Pasted image 20241205105230.png|Pasted image 20241205105230.png]]
 		- No. 13: 
 - Until No. 15 (ENDPOINT) of LL Handouts
 
