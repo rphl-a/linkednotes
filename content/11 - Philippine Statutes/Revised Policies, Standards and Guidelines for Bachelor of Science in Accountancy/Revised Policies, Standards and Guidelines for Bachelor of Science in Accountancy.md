@@ -13,7 +13,7 @@ tags:
 ---
 
 ## Introduction
-The Revised PSGs for the [[../../01 - By Profession/PH LECPA/LECPA04 - AUD/BSA Program|BSA Program]] is the governing standard regulating the provision of a Baccalaureate Degree in Accountancy in the Philippines. It is based in the provisions of the Higher Education Act of 1994.
+The Revised PSGs for the [[BSA Program|BSA Program]] is the governing standard regulating the provision of a Baccalaureate Degree in Accountancy in the Philippines. It is based in the provisions of the Higher Education Act of 1994.
 
 The lead agency of implementing the provisions of the standard is the [[Commission on Higher Education|Commission on Higher Education]].
 
