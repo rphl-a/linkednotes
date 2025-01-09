@@ -115,7 +115,7 @@ draft: true
 							- CPA may teach law subjects for accountancy students only
 							- Members of the BAR may teach law subjects to students
 			- When already a CPA, you must use a CPA Seal designed by the Board of Accountancy
-				- ![[./Attachments/Pasted image 20241202111444.png|Pasted image 20241202111444.png]]
+				- ![[Pasted image 20241202111444.png|Pasted image 20241202111444.png]]
 			- When signing documents:
 				- First Line: Given Name
 				- Second Line: CPA Registration no.
@@ -155,4 +155,4 @@ draft: true
 ## Questions and Thoughts
 …
 
-Also view: [[../../../11 - Philippine Statutes/Philippine Accountancy Act of 2004/Philippine Accountancy Act of 2004|Philippine Accountancy Act of 2004]] (Synthesis)
+Also view: [[Philippine Accountancy Act of 2004|Philippine Accountancy Act of 2004]] (Synthesis)
