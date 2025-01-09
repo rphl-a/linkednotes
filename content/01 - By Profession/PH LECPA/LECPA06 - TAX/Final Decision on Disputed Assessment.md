@@ -1,0 +1,6 @@
+A final decision on disputed assessment is the reply of the BIR upon further dispute by the taxpayer after issuance of a FAN. Generally, the FDDA is the final decision of the BIR for a disputed tax assessment and gives rise to collect tax dues[^1] from the taxpayer. Upon the issuance thereof, or upon the lapse of the 180 day period from issuance of FAN, the taxpayer has **30 days** to file a case to the [[./Court of Tax Appeals|Court of Tax Appeals]] in division.
+
+Micro, small, and medium taxpayers may however file further dispute to the Commissioner of Internal Revenue since their initial assessment revolves around the decisions of a Regional Director. In this case, the 30 day lapse period upon issuance of an FDDA is still operative,[^2] unless the BIR revises its decision upon further dispute, to which the revised FDDA can be filed to the CTA in division within the same 30 days period.
+
+[^1]: No collection of tax dues by the BIR shall be executed until a case has reached finality for administrative remedies.
+[^2]: Meaning, if an FDDA is issued by a Regional Director, and then the taxpayer raises this matter to the Commissioner, and subsequently, the Commissioner renders and affirms the same decision as that of a Regional Director after a period of 5 days, the taxpayer now only has 25 days to file a case to the CTA *in division*.
