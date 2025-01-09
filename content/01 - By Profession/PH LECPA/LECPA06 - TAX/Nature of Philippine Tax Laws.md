@@ -31,6 +31,6 @@ Finally, tax laws are generally prospective (or forward-looking) by nature. Retr
 > 
 > **Further Research: Income Taxation, by Tabag and Garcia**: It is true that tax laws shall generally be prospective by nature. However, a tax law may also be retrospective by nature, but is discouraged. A retrospective law should not be given if it would be harsh and oppressive which violate the taxpayer’s constitutional rights regarding equality and due process.
 
-Also read: [[./Tax compared against similar items|Tax compared against similar items]]  
+Also read: [[Tax compared against similar items|Tax compared against similar items]]  
 
-Continue reading: [[./The Legislative Process - Philippine Congress|The Legislative Process - Philippine Congress]]
+Continue reading: [[The Legislative Process - Philippine Congress|The Legislative Process - Philippine Congress]]
