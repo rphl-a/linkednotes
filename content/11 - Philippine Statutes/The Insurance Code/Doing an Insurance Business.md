@@ -20,4 +20,4 @@ The term doing an insurance business or transacting an insurance business, withi
 
 In the application of the provisions of this Code, the fact that no profit is derived from the making of insurance contracts, agreements or transactions or that no separate or direct consideration is received therefor, shall not be deemed conclusive to show that the making thereof does not constitute the doing or transacting of an insurance business. 
 
-Also view: [[./The Insurance Code|The Insurance Code]].
+Also view: [[The Insurance Code|The Insurance Code]].
