@@ -1,6 +1,6 @@
 Tax, being legislative by nature, are governed by the provisions of the National Internal Revenue Code of 1997 (as amended) in the case of national taxes, and various ordinances through the Local Government Code of 1991 (as amended) in the case of local taxes.
 
-Also read: [[./Amendments vs Revisions|Amendments vs Revisions]]
+Also read: [[Amendments vs Revisions|Amendments vs Revisions]]
 ## Definitions of Taxation
 Taxation may be defined in any of the three definitions: (a) as an inherent power of the State; (b) as a process of levying tax; or (c) as a mode of allocating government burden to the people (i.e., cost allocation).
 
@@ -46,7 +46,7 @@ However, for taxation, *delegation is not necessary*.
 > 
 > Also note that the power to tax may be delegated to other entities as provided for under the Philippine Constitution. These entities are: (a) the President; (b) Local Government Units; and (c) through the exercise of direct democracy.
 
-Also read: [[./Hierarchy of Laws|Hierarchy of Laws]] and [[./The Legislative Process - Philippine Congress#Special Notes on Taxation|Special Notes on Power of Taxation]]
+Also read: [[Hierarchy of Laws|Hierarchy of Laws]] and [[The Legislative Process - Philippine Congress#Special Notes on Taxation|Special Notes on Power of Taxation]]
 
 | Characteristic                     | Taxation                                   | Police Power                                       | Eminent Domain                                                           |
 | ---------------------------------- | ------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -77,7 +77,7 @@ However, the power to tax is inferior to the non-impairment clause of the Philip
 
 A contract is impaired if the terms and conditions of a contract is changed by law or by a party without the consent of the other, thereby weaking the position or rights of the latter. In simpler terms, tax cannot disturb the operation of a contract between two parties by a mere taxing statute.[^3]
 
-Lastly, the power of taxation is both constitutionally and inherently limited. Also see: [[./Limitations of Taxation|Limitations of Taxation]]
+Lastly, the power of taxation is both constitutionally and inherently limited. Also see: [[Limitations of Taxation|Limitations of Taxation]]
 ### As a Process
 Taxation as a process refers to the levying and assessment of tax.
 - Taxes are levied/imposed through the power of the Congress.
@@ -85,7 +85,7 @@ Taxation as a process refers to the levying and assessment of tax.
 
 Therefore, the power to tax is a power vested in the Congress. Meaning, there must be a law provided for by the Congress for an object be subject to tax- the impact of taxation.
 
-Also see: [[./The Legislative Process - Philippine Congress|The Legislative Process - Philippine Congress]]
+Also see: [[The Legislative Process - Philippine Congress|The Legislative Process - Philippine Congress]]
 
 The Congress may also vest the power to tax to the Local Government Units through its legislative authorities- the *Sandiganbayan*.
 

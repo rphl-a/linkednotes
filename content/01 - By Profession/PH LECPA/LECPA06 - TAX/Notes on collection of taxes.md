@@ -15,4 +15,4 @@ In coercively collecting the tax due against a taxpayer, due process must still 
 
 The BIR issues a Warrant of Distraint or a Warrant of Levy again and again for as long as there are tax debts against the taxpayer.
 
-Retrieved from [[./Tax Remedies (Initial Synthesis)|Tax Remedies (Initial Synthesis)]]
+Retrieved from [[Tax Remedies (Initial Synthesis)|Tax Remedies (Initial Synthesis)]]

@@ -5,15 +5,15 @@ The primary purpose of taxation is to raise revenues for the Philippine governme
 The following are the elements required for a valid tax:
 1. It must be for public purpose.
 2. It must be uniform and equitable
-3. It must not violate the [[./Limitations of Taxation|Limitations of Taxation]]
-4. [[./Introduction to the Philippine Constitution|It must be levied by a taxing power]] [[./Hierarchy of Laws|having jurisdiction over the object of taxation]].
-5. It must be [[./Classification of taxes|proportionate in character]][^1]
+3. It must not violate the [[Limitations of Taxation|Limitations of Taxation]]
+4. [[Introduction to the Philippine Constitution|It must be levied by a taxing power]] [[Hierarchy of Laws|having jurisdiction over the object of taxation]].
+5. It must be [[Classification of taxes|proportionate in character]][^1]
 6. It is generally payable in money at regular intervals.
 
 ## Classification of Tax
 Taxes may be classified in accordance with their purpose, subject matter, incidence, amount, rate, and imposing authority. ^a84000
 
-Read: [[./Classification of taxes|proportionate in character]]
+Read: [[Classification of taxes|Classification of taxes]]
 
 ## Sources of Tax Laws
 Tax laws may originate from any of the following sources:
@@ -30,7 +30,7 @@ Tax laws may originate from any of the following sources:
 - **Judicial Decisions**[^3]
 - **Local Ordinances**
 
-Also read: [[./Nature of Philippine Tax Laws|Nature of Philippine Tax Laws]]
+Also read: [[Nature of Philippine Tax Laws|Nature of Philippine Tax Laws]]
 
 > [!danger]- Vague: on Executive Orders as a source of tax law (UNRESOLVED)  
 > Executive Orders as a source of tax laws is a debatable classification. Executive Orders are issuances made by the President of the Philippine Republic and generally only affects the Executive Department, or at least under the 1987 Philippine Constitution. 
@@ -39,7 +39,7 @@ Also read: [[./Nature of Philippine Tax Laws|Nature of Philippine Tax Laws]]
 > 
 > But then again, the website of BIR itself does not include Executive Orders as a source of tax law. See here: [Guide to Philippine Tax Law Research](https://www.bir.gov.ph/guide-to-PH-tax-law-research)
 > 
-> Related to this opinion: [[./Tax Legislative powers|Tax Legislative powers]]
+> Related to this opinion: [[Tax Legislative powers|Tax Legislative powers]]
 
 > [!danger]- Vague: on the *fewest* source of tax laws being PDs (UNRESOLVED)  
 > It was also mentioned in the recorded material that the fewest source of tax laws are Presidential Decrees. [However, upon reviewing and cross-checking with the website of BIR](https://www.bir.gov.ph/tax-guide-PH-taxation), ==there are no Presidential Decrees still in effect that affect tax laws==.
@@ -59,7 +59,7 @@ The power to tax is regarded as the **most absolute** of all the powers of the g
 
 The power to tax is only limited by the inherent and constitutional limitations provided for under the Philippine Constitution, and the sole principal check on its abuse rests on the responsibility of the legislators to their constituents.[^4] [^5]
 
-Also see: [[./Limitations of Taxation|Limitations of Taxation]]
+Also see: [[Limitations of Taxation|Limitations of Taxation]]
 
 ## Situs of Taxation
 The situs of taxation refers to the location of the object of taxation. The place of the object is where the tax is imposed. Note that in Financial Reporting, the concept of situs do not apply, except for the disclosure of the various operating segments of the company (i.e., its geographical area).
@@ -94,7 +94,7 @@ There are three principles of a sound tax system as formulated by [[Adam Smith|A
 
 1. *Fiscal Adequacy*. Taxes collected by the government shall be sufficient to meet the demand for public expenditures.
 2. *Administrative Feasibility*. Tax shall be capable of convenient, just, and effective administration.
-3. *Theoretical Justice*. Tax is imposed with equity and certainty, and must consider the taxpayer’s ability to pay and benefits received. This is consonance with the progressive system of taxation, which in itself is a Constitutional Limitation. Also read: [[./Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]].
+3. *Theoretical Justice*. Tax is imposed with equity and certainty, and must consider the taxpayer’s ability to pay and benefits received. This is consonance with the progressive system of taxation, which in itself is a Constitutional Limitation. Also read: [[Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]].
 
 Further reading: [Principles of a Sound Tax System, by DELA PEÑA, Mark Angelo S. (2019)](https://www.projectjurisprudence.com/2019/12/principles-of-sound-tax-system.html)
 
@@ -102,7 +102,7 @@ Various tax rules may also result to effects in accordance with consumer choice 
 - Income effect, which describes how a change in consumer income impacts consumption. It generally makes people more economically efficient.
 - Substitution effect, which describes how a change in price of goods reallocates resources between products. It generally makes people more economically inefficient.
 
-[^1]: Debatable. Also see: [[./Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]]
+[^1]: Debatable. Also see: [[Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]]
 [^2]: Presidential Decrees, despite being issued by an Executive authority, has the force of a legislation. As provided for under the Philippine Official Gazette: *Presidential Decrees were an innovation made by President Ferdinand E. Marcos with the proclamation of Martial Law. They served to arrogate unto the Chief Executive the [law-making] powers of Congress. Only President Marcos issued Presidential Decrees. In the Freedom Constitution of 1986, President Corazon C. Aquino recognized the validity of existing Presidential Decrees unless otherwise repealed.*
 [^3]: RA 386, Chapter I Section 8: Judicial decisions applying or interpreting the laws or the Constitution shall form a part of the legal system in the Philippines.
 [^4]: https://www.projectjurisprudence.com/2019/12/scope-of-taxation.html

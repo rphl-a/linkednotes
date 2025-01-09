@@ -5,7 +5,7 @@ aliases:
 ---
 
 ## Note Synthesis
-- [[./Cash to Accrual Basis|Cash to Accrual Basis]]
+- [[Cash to Accrual Basis|Cash to Accrual Basis]]
 - Asset Accounts
 	- [[Cash and Cash Equivalents|Cash and Cash Equivalents]]
 	- [[Receivables|Receivables]]
@@ -15,7 +15,7 @@ aliases:
 - [[Conceptual Framework for Financial Reporting (Draft)|Conceptual Framework for Financial Reporting (Draft)]]
 - [[Accounting Process (Draft)|Accounting Process (Draft)]]
 - [[Accounting Changes & Error Correction (Draft)|Accounting Changes & Error Correction (Draft)]]
-- [[./Cash to Accrual Basis & Single Entry (Draft)|Cash to Accrual Basis & Single Entry (Draft)]]
+- [[Cash to Accrual Basis & Single Entry (Draft)|Cash to Accrual Basis & Single Entry (Draft)]]
 - [[Cash and Cash Equivalents (Draft)|Cash and Cash Equivalents (Draft)]]
 - [[Audit of Cash (Draft)|Audit of Cash (Draft)]]
 - [[Receivables (Draft)|Receivables (Draft)]]
@@ -64,7 +64,7 @@ aliases:
 - [[Interim Reporting (Draft)|Interim Reporting (Draft)]]
 - [[SMEs (Draft)|SMEs (Draft)]]
 ## Live Lectures
-- [[./Accounting Process, Single Entry, Errors (Live)|Accounting Process, Single Entry, Errors (Live)]]
+- [[Accounting Process, Single Entry, Errors (Live)|Accounting Process, Single Entry, Errors (Live)]]
 - [[Cash and Cash Equivalents (Live)|Cash and Cash Equivalents (Live)]]
 - [[Trade and Other Receivables, and Notes Receivable (Live)|Trade and Other Receivables, and Notes Receivable (Live)]]
 - [[Loan Receivable & Impairment, and Receivable Financing (Live)|Loan Receivable & Impairment, and Receivable Financing (Live)]]

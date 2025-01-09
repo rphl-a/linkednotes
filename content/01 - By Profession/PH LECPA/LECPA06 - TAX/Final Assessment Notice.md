@@ -7,7 +7,7 @@ A FAN is considered valid if it is issued within the prescriptive period (i.e., 
 
 The computation for the assessed tax due follows the 365[^1] day period in a year are as follow:
 - `Basic tax due`
-- + [[./Surcharge on tax due|25% or 50% Surcharge (tax due)]]
+- + [[Surcharge on tax due|25% or 50% Surcharge (tax due)]]
 - + `12% annual interest (tax due)`
 - = `Total tax due by taxpayer`[^2]
 

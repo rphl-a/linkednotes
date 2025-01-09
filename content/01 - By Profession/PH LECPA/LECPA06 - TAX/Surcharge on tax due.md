@@ -1,4 +1,4 @@
-The [[../../../11 - Philippine Statutes/National Internal Revenue Code/National Internal Revenue Code|National Internal Revenue Code]] imposes surcharge in instances where there is failure to file a return, pay a tax, or file an inaccurate return, or when there is fraudulent intent.
+The [[National Internal Revenue Code|National Internal Revenue Code]] imposes surcharge in instances where there is failure to file a return, pay a tax, or file an inaccurate return, or when there is fraudulent intent.
 
 | Surcharge amount                      | Instances covered                                                                                                                                   |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |

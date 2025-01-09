@@ -9,15 +9,15 @@ synthesis: false
 draft: true
 ---
 
-View synthesis: [[./Cash to Accrual Basis|Cash to Accrual Basis]]
+View synthesis: [[Cash to Accrual Basis|Cash to Accrual Basis]]
 
-[[../../../12 - Accounting Standards/International Accounting Standards (IAS)/International Accounting Standard No. 01/International Accounting Standard No. 01|International Accounting Standard No. 01]] states that an entity shall prepare its financial statements, except for cash flow information, using the **accrual basis of accounting**.
+[[International Accounting Standard No. 01|International Accounting Standard No. 01]] states that an entity shall prepare its financial statements, except for cash flow information, using the **accrual basis of accounting**.
 - An accrual basis of accounting is used when an entity recognizes items as assets, liabilities, equity, income, and expenses **when they satisfy the definitions and recognition criteria** for those elements provided under the Conceptual Framework.
 
 However, an entity may use cash basis of accounting for simplicity purposes, which is most useful for small businesses or for use internally by the organization.
 - A cash basis of accounting is used when an entity recognizes items as assets, liabilities, equity, income, and expenses **when the cash is received by the entity**.
 
-The preferred method under [[./Generally Accepted Accounting Principles|Generally Accepted Accounting Principles]] is accrual basis of accounting. However, in some cases, it is more preferred for an entity to report its financial statements using cash basis of accounting.
+The preferred method under [[Generally Accepted Accounting Principles|Generally Accepted Accounting Principles]] is accrual basis of accounting. However, in some cases, it is more preferred for an entity to report its financial statements using cash basis of accounting.
 
 The table below summarizes the difference between accrual and cash basis of accounting:
 
@@ -58,7 +58,7 @@ Note that the process is reversed if converting from accrual to cash basis (i.e.
 | Deferred income, end<br>Accrued income, beginning | Income received (cash)<br>Deferred income, beginning<br>Accrued income, end |
 |                                                   | Income recognized (accrual)                                                 |
 
-For income other than sales, two familiar terms emerge: [[./Deferred income|Deferred income]] (credit) and [[./Accrued income|Accrued income]] (debit).
+For income other than sales, two familiar terms emerge: [[Deferred income|Deferred income]] (credit) and [[Accrued income|Accrued income]] (debit).
 
 ### Expense other than purchases
 
@@ -67,7 +67,7 @@ For income other than sales, two familiar terms emerge: [[./Deferred income|Defe
 | Expenses paid (cash)<br>Prepaid expenses, beginning<br>Accrued expenses, end | Prepaid expenses, end<br>Accrued expenses, beginning |
 | Expenses paid (accrual)                                                      |                                                      |  
 
-Notice that we also use [[./Prepaid expense|Prepaid expense]] (debit) and [[./Accrued expense|Accrued expense]] (credit).
+Notice that we also use [[Prepaid expense|Prepaid expense]] (debit) and [[Accrued expense|Accrued expense]] (credit).
 
 > Notice how prepaid accounts have the same normal balances to their income/expense counterpart: Deferred income has a credit balance in that sales also has a credit balance, and v.v. 
 > 

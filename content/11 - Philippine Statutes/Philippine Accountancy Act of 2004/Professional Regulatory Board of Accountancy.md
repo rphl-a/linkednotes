@@ -1,4 +1,4 @@
-The Professional Regulatory Board of Accountancy is the lead agency for the [[./Philippine Accountancy Act of 2004|Philippine Accountancy Act of 2004]] and such other laws as may be provided for. It is under the [[../Administrative Code of 1987/Supervision and control|control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
+The Professional Regulatory Board of Accountancy is the lead agency for the [[Philippine Accountancy Act of 2004|Philippine Accountancy Act of 2004]] and such other laws as may be provided for. It is under the [[Supervision and control|control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
 
 ## Composition
 The Board is composed of the following officers:
@@ -26,7 +26,7 @@ The President may, at any time, remove an officer of the Board, with regards to 
 The appointment process for its officers are as follow:
 1. The Accredited Professional Organization for the Accountancy Profession, which is the [[Philippine Institute of Certified Public Accountants|Philippine Institute of Certified Public Accountants]], submits a list of five (5) nominees for each position in the Board.
 2. The Commissions ranks the nominees and submits the top three (3) nominees to the President.
-3. The President appoints said nominees to the Board. *Note that it is no longer subject to the consent of the [[./Commission on Appointments|Commission on Appointments]]*.
+3. The President appoints said nominees to the Board. *Note that it is no longer subject to the consent of the [[Commission on Appointments|Commission on Appointments]]*.
 
 ### Term of Office
 The officers shall hold their term of office for three (3) years, and two successful complete terms shall only be eligible for reappointment until the lapse of one (1) year. *Appointments that fill-up an expired term is not considered as a complete term, and officers so appointed in cases of vacancy shall serve for the unexpired portion of their respective terms only.*

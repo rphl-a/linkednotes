@@ -10,7 +10,7 @@ The following are escapes from taxation that will result to a loss in government
 - **Tax evasion, or tax dodging**, refers to the criminal act of non-payment of taxes.
 - **Tax avoidance, or tax minimization, tax planning**, refers to the reduction of taxes paid through legal means. Examples include availing of provisions in the Tax Code to reduce the effect of tax imposed, such as in the case of Donor’s Tax exemption threshold of P250,000. *Note that offsetting losses and income from subsidiaries are not allowed in the Philippines*.
 
-**Tax exemption** refers to the explicit exemption of the Philippine Government the payment of tax by the taxpayers. It is legislative by nature, and requires the concurrence of an absolute simple majority of each House of Congress for the passage of such law. Also see: [[./The Legislative Process - Philippine Congress|The Legislative Process - Philippine Congress]].
+**Tax exemption** refers to the explicit exemption of the Philippine Government the payment of tax by the taxpayers. It is legislative by nature, and requires the concurrence of an absolute simple majority of each House of Congress for the passage of such law. Also see: [[The Legislative Process - Philippine Congress|The Legislative Process - Philippine Congress]].
 
 ### Amnesty and Condonation
 In addition to the abovementioned examples, the following also results to a reduction in government revenue borne as a result of forgone revenue through forgiveness of the government.
@@ -18,7 +18,7 @@ In addition to the abovementioned examples, the following also results to a redu
 - **Tax Condonation**. It refers to the condonation of civil penalties relating to violation of tax laws. It does not absolve an individual from any civil or administrative liabilities attached thereto, and only applies proactively. This is in contrast with tax amnesties, which applies retroactively.
 
 ## Compromise and Abatement
-A compromise refers when an agreement between the taxpayer and the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]] is reached, resulting to the settlement of the taxpayer’s liability for less than the settled amount. A compromise can only be permitted under these two conditions:
+A compromise refers when an agreement between the taxpayer and the [[Bureau of Internal Revenue|Bureau of Internal Revenue]] is reached, resulting to the settlement of the taxpayer’s liability for less than the settled amount. A compromise can only be permitted under these two conditions:
 1. **Compromise**: If there is doubt as to the validity of the assessment, and the minimum settlement is 10% of the basic tax due; or
 2. **Abatement/Cancellation**: If the taxpayer faces financial incapacity, and the minimum settlement is 40% of the basic tax due.
 

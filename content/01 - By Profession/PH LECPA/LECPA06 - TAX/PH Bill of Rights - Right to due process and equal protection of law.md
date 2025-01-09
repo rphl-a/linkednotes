@@ -10,7 +10,7 @@ Procedural due process refers to the procedures and manners required in enforcin
 ### Substantive Due Process
 Substantive due process meanwhile refers to the substance of the law itself. Meaning, it requires that laws and regulations enacted by the government be reasonable, fair, and just. Further, laws shall be express, categorical, and unequivocal.
 
-Also see: [[./Notes on Due Process|Notes on Due Process]]
+Also see: [[Notes on Due Process|Notes on Due Process]]
 
 ## Equal Protection of Law
 The equal protection of law refers to the protection afforded to individuals or a group of individuals. No distinction shall be made when enforcing a law, but laws may nonetheless be distinct as to the same group of persons.
