@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "🏡 LinkedNotes",
 	pageTitleSuffix: " | LinkedNotes",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {
       provider: "null",
