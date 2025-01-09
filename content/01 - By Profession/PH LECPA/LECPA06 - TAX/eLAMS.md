@@ -1,0 +1,1 @@
+The electronic Letter of Authority Monitoring System, or eLAMS, is a system by the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]] which monitors the issuance of letter of authorities. All [[./Letter of Authority|Letter of Authority]] must be issued under eLAMS for it to be valid.

@@ -1,0 +1,1 @@
+A revenue district office, in the context of the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]]’s administrative structure, is an office under the Operations Group of its head agency headed by a Revenue District Officer. They are directly organized under a [[./BIR Regional Office|BIR Regional Office]] attached under the same head agency.

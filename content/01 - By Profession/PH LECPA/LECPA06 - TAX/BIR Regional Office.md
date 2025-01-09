@@ -1,0 +1,1 @@
+A regional office of the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]] refers to an office thereunder headed by a Regional Director. Each regional office is further organized into [[./Revenue District Office|Revenue District Office]] and is headed by a Regional Director.

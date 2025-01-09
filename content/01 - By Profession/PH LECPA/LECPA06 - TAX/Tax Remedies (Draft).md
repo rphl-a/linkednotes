@@ -11,8 +11,8 @@ draft: true
 
 ## Preliminaries
 - [ ] TODO: Watch Assessment for Taxpayer Remedies drills
-- [ ] TODO: TABAG Book
-- [ ] TODO: Compromise revision (and surcharge rates w/ EOPT Law)
+- [x] TODO: TABAG Book [completion:: 2025-01-09]
+- [x] TODO: Compromise revision (and surcharge rates w/ EOPT Law) [completion:: 2025-01-09]
 
 ## Notes
 - Tax remedies
@@ -296,4 +296,4 @@ draft: true
 ## Questions and Thoughts
 - [x] What if PAN → Protest, but not filed, is FLD/FAN → Protest no longer available? 
 
-See synthesis: [[./Tax Remedies|Tax Remedies]].
+See synthesis: [[./Tax Remedies (Initial Synthesis)|Tax Remedies (Initial Synthesis)]].

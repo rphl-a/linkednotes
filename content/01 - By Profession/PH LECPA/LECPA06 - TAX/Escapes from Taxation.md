@@ -1,7 +1,4 @@
 Escapes from taxation refers to the decrease (or non-payment) of tax to a taxing agency. They may be legal or illegal based on the method used. It may also have detrimental effects to the ability of the government to collect tax.
-
-- [ ] TODO: synthesize with [[./Remedies and Penalties (Live)|Remedies and Penalties (Live)]]
-	- “Note that tax penalties come from non-compliance with legal requirements but not ethical considerations”.
 ## No reduction in government revenue
 The following are escapes from taxation that will not result to a loss in government revenue:
 - **Shifting** refers to the transfer of tax burden from the statutory taxpayer to another.
@@ -24,6 +21,8 @@ In addition to the abovementioned examples, the following also results to a redu
 A compromise refers when an agreement between the taxpayer and the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]] is reached, resulting to the settlement of the taxpayer’s liability for less than the settled amount. A compromise can only be permitted under these two conditions:
 1. **Compromise**: If there is doubt as to the validity of the assessment, and the minimum settlement is 10% of the basic tax due; or
 2. **Abatement/Cancellation**: If the taxpayer faces financial incapacity, and the minimum settlement is 40% of the basic tax due.
+
+Compromise (10%) may be availed during the taxpayer’s administrative or judicial remedies. However, doubtful validity (40%) may only be availed during administrative remedies.
 
 The following entities also have the following jurisdiction based on the basic tax due amount by the taxpayer raised for compromise:
 

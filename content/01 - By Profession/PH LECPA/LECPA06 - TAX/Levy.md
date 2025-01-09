@@ -1,0 +1,3 @@
+Levy, when referred to the [[./Collection of taxes|Collection of taxes]], refers to the seizure of a taxpayer’s real properties to meet their delinquent tax obligations to the government.
+
+A *period of redemption* for one year is afforded to the erring taxpayer. During this period, the taxpayer may redeem the property, and they shall not be deprived of the possession and fruits from such real property. The buyer, however, still has possession of such property during this period and shall be entitled to the rents and other income thereof until the expiration of the time allowed for its redemption.

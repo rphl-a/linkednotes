@@ -1,7 +1,7 @@
-A letter notice refers to a letter issued by the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]] notifying a taxpayer that significant discrepancies on filed returns by the taxpayer exist in their system.
+A letter notice notifies a taxpayer that *significant* discrepancies exist on the filed returns of a taxpayer when matched against the records within their system.
 
-It merely informs the taxpayer of discrepancies, but the taxpayer may nonetheless reconcile said transactions with the BIR within 5 days of receipt of such notice, and paid 30 days thereafter (with no penalties). If paid beyond the 30 day period, penalties start to occur.
+Based from its name, it merely informs the taxpayer of their discrepancies and gives them a chance to reconcile such transactions with the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]] within 5 days upon receipt of such notice. After reconciling and discussions, the taxpayer shall pay the tax due 30 days thereafter. *No penalties or interests are imposed during this 30-day period*.
 
-Note that a letter notice is not a [[Letter of Authority|Letter of Authority]], nor is it an authority to conduct audit of the taxpayer’s books. A Letter of Authority, once issued, also supersedes a Letter Notice, making the latter null and void.
+A letter notice is **not** a [[./Letter of Authority|Letter of Authority]], which grants the BIR the power to conduct tax audit of a taxpayer’s books. The letter of authority also supersedes a letter notice, making the letter notice null and void.[^1]
 
-Finally, payments of tax for line items contained in a letter notice still included in a letter of authority may be claimed as tax credits under the letter of authority.
+[^1]: However, if payments were made by the taxpayer from the letter notice, and the assessment made during the actual tax audit process (i.e., assessment) still includes line-items that were already paid by such taxpayer, they may claim such amounts as a tax credit.
