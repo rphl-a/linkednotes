@@ -29,7 +29,7 @@ aliases:
 - [[Risk and Leverage (Draft)|Risk and Leverage (Draft)]]
 - [[Economics (Draft)|Economics (Draft)]]
 ## Live Lectures
-- [[./Basic Considerations in MAS (Live)|Basic Considerations in MAS (Live)]]
+- [[Basic Considerations in MAS (Live)|Basic Considerations in MAS (Live)]]
 - [[Cost Behaviour & CVP Analysis (Live)|Cost Behaviour & CVP Analysis (Live)]]
 - [[Variable and Absorption Costing (Live)|Variable and Absorption Costing (Live)]]
 - [[Financial Statements Analysis (Live)|Financial Statements Analysis (Live)]]
