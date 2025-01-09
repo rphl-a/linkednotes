@@ -5,14 +5,14 @@ tags:
 
 Tax Remedies refer to those remedies availed of by the government or the taxpayer involving the assessment and collection of taxes. These remedies ensure fairness and due process for taxpayers while still allowing the government to collect revenue efficiently.[^1]
 
-Provisions governing tax remedies are enclosed under Title VIII - Remedies of the [[../../../11 - Philippine Statutes/National Internal Revenue Code/National Internal Revenue Code|National Internal Revenue Code]], as amended.
+Provisions governing tax remedies are enclosed under Title VIII - Remedies of the [[National Internal Revenue Code|National Internal Revenue Code]], as amended.
 
 > [!tip]- Recall: Levy, Assessment, and Collection  
 > Levy is the process of imposing tax to an object. Assessment refers to determining the amount due by the taxpayer. Collection refers to the actual collection of tax due by the taxpayer.
 > 
 > Both assessment and collection are executive/administrative by nature. Levy is a legislative function.  
 > 
-> **NOT TO BE CONFUSED WITH [[Tax Remedies (Initial Synthesis)#Collection of Tax Due|LEVY OF REAL PROPERTIES]]!! **
+> **NOT TO BE CONFUSED WITH [[#Collection of Tax Due|LEVY OF REAL PROPERTIES]]!! **
 
 This note synthesis covers the following materials:
 - Pre-recorded videos for Tax Remedies (TAX16; REO B9, incl. HOs)
@@ -38,13 +38,13 @@ This note synthesis covers the following materials:
 The following terms are crucial to obtain understanding of this lesson:
 
 **Dates to remember** - The following dates are important in determining the prescriptible period in availing remedies provided for by law, especially to those dates when applying the *statute of limitations* under the NIRC.
-- Filing deadline - refers to the deadline for filing a tax return to the government. The filing deadline, in conjunction with the actual filing date of the taxpayer, is generally used to determine the prescriptive period of when the government may avail its remedies against the taxpayer, such as making an assessment to a taxpayer. Also see: [[./Filing Deadlines for National Taxes|Filing Deadlines for National Taxes]]
+- Filing deadline - refers to the deadline for filing a tax return to the government. The filing deadline, in conjunction with the actual filing date of the taxpayer, is generally used to determine the prescriptive period of when the government may avail its remedies against the taxpayer, such as making an assessment to a taxpayer. Also see: [[Filing Deadlines for National Taxes|Filing Deadlines for National Taxes]]
 - Payment deadline - refers to the deadline for paying the tax due owed by the taxpayer. The payment deadline, in conjunction with the actual payment date of the taxpayer, is generally used either to determine the accrual of interest on late payments by the taxpayer (also referred to as *delinquent interest*), or the recovery of erroneously paid taxes by the taxpayer.
 
-**Remedies** - Remedies refer to those *options* by the taxpayer or the government of ensuring fair collection of taxes within a specific set of processes. Adherence to this due process is crucial of abiding the [[./PH Bill of Rights - Right to due process and equal protection of law|right to due process]], unless waived.
+**Remedies** - Remedies refer to those *options* by the taxpayer or the government of ensuring fair collection of taxes within a specific set of processes. Adherence to this due process is crucial of abiding the [[PH Bill of Rights - Right to due process and equal protection of law|right to due process]], unless waived.
 - Administrative Remedy - refers to those remedies which may be availed at the administrative/executive level. It also includes summary remedies.
 	- Summary Remedy - refers to those remedies that are executed without ceremony or delay. They are usually done by the government when collecting tax dues against the taxpayer.
-- Judicial Remedy - refers to those remedies which may be availed at the judiciary level. As a general rule, all administrative remedies must be exhausted before a person may avail of a judicial remedy. A judicial remedy may involve a civil case or a criminal case, or both. Note that criminal cases are generally only filed by the government to the taxpayer to a lower court, while civil cases may be filed either by the government or the taxpayer to the [[./Court of Tax Appeals|Court of Tax Appeals]].
+- Judicial Remedy - refers to those remedies which may be availed at the judiciary level. As a general rule, all administrative remedies must be exhausted before a person may avail of a judicial remedy. A judicial remedy may involve a civil case or a criminal case, or both. Note that criminal cases are generally only filed by the government to the taxpayer to a lower court, while civil cases may be filed either by the government or the taxpayer to the [[Court of Tax Appeals|Court of Tax Appeals]].
 
 **Classification of Taxpayers** - This concept is generally applied for provisions amended by the Ease of Paying Taxes (EOPT) Act to the NIRC. The gross sales of the taxpayer is used to determine the classification of a taxpayer:
 
@@ -57,7 +57,7 @@ The following terms are crucial to obtain understanding of this lesson:
 
 Note that the amounts above are exact floors and ceilings amount.
 ## Assessment of Tax Due (incl. disputing)
-The government may assess the tax due of a taxpayer to ensure compliance to tax laws. A taxpayer may be selected for assessment if their business is in a high-risk industry, designated by the [[./Bureau of Internal Revenue|Bureau of Internal Revenue]] as top audit priorities, reported by another individual (for claiming of tax rewards), or programs of the government, such as a Tax Compliance Verification Drive or Tax Mapping.
+The government may assess the tax due of a taxpayer to ensure compliance to tax laws. A taxpayer may be selected for assessment if their business is in a high-risk industry, designated by the [[Bureau of Internal Revenue|Bureau of Internal Revenue]] as top audit priorities, reported by another individual (for claiming of tax rewards), or programs of the government, such as a Tax Compliance Verification Drive or Tax Mapping.
 
 > Note that the BIR always conducts pre-audits of the tax due of a taxpayer. A pre-audit works on the premise that the return filed is assumed to be correct. The BIR then conducts mathematical accuracy in computing the tax paid provided for in the tax return.
 
@@ -65,7 +65,7 @@ The government may assess the tax due of a taxpayer to ensure compliance to tax 
 The Bureau of Internal Revenue is the primary agency responsible for assessing and collecting national taxes. Therefore, it follows that if disputes or controversies relating to the tax due of a taxpayer arises, administrative remedies may be first availed by the government or taxpayer through the BIR. If administrative remedies have been fully exhausted and has reached finality, the taxpayer may then resort to judicial remedies.
 
 #### Letter of Authority
-A [[./Letter of Authority|Letter of Authority]] is a document issued by the BIR to initiate a tax audit or investigation of a taxpayer for national taxes that regularly occur in the ordinary course of business. This letter grants the BIR to examine and scrutinize a taxpayer’s books, records, and other relevant documents for tax compliance. A letter of authority is considered valid if:
+A [[Letter of Authority|Letter of Authority]] is a document issued by the BIR to initiate a tax audit or investigation of a taxpayer for national taxes that regularly occur in the ordinary course of business. This letter grants the BIR to examine and scrutinize a taxpayer’s books, records, and other relevant documents for tax compliance. A letter of authority is considered valid if:
 
 1. It is printed under the electronic Letter of Authority Monitoring System, or eLAMS.
 2. It is served to the taxpayer **30 days** from the date indicated in the letter. 
@@ -88,15 +88,15 @@ A taxpayer may only be subject to tax audit once per taxable year. However, ther
 - If the taxpayer requests for reinvestigation;
 - If it is for the purposes of verifying of withholding tax obligations[^5] or capital gains tax;[^6]
 - If it is exercised for the purposes of the Commissioner’s power to obtain information from third parties in order to corroborate the tax due of another person. This power of the Commissioner allows them to issue the following summons:
-	- *[[./Subpoena duces tecum|Subpoena duces tecum]]* - to compel the procurement of documents. Non-compliance to this subpoena may result to penalties and judicial recourse.
-	- *[[./Subpoena ad testificandum|Subpoena ad testificandum]]* - to summon a taxpayer to provide testimony over a case.
+	- *[[Subpoena duces tecum|Subpoena duces tecum]]* - to compel the procurement of documents. Non-compliance to this subpoena may result to penalties and judicial recourse.
+	- *[[Subpoena ad testificandum|Subpoena ad testificandum]]* - to summon a taxpayer to provide testimony over a case.
 
 Alternatively, a [[Tax Verification Notice|Tax Verification Notice]] may be issued, which has a similar effect to that of a Letter of Authority, but is generally used for one-time transactions (such as Tax arising from an Estate or Donation).
 
 > [!hint]- Letter Notice  
-> A [[./Letter Notice|Letter Notice]] *may* also be given by the Bureau of Internal Revenue prior to the issuance of a letter of authority, notifying the taxpayer that significant discrepancies exist in their system and to those filed by the taxpayer. Note that a Letter Notice is usually given ***before*** a Letter of Authority.
+> A [[Letter Notice|Letter Notice]] *may* also be given by the Bureau of Internal Revenue prior to the issuance of a letter of authority, notifying the taxpayer that significant discrepancies exist in their system and to those filed by the taxpayer. Note that a Letter Notice is usually given ***before*** a Letter of Authority.
 > 
-> Note, also, that a Letter Notice is different to that of a [[./Notice of Discrepancy|Notice of Discrepancy]]. A notice of discrepancy notifies the taxpayer that, *as a result of tax audit*, discrepancies were found by the BIR. A Letter Notice merely informs that discrepancies exist *on BIR’s system* without conducting a tax audit on the books of the taxpayer.
+> Note, also, that a Letter Notice is different to that of a [[Notice of Discrepancy|Notice of Discrepancy]]. A notice of discrepancy notifies the taxpayer that, *as a result of tax audit*, discrepancies were found by the BIR. A Letter Notice merely informs that discrepancies exist *on BIR’s system* without conducting a tax audit on the books of the taxpayer.
 
 #### Notice of Discrepancy[^7]
 The BIR will then issue a Notice of Discrepancy to a taxpayer with deficient tax paid. A Notice of Discrepancy informs the taxpayer that *as a result of tax audit*, discrepancies exist between the tax paid by the taxpayer and the computed tax due by the BIR.
@@ -147,14 +147,14 @@ The taxpayer may either file for a motion/petition for reinvestigation or recons
 
 After the filing of a motion for reconsideration, or the submission of pieces of evidence for a petition for reinvestigation, the BIR has 180 days to evaluate and render a decision on the motion filed. The final decision of the BIR is referred to as the *Final Decision on Disputed Assessment*.
 
-> However, if there is no decision by the BIR during the 180 day period, the taxpayer may either wait for the reply of the BIR *or* proceed to the [[./Court of Tax Appeals|Court of Tax Appeals]] within a period of 30 days (i.e., the FAN, upon lapse of the 180 day period, is logically considered as final, hence, the same time period for the filing of a case to the CTA to that of an FDDA is observed).
+> However, if there is no decision by the BIR during the 180 day period, the taxpayer may either wait for the reply of the BIR *or* proceed to the [[Court of Tax Appeals|Court of Tax Appeals]] within a period of 30 days (i.e., the FAN, upon lapse of the 180 day period, is logically considered as final, hence, the same time period for the filing of a case to the CTA to that of an FDDA is observed).
 > 
 > If the motion is denied by the BIR, they *may* send a Preliminary Correction letter which denies the motion filed by the taxpayer.
 
 #### Final Decision on Disputed Assessment (FDDA)
 The Final Decision on Disputed Assessment is the final decision of the BIR for a taxpayer disputing an assessment made by the BIR in lieu of its tax audits. It also gives rise to the government to collect what is due from the taxpayer. This is the final administrative remedy availed of by a taxpayer for disputing a tax assessment.
 
-The taxpayer has 30 days to file a case to the [[./Court of Tax Appeals|Court of Tax Appeals]] *in division*.
+The taxpayer has 30 days to file a case to the [[Court of Tax Appeals|Court of Tax Appeals]] *in division*.
 
 If the FDDA is issued by a Regional Director (i.e., for micro, small, and medium taxpayers), the taxpayer ==may== elevate the case to the Commissioner of Internal Revenue through the filing of a motion for reconsideration.
 
@@ -168,9 +168,9 @@ If the FDDA is issued by a Regional Director (i.e., for micro, small, and medium
 
 #### Judicial Remedies
 Judicial remedies may be availed by the taxpayer if all administrative remedies were already exhausted by the taxpayer and an administrative decision has reached finality. The process are as follow:
-- Filing of a case to the [[./Court of Tax Appeals|Court of Tax Appeals]] *in division*, through a motion/petition for reconsideration.
+- Filing of a case to the [[Court of Tax Appeals|Court of Tax Appeals]] *in division*, through a motion/petition for reconsideration.
 - Filing of a case to the CTA *en banc*, through a motion/petition for review.
-- Filing of a case to the [[./Supreme Court|Supreme Court]] *in division*, through a motion/petition for reconsideration.
+- Filing of a case to the [[Supreme Court|Supreme Court]] *in division*, through a motion/petition for reconsideration.
 - Filing of a case to the SC *en banc*, through a motion/petition for review.
 
 Note that after a decision by the Court of Tax Appeals, whether in division or en banc, or of the Supreme Court in division, is rendered, the taxpayer generally has 15 days[^12] to to file another case to the next level of the judiciary.
@@ -211,14 +211,14 @@ In coercively collecting the tax due against a taxpayer, due process must still 
 
 The BIR issues a Warrant of Distraint or a Warrant of Levy again and again for as long as there are tax debts against the taxpayer.
 
-The taxpayer may also avail of compromises to minimize the amount of taxes to be paid to the government. Also see: [[./Escapes from Taxation#Compromise and Abatement|Escapes from Taxation > Compromise and Abatement]]
+The taxpayer may also avail of compromises to minimize the amount of taxes to be paid to the government. Also see: [[Escapes from Taxation#Compromise and Abatement|Escapes from Taxation > Compromise and Abatement]]
 
 ## Recovery of Erroneously Paid Taxes: National
 A taxpayer may also recover erroneously paid taxes to the government.
 
 A taxpayer, **2 years from the date of payment of tax due**, or in case of instalment payments of taxes due, the last day of an instalment payment, may avail of the remedy of recovering erroneously paid taxes to the BIR thru the filing of a *Claim for Refund or Credit*.
 
-The taxpayer may file a petition for review to the CTA if the BIR does not reply to the claim for refund within the same period of 2 years, or if the BIR denies the claim for refund within 30 days (but still within the 2 year period). The judicial remedies for this type of remedy is similar to that of the [[Tax Remedies (Initial Synthesis)#Judicial Remedies|Judicial Remedies]] provided for for disputing tax assessments.
+The taxpayer may file a petition for review to the CTA if the BIR does not reply to the claim for refund within the same period of 2 years, or if the BIR denies the claim for refund within 30 days (but still within the 2 year period). The judicial remedies for this type of remedy is similar to that of the [[#Judicial Remedies| > Judicial Remedies]] provided for for disputing tax assessments.
 
 ## Inbox
 Inability to pay compromise (10%) can be availed of after availment of judicial remedies. However, for doubtful validity (40%), it can only be availed during the administrative remedies stage.
@@ -226,11 +226,11 @@ Inability to pay compromise (10%) can be availed of after availment of judicial 
 If year is divisible by four, it is a leap year.
 
 ---
-Also view [[./Tax Remedies (Draft)|draft]] for this note.
+Also view [[Tax Remedies (Draft)|draft]] for this note.
 
 [^1]: [General Concepts for Tax Remedies - Respicio & Co.](https://www.respicio.ph/bar/2025/mercantile-and-taxation-laws/taxation-law/national-internal-revenue-code-of-1997-nirc-as/tax-remedies/general-concepts)
 [^2]: [Modes of serving an eLA - DivinaLaw](https://www.divinalaw.com/dose-of-law/modes-of-serving-an-electronic-letter-of-authority)
-[^3]: The documents relevant for a taxable transaction is assumed to be stored in the office of the business, or shall have not left the same. If the taxpayer was not able to provide, the BIR will send a second request for the documents required. However, if still unable, a *[[./Subpoena duces tecum|Subpoena duces tecum]]* will be issued against the taxpayer. Non-compliance to the subpoena will result to a criminal case filed against the taxpayer, notwithstanding the procedures for tax audit by the BIR (it will still push through).
+[^3]: The documents relevant for a taxable transaction is assumed to be stored in the office of the business, or shall have not left the same. If the taxpayer was not able to provide, the BIR will send a second request for the documents required. However, if still unable, a *[[Subpoena duces tecum|Subpoena duces tecum]]* will be issued against the taxpayer. Non-compliance to the subpoena will result to a criminal case filed against the taxpayer, notwithstanding the procedures for tax audit by the BIR (it will still push through).
 [^4]: The term *super large* is not a valid legal classification, but an informal one. This term was mentioned in REO Pre-recorded videos under Batch 9.
 [^5]: A Letter of Authority for conducting a tax audit for withholding tax obligations may be done multiple times in a year.
 [^6]: A Notice Verification for conducting a tax audit of capital gains tax may be done multiple times in a year since CGT are one-time transactions but may occur multiple times in a year.
