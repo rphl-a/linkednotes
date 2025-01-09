@@ -1,4 +1,4 @@
-Distraint, when referred to the topic of [[./Collection of taxes|Collection of taxes]], refers to the seizure of a taxpayer’s personal properties to settle the latter’s delinquent tax due to the government.
+Distraint, when referred to the topic of [[Collection of taxes|Collection of taxes]], refers to the seizure of a taxpayer’s personal properties to settle the latter’s delinquent tax due to the government.
 
 There are two methods for distraint:
 - **Constructive distraint**, in which the person in possession of personal property is made to sign a receipt stating that it shall be preserved and not be disposed or transferred to anyone. Essentially, the *freezing* of a personal property;
