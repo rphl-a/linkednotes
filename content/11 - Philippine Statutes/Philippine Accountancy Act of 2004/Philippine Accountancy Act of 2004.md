@@ -21,7 +21,7 @@ Its declaration of policy read:
 
 > The State recognizes the importance of accountants in nation building and development Hence, it shall develop and nurture competent, virtuous, productive and well rounded professional accountants whose standards of practice and service shall be excellent, qualitative, world class and globally competitive through inviolable, honest, effective, and credible licensure examinations and through regulatory measures, programs and that foster their professional growth and development.
 
-The lead agency for this law is the [[./Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[../Administrative Code of 1987/Supervision and control|control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
+The lead agency for this law is the [[Professional Regulatory Board of Accountancy|Professional Regulatory Board of Accountancy]] under the [[Supervision and control|control]] of the [[Professional Regulation Commission|Professional Regulation Commission]].
 ## Digest
 | Case Number | Title |
 | ----------- | ----- |
