@@ -1,4 +1,4 @@
-![[./Taxation Characterized#^a84000|Taxation Characterized > ^a84000]]
+![[Taxation Characterized#^a84000|Taxation Characterized]]
 
 ## As to purpose
 Primarily, taxes are **fiscal** by nature- used to raise revenues for the government. However, it may also be regulatory by **nature**- used to regulate certain activities and compensate for social costs associated with certain behaviours and industries.
@@ -9,7 +9,7 @@ The subject matter of taxation refers to the object of taxation- of *what* is be
 - Property. Tax is imposed on the location of the property.
 - Excise or privilege. Tax is imposed in the performance of an act, or of an enjoyment of privilege, or of an occupation.
 
-This concept is similar to the [[./Taxation Characterized#Situs of Taxation|Situs of Taxation]] in that it refers to the location of the economic activity that is being taxed.
+This concept is similar to the [[Taxation Characterized#Situs of Taxation|Situs of Taxation]] in that it refers to the location of the economic activity that is being taxed.
 ## As to incidence
 The incidence of tax asks on *who* is being taxed by the law. It also refers to the division of tax burden between the stakeholders, generally between the sellers/producers and buyers/consumers.
 
@@ -26,7 +26,7 @@ There are two tax incidence recognized:
 > 
 > I think this is the only differentiating factor between *indirect incidence* and the topic of *Tax vs debt*, especially when specific on its assignability. But then again, what is the difference between *shifting* and *assigning*?
 > 
-> Related to query at hand: [[./Tax compared against similar items|Tax compared against similar items]]
+> Related to query at hand: [[Tax compared against similar items|Tax compared against similar items]]
 > 
 > > [!danger]- Potential answer?  
 > > Maybe, tax cannot be *generally* assigned to other people, with the exception of some tax classifications such as Value Added Tax (VAT)?
@@ -41,9 +41,9 @@ Taxes may be classified as to their rates:
 - Mixed rates.
 ## As to imposing authority
 Taxes may be classified either as a national or a local tax:  
-![[./national tax|national tax]]  
-![[./local tax|local tax]]
+![[national tax|national tax]]  
+![[local tax|local tax]]
 
-Also read: [[./Philippine Tax Agencies|Philippine Tax Agencies]]
+Also read: [[Philippine Tax Agencies|Philippine Tax Agencies]]
 
-[^1]: The Philippine Constitution encourages the Congress to evolve a progressive system of taxation, ==but not necessarily limited to progressive taxes==. Also read: [[./Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]]
+[^1]: The Philippine Constitution encourages the Congress to evolve a progressive system of taxation, ==but not necessarily limited to progressive taxes==. Also read: [[Uniformity and Progressive System of Taxation|Uniformity and Progressive System of Taxation]]
