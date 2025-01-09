@@ -14,7 +14,7 @@ tags:
 ## Introduction
 International Accounting Standard No. 01 *Presentation of Financial Statements* presents the basis for presentation of [[General purpose financial statements|General purpose financial statements]] to ensure comparability both with the entity’s financial statements of previous periods and with the financial statements of other entities. It sets out the overall requirements for the presentation of financial statements, guidelines for their structure and minimum requirements for their content.
 
-[[./Attachments/ias-1-presentation-of-financial-statements.pdf|IAS No. 01 provisions]]
+[[ias-1-presentation-of-financial-statements.pdf|IAS No. 01 provisions]]
 
 ## Digest
 | Case Number | Title |
