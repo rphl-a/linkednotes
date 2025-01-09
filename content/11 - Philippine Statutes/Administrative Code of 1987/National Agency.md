@@ -6,4 +6,4 @@ tags: term
 
 refers to a unit of the National Government
 
-Also view: [[./Administrative Code of 1987|Administrative Code of 1987]].
+Also view: [[Administrative Code of 1987|Administrative Code of 1987]].
