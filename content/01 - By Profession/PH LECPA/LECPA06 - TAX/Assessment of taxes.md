@@ -55,7 +55,7 @@ The process for judicial remedies are as follow:
 
 The BIR, upon decision of a judicial case (and upon finality) shall collect the taxes due within a period of **3 years** upon finality of a judicial case.
 
-[^1]: Explained simply, all administrative actions by the government shall be within the prescriptive period up until the issuance of a [[Formal Letter of Demand|Formal Letter of Demand]]. If the BIR issues an FLD 3 years and 1 day after the deadline or filing of tax return, whichever is late, such FLD becomes void, unless the taxpayer, by its own volition, signs a [[Waiver of the Defence of Prescription|Waiver of the Defence of Prescription]] as a public document.
+[^1]: Explained simply, all administrative actions by the government shall be within the prescriptive period up until the issuance of a [[Final Assessment Notice|Final Assessment Notice]]. If the BIR issues an FLD 3 years and 1 day after the deadline or filing of tax return, whichever is late, such FLD becomes void, unless the taxpayer, by its own volition, signs a [[Waiver of the Defence of Prescription|Waiver of the Defence of Prescription]] as a public document.
 [^2]: Note that all filed tax returns to the BIR is checked for mathematical accuracy regardless if there is a Letter of Authority issued by the BIR or not. This is a pre-audit task of the BIR, and not an actual tax audit.
 [^3]: However, for one-time special transactions, a [[Tax Verification Notice|Tax Verification Notice]] is used.
 [^4]: A letter of authority may be revalidated/extended based on the classification of a taxpayer. In the case of micro, small, and medium taxpayers, it may only be revalidated once. In the case of large taxpayers, it may be revalidated twice.
