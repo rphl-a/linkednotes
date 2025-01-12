@@ -1,5 +1,5 @@
 ---
-title: TAX-01 - Principles of Taxation - Synthesis
+title: 
 tags: 
 ---
 
@@ -8,6 +8,7 @@ Tax is an [[Philippine Tax Agencies|enforced]] [[Classification of taxes|proport
 This note synthesis covers the following materials:
 - TAX01 - Principles of Taxation (REO HOs, B9)
 - TAX02 - Taxes, Laws and Administration (REO HOs, B9)
+- Income Taxation, by Tabag and Garcia (2021 ed.)
 - Transfer and Business Taxation, by Tabag and Garcia (2021 ed.)
 ## Available Modules
 - [[Introduction to the Philippine Constitution|Introduction to the Philippine Constitution]]
