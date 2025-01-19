@@ -1,0 +1,53 @@
+A taxpayer, as amended by the [[Ease of Paying Taxes Act|Ease of Paying Taxes Act]], is classified based on their gross sales amount:
+- **Micro taxpayer**, below 3 million;
+- **Small taxpayer**, below 20 million;
+- **Medium taxpayer**, below 1 billion; and
+- **Large taxpayer**, 1 billion and up.
+
+Retrieved from [[Fundamentals of Income Taxation (Draft)|Fundamentals of Income Taxation (Draft)]]:
+- Venue of Filing is dependent on taxpayer’s classification
+	- Micro-, small-, and medium-taxpayers → within 0 to 999M (also see: taxpayer’s remedies topic) → file at RDO. At any RDO, by effectivity of EOPT
+		- Methods:
+			- Manual → manual encode, onsite filing, manual payment
+			- e-BIR Forms → auto encode, electronic filing, manual payment (online and offline payments)
+			- electronic Filing and Payment system → electronic encode (online only), online filing, auto payment (online)
+	- Large taxpayers → Directly to the BIR large taxpayers service division national office *or something*
+		- Method: strictly eFPS only.
+	- Remember: parent and subsidiaries are two separate entities.
+	- Large taxpayers:
+		- Taxpayments:
+			- VAT
+			- Income
+			- Excise
+			- Withholding (any)
+			- If Income, Excise, or Withholding exceeds 1M, you are already considered Large
+			- If VAT, 200K quarterly limit excess
+			- [ ] Further research
+		- Financials
+			- Sales/Revenues → exceeds 1B
+			- Purchases → exceeds 800M
+			- Net worth → exceeds 300M
+		- Others
+	- Make payments to:
+		- Authorized agent bank
+		- Revenue District Officer
+		- Collection Agent
+		- Duly authorized Treasurer of the city or municipality where the taxpayer has legal residence or principal place of business
+		- Office of the Commissioner (if no legal residence or place of business)
+	- Payments of income tax:
+		- Regular income tax → outright (lump-sum) or instalment for individual, outright only for corporate taxpayers
+			- Individual instalment→ Tax due exceeds 2K
+			- Individual Lump sump: 2K and below of tax due
+		- Capital gains tax → outright or instalment for individual and corporate
+			- Instalment anytime, with certain criteria
+	- Determining non-compliance with tax obligations
+		- Lifestyle check
+		- Inventory surveillance
+		- Mystery shopping
+		- Networth method (uses SALN)
+			- Possible gross income = Personal expenditures + Change in networth
+				- Change in networth = Delta between networth for a particular year
+				- Possible gross income is generally taxable, except if:
+					- It is excluded by law, treaty, public policy from taxation
+					- Result from additional investment
+					- Is not income for tax purposes (i.e., does not meet the three characteristics of gross income)
