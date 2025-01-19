@@ -1,4 +1,4 @@
-The following are the filing deadlines for Philippine National Internal Revenue Taxes:
+(Generally,) The following are the filing deadlines for Philippine National Internal Revenue Taxes:
 
 | Tax                        | Filing Deadline                                                                                                                    |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |

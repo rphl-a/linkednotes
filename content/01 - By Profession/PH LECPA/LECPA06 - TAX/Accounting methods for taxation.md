@@ -1,0 +1,79 @@
+- Accounting methods (1h 51m) ==SYNTHESIS STILL DRAFT==
+	- Accounting methods are techniques used to measure a taxpayer’s income.
+	- Almost similar to cash and accrual basis of FAR/GAAP. However, there are two important modifications because of principles by which tax is grounded to:
+		- **Advanced Income is taxable upon receipt**. This is most applicable for service income.
+			- For goods and properties, the taxable event is the consummation of sale.
+			- Based on lifeblood doctrine- the faster the govt collects tax, the better.
+		- **Prepayments are non-deductible**. Prepaid expenses are non-deductible for tax purposes.
+			- Because if expenses are taxed when they are to occur in a period later, then tax for current year will be understated (since higher expense). Understatement of tax results to delay of payment of tax owed by the taxpayer to the government. This is also consistent with the lifeblood doctrine.
+	- Principal, or *most common*, methods:
+		- Cash basis
+			- Cash basis net income, FAR
+			- Deduct: Prepaid expenses, beginning
+			- Add: Prepaid expenses, ending
+			- Total: Cash basis net income, tax purposes
+		- Accrual basis
+			- Accrual net income, FAR
+			- Deduct: Advance income, beginning
+			- Add: Advance income, ending
+			- Total: Accrual net income, tax purposes
+		- Hybrid method → combination of cash and accrual basis, or any other accounting methods.
+			- Example: two businesses using two separate accounting methods. The income resulting from cash and accrual basis is merely added together to come up with the taxable income of a taxpayer.
+		- **See HOs answer, Nos. 08 and 09**
+	- Deferred Payment Sales
+		- Instalment method → if payments are made over long periods of time
+			- Primarily used in the following cases only:
+				- Sale of personal property by dealer (can use instalment method anytime)
+					- Personal property being sold is within the industry or actual items sold by such dealer in their profession. They are called as *dealers*. If not, then *non-dealers*.
+				- Casual sale of personal property where:
+					- Initial payment does not exceed 25% of selling price
+					- Selling price is over 1K
+					- Property is of a kind which would be included in the taxpayer’s inventory if on hand at the close of taxable year
+				- Sale of real property where the initial payment does not exceed 25% of the selling price
+				- Initial payment → down payment and instalments in the accounting period of the year of sale. *Repeating topic*
+			- Generally, instalment amount collected over selling price (i.e., percentage of collected amount over total selling price) multiplied by gross income. Ex.:
+				- Selling price 4K
+				- COS is 3K
+				- GP is 1K
+				- Instalment collection over years:
+					- 1K for Y1 = (1K/4K) * 1K
+					- 2K for Y2 = (2K/4K) * 1K
+					- 1K for Y3 = (1K/4K) * 1K
+					- (Collection/SP) * GP
+			- While already removed in FAR, it is still operative in PH tax *but not preferred or least preferred*.
+		- Deferred payment basis → basically, *discounting* on notes using the concept of present value (i.e., cash value + fair value of notes) less residual income. Primarily used if instalment method is not available.
+		- See table 3
+	- Long-term construction contracts (same as AFAR)
+		- Percentage of completion method (architect or engineer certification is required)
+		- Completed contract basis
+	- Farming income
+		- Animals → cash basis or accrual basis
+			- Cash basis
+			- Accrual basis
+		- Crops → depending on the duration of crops
+			- Short-term crops → cash or accrual basis
+				- Ex.: palay, mais, monggo, peanuts
+			- Long-term crops → 
+				- Perennial crops (bananas, coconuts)
+					- During development years of crop, capitalized
+					- During harvest years of crop, amortized over the year of the crop
+				- Non-perennial crops
+					- Use crop year basis (*it is not an accounting period*, but an accounting method to measure income)
+						- All expenses during development years is deducted upon harvest.
+	- Leasehold improvement → improvements in land that are left to the lessor if the lessee leaves.
+		- Outright method → cost of the improvement (upon completion) is recognized as income
+		- Spread-out method → residual value of the improvement, divided over remaining lease term. Example:
+			- Useful life: 20 years
+			- Lease term: 15 yrs
+			- Construction: 2 years
+			- Actual usable lease term: 13 years
+			- 7 years by lessor/20 years total useful life
+			- However, some contract lease may count their lease term upon completion of the improvement in the land/lot.
+		- **See HO Excel (see Desktop as inbox)** ==(**1:28:43 ENDPOINT)**==
+		- Gain on pre-termination:
+			- Outright → no gain, since income is already recognized on Y1
+			- Spread-out method → remaining portion 
+		- Deductible loss (upon destruction of improvement)
+			- Book value at the time it was destroyed will be recorded
+		- [ ] **TODO**: Excel method
+		- 

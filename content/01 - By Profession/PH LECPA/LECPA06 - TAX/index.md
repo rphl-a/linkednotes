@@ -7,7 +7,10 @@ aliases:
 ## Note Synthesis
 - [[Fundamental Principles of Taxation|Fundamental Principles of Taxation]]
 - [[national tax|National Tax]]
-	- [[Income Taxation|Income Taxation]]
+	- [[Income Tax|Income Tax]], which is further classified into:
+		- [[Final Income Tax|Final Income Tax]], levied on certain passive income.
+		- [[Capital Gains Tax|Capital Gains Tax]], levied on certain active income.
+		- [[Regular Income Tax|Regular Income Tax]]; levied to passive and active income not subjected to final tax.
 - [[local tax|Local Tax]]
 - [[Tax Remedies|Tax Remedies]]
 ## Video Lectures
@@ -15,7 +18,6 @@ aliases:
 - [[Taxes, Laws and Administration (Draft)|Taxes, Laws and Administration (Draft)]]
 - [[Fundamentals of Income Taxation (Draft)|Fundamentals of Income Taxation (Draft)]]
 - [[Final Income Taxation (Draft)|Final Income Taxation (Draft)]]
-- [[Income Taxation –Final Withholding Tax Table (Draft)|Income Taxation –Final Withholding Tax Table (Draft)]]
 - [[Capital Gains Taxation (Draft)|Capital Gains Taxation (Draft)]]
 - [[Regular Income Taxation (Draft)|Regular Income Taxation (Draft)]]
 - [[Compensation Income (Draft)|Compensation Income (Draft)]]

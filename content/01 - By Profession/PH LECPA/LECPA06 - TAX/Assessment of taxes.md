@@ -19,6 +19,8 @@ A taxpayer, as amended by the [[Ease of Paying Taxes Act|Ease of Paying Taxes Ac
 - **Medium taxpayer**, below 1 billion; and
 - **Large taxpayer**, 1 billion and up.
 
+Also see: [[Classification of taxpayers according to EOPT|Classification of taxpayers according to EOPT]]
+
 Based on their classification, assessment cases involving micro, small, and medium taxpayers are handled by a [[Revenue District Office|Revenue District Office]] signed by a Regional Director, while large taxpayers are handled by the Large Taxpayer Service Audit Division (LTSAD) signed by the Assistant Commissioner. 
 
 However, in some special cases, the national office, or a special investigation division therein, may investigate large taxpayers that are of significant concern. These operate directly under the Office of the Commissioner.
