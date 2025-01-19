@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
   Component.Comments({
-    provider: 'giscus',
+    provider: 'null',
     options: {
       // from data-repo
       repo: 'rphl-a/linkednotes',
