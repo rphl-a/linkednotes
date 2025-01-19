@@ -1,4 +1,7 @@
 
+BLABLA…  
+(insert ko lang here kasi akala ni Obsidian YAML T_T)
+
 ---
 Portion retrieved from [[Fundamentals of Income Taxation (Draft)|Fundamentals of Income Taxation (Draft)]]:
 - The allocation of manufacturing income is governed by the ==transfer pricing== regulation which mandates measurement of revenue or costs between affiliated enterprises at ==arm’s length price==
