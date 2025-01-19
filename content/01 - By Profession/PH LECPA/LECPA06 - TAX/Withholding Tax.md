@@ -1,0 +1,15 @@
+Retrieved from [[Fundamentals of Income Taxation (Draft)|Fundamentals of Income Taxation (Draft)]]:
+- Withholding tax returns -> return about pre-deducted taxes against income of other persons
+	- Withholding tax on compensation → use the graduated income tax table
+	- Final withholding tax → received by recipients for sources of income that are passive by nature.
+	- Expanded withholding tax → certain line items of regular income other than compensation. They are active or passive income by nature. Examples include rent and professional fees. *For creditable withholding tax*.
+	- Types:
+		- Final tax → what is pre-deducted is the final income of said recipient. *Did not file consolidated return*. They are non-creditable.
+		- Creditable withholding tax → the tax pre-deducted is merely an estimate. The taxpayer has to consolidate all their income, compute tax due, and deduct those withholding tax. The residual balance is the withholding tax payable.
+			- Two types:
+				- Withholding tax on compensation
+				- Expanded withholding tax
+		- Tax overpayment (negative) or tax payable (if positive)
+	- The BIR also requires the filing of information returns. Example include the income gained by a general professional partnership (non-taxable). Used to determine the correctness the filing paid by individual taxpayers. Non-compliance will result to PHP 1,000 penalty (up to maximum of PHP 25,000).
+	- Penalties are the same as that of penalties and surcharge for income tax returns.
+	- Laging may withholding tax returns, even if tax-exempt, because of allowances provided for to employees.
