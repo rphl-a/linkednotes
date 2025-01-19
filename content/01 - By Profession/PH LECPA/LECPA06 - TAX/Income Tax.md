@@ -55,7 +55,7 @@ Corporations can choose either calendar or fiscal years. However, individuals ma
 
 However, there are some instances wherein an accounting period for tax purposes may be shorter than 12 months. Examples include the death of a taxpayer, the establishment or cessation of a business, the change of accounting period by a corporation, or the termination of accounting period by the Commissioner of Internal Revenue.[^8]
 
-> Retrieved from [[Filing Deadlines for National Taxes|Filing Deadlines for National Taxes]]: ![[Filing Deadlines for National Taxes|Filing Deadlines for National Taxes]]
+![[Filing Deadlines for National Taxes|Filing Deadlines for National Taxes]]
 
 Relevant: [[BIR Forms used in National Taxes|BIR Forms used in National Taxes]]
 ## Situs of income
