@@ -1,0 +1,219 @@
+---
+title: 
+tags:
+  - draft
+  - private
+date-held: ""
+speaker-list: 
+synthesis: true
+draft: true
+---
+
+## Preliminaries
+- Introduction
+	- Major changes (preliminaries section):
+		- Final tax on non-resident foreign corporation
+			- Previous 30%, now 25% (now same as individual NRANETB)
+			- Interest income from long-term deposits → Corporation domestic and resident should be 20% *and not RIT*.
+				- Deposit long-term substitutes applied to non-bank are subject to RIT instead.
+			- Dividends from domestic corp → Domestic corp or resident foreign corp exempt
+				- Non-resident FC, previously 30%, now 25%.
+				- Tax sparring credit → portion waved by the PH Govt of recipient of domestic dividend. Provided that the country of the NRFC will also waive 10%.
+				- If applied, it will be 15%.
+
+## Notes
+- Introduction (36m) ==DONE==
+	- Gross Income is subjected either to:
+		- Final Income Taxation (is an exception; certain passive income is only subject to FIT)
+		- Capital Gains Tax (is an exception; certain capital gains is only subject to CGT)
+		- Regular Income Tax (general rule; most of income are subject to RIT)
+	- Based on the following classifications:
+		- Individual
+		- Corporation
+	- Discussion would be discussion of FIT against Individual and Corporation taxpayers simultaneously.
+	- If already taxed or exempted under FIT/CGT, then it is no longer covered under RIT.
+	- Features of final income tax:
+		- Withholding at source → the one withholding the income is the one who will pay the tax to the government. Hypothetical example: 20% employer salaries to employee; 20% is remitted by the employer to the government.
+		- What is deducted at source is *final tax*. Meaning, the deducted amount is the complete/full tax remitted to the BIR. Yun na ‘yon, wala nang iba pa. *Withholding of complete taxes*.
+			- Final tax vs Creditable withholding tax
+				- Final tax is complete; creditable can be, y’know, credited. It is merely an estimate of the tax due by a taxpayer.
+				- Creditable withholding tax are present under Regular Income Tax.
+		- Requires no filing of an income tax return.
+		- It is applied only on **==certain==** passive income
+			- “Passive” income → not actively participating to earn income. Examples include dividend and rent income.
+			- Passive vs active income → Active income three primary types:
+				- Compensation → under employer-employee relationship
+				- Business income
+				- Professional income
+				- Passive income are hard to monitor because they arise from incidental (or side hustle) transactions. Hence, they are subjected to final tax.
+				- Active income is self-reporting, and requires reporting to the BIR (or filing)
+		- Employed on certain non-residents:
+			- NRA-NETB → 25% for active/passive
+			- NRFC → 25% for active/passive
+			- Passive or active income by these entities may only be subjected to final income tax.
+			- Philippine residents are the ones who pays to the BIR (i.e., withheld at source) for these entities.
+			- All else, subject to RIT.
+		- Remitted quarterly, but with monthly estimated remittances.
+		- Territorial/Jurisdictional
+			- Withholding at source is allowed only if the source of income is within the Philippines.
+			- Ex.: interest income from banks. Only banks located in PH are subject to income tax.
+				- Ex.: RC w/ PH bank and HK bank. PH Bank is subject to FIT, while HK bank is subject to RIT.
+	- List of income subject to FIT:
+		- Interest income from **banks**
+			- Two kinds:
+				- Philippine peso, or
+					- Short-term deposit → < 5 years (I: 20%; C: 20%)
+						- NRANETB and NRFC → 25%
+					- Long-term deposit → ≥ 5 years (I: EXMP; C: 20%)
+						- Exception to exemption: pre-termination of long-term deposit or investment
+						- < 3 years → 20%
+						- < 4 years → 12%
+						- < 5 years → 5%
+						- ≥ 5 years → exempt; considered already as long-term deposit
+					- Pre-termination of long-term deposits:
+				- Any foreign currency (FCDU → Foreign Currency Deposit Unit) (OBU → Offshore banking unit)
+					- Resident (I: 15%; C: 15%)
+					- Non-resident (I: EXMPT; C: EXMPT)
+		- Dividend income
+			- Dividends from domestic corporations
+				- Domestic corporation → incorporated by PH laws
+				- Dividends, as used in this context, refer to distribution of profits. It is different from an undistributed profit. Undistributed profits are referred as Retained Earnings or Accum. Profits
+					- ~~Liquidation dividends~~ not included
+						- Subject to capital loss or ordinary gain (to be discussed in the near future)
+					- Foreign dividends → subject to regular income tax
+				- Recipients:
+					- Individual: 10%
+						- Exception: NRANETB: 25%
+						- Exception: NRAETB: 20% (for domestic corporations)
+					- Corporation: Exempt
+						- Exception: NRFC: 25%*
+							- From domestic corporations → may also be subject to tax sparring rule
+							- - may be 15%; reduced 10% thru tax sparring
+								- Tax sparring → the country to which the non resident foreign corporation is a domestic corporation should not get 10% of the tax to domestic corporations residing on that country was well. i.e., 10% reduce here if your country reduce 10% as well.
+				- Taxable: cash, property, and scrip dividends
+					- Stock dividends are not considered as distribution of profits. It will not change your ownership of a company.
+						- Exemption: stock in lieu of cash (both the cash and the property dividend are taxable)
+							- [ ] **TODO**: Further research
+					- Property and scrip dividends treatment:
+						- Ex.: 1M property value (taxed already)
+							- (1M / 90%) x 10% (*this should be the proper way of computing it*)
+							- [ ] Variations may occur. Check TABAG book.
+				- Remittance tax
+					- RFC → NRFC: 15%
+					- DC → NRFC: 25%*
+						- Subject to tax sparring
+							- Not automatic. Applied by governments.
+							- Actual tax sparring credit is 10% (under CREATE law).
+				- Business partnership/joint ventures are juridical entities. Shares in net income as subject of tax:
+					- Joint ventures engaged in construction, or engaged in oil exploration → non-taxable (not included under this topic). General professional partnership also not included herein.
+					- BPs and JVs are considered as corporations under NIRC because they are juridical entities.
+						- Net Income After Tax. Taxed similar to that of a corporation.
+						- Subject to 25% corporate income tax. Also subject to minimum corporate income tax.
+					- Tax treatment:
+						- BP/JV to Individual: 10% FIT
+							- Whether distributed (actually received) or undistributed (constructively received; charged to capital accounts of partners) profits.
+						- BP/JV to Corporation: Majority is *exempt*.
+							- However, there is no express legal exemption in the NIRC.
+								- Sir Rex: subject to RIT.
+					- Partnership:
+						- Salary, Interest, Bonus, and Residual profits should all be taxed at 10% since they are merely methods of dividing profits among the partners.
+							- Exemption: if salary, interest, and bonus are expensed in the books of the partnership, and subjected to withholding tax, then only the residual values should be subject to FIT. SIB are subject to RIT of the receiving partner instead.
+			- Dividends from foreign corporations
+				- Pre-dominance test (ilan ang within and without)
+					- Used for NRC, RA
+				- Treatment:
+					- Individual: Regular Income Tax
+					- Corporation:
+						- Domestic: Exempt, provided:
+							- ≥ 50% → exempt
+							- < 50% → conditional exemption:
+								- At least 20% ownership (domestic)
+								- At least 2 years held
+							- If pre-dominance ratio not provided, then subject to regular income tax
+						- Resident Foreign → RIT
+						- Non-resident Foreign → 25%
+			- Handouts:
+				- Dividends, then domestic corporation issuer, 100%
+				- Pre-dominance test → 60%
+					- 60% denotes 60% ownership within
+				- Tax exemption shall be express (i.e., non-exemption of profits/dividends for partnerships and JVs)
+				- [ ] **TODO**: No. 10: Which one is better?
+		- Royalty
+			- Passive → FIT
+				- Books/Musical Composition/Literary Works
+					- Individual: 10%
+					- Corporation: 20%
+				- General
+					- Individual: 20%
+					- Corporation: 20%
+			- Active - RIT
+		- Prizes (resulting from effort)
+			- Awards (with titles) → exempt
+			- Sports competitions:
+				- If game is organized by an accredited organization, or by the PH Sports Commission accredited → exempt
+				- Non-sport, or not accredited: taxable
+					- 10K and below
+						- Individual: RIT
+						- Corporation: RIT
+					- 10K above
+						- Individual → 20%
+						- Corporation: RIT
+		- Winnings (dependent on chance transaction)
+			- PCSO and lotto winnings (per ticket)
+				- 10K and below
+					- Individual: Exempt
+					- Corporation: Exempt
+					- “Up to” → 10K exempt;
+					- “Amounting to” → if exceed threshold, no longer applicable
+				- 10K above
+					- Individual: 20%
+					- Corporation: 20%
+						- Contested in the academe. It is unusual for a juridical entity to engage in betting/gain winnings. Some materials: **N/A**
+			- General winnings:
+				- Any amount
+					- Individual: 20%
+					- Corporation: RIT
+		- Tax Informer’s reward
+			- 10% regardless of taxpayer (see criteria below; whichever is lower):
+				- 10% of revenues, surcharges, or fees recovered and or fine or penalty imposed **and collected** (or 10% of recovered tax), or
+				- PHP 1M
+			- Conditions:
+				- Should not be government employee
+				- Not related to government up to sixth degree (or second cousin)
+		- Fringe benefits of managerial/supervisory employees
+			- Three types of employees:
+				- Managerial
+				- Supervisorial
+				- Rank and File
+			- If received by Managerial or Supervisorial → 35% FIT, grossed by 65% (discussed later on)
+			- If received by rank and file → subject to RIT rules
+			- Fringe benefits → received by employer other than compensation.
+		- Others (remote; unusual)
+			- Interest payments to FDCUs/OBUs → 15% (see table)
+			- Tax-free covenant bonds → assumed by the company; 30%, the one who assumes is the borrowee corporation.
+			- Petroleum service contractors → 8%
+- Interest Income (43m) (see above discussion) ==DONE==
+- Dividend Income (1h 17m) ==DONE==
+- Royalty, Prizes, Winnings, and Informer’s Reward (27m) ==DONE==
+- Drill Continuation (38m) ==DONE==
+	- No. 16
+		- Resident: 10% (Drawing)
+- Additional: reporting to government for Final Income Taxes
+	- Compliance is monthly, monthly, and quarterly
+		- M1 → Form 0619F (deadline: 10 days after EOM)
+		- M2 → Form 0619F (deadline: 10 days after EOM)
+		- Q → Form 1601-FQ (last day of M+1 of current M_n)
+			- Summary of M1, M2, and M3
+			- Payment is made on Q/M3
+			- Three types (still using 0619-F):
+				- 1601-FQ → All others
+				- 1602-Q → Interest
+				- 1603-Q → Fringe Benefits Tax
+		- *A* → Form 1604-F (before January 31 next year)
+			- “Annual information return”
+- [ ] **TODO**: Word file, then isalpak sa pader.
+
+## Questions and Thoughts
+…
+
+Also view [[Final Income Taxation (Draft) - Synthesis|synthesis note]]
